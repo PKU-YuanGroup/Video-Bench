@@ -1,7 +1,13 @@
-# Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models
-[Arxiv](https://arxiv.org/abs/2307.16125)
 
- <img src="https://github.com/AILab-CVC/SEED-Bench/blob/main/figs/seed-bench.png" width = "600"  alt="图片名称" align=center />
+[Arxiv](https://arxiv.org/abs/2307.16125)
+<p align="center">
+    <img src="https://z1.ax1x.com/2023/11/07/pil4sqH.png" width="150" style="margin-bottom: 0.2;"/>
+<p>
+<h2 align="center"> <a href="https://arxiv.org/abs/2311.10122">Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models</a></h2>
+<!-- <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2> -->
+
+
+
  
  SEED-Bench consists of 19K multiple-choice questions with accurate human annotations, covering 12 evaluation dimensions
 including both the spatial and temporal understanding.
