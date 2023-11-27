@@ -10,13 +10,14 @@
  
  SEED-Bench consists of 19K multiple-choice questions with accurate human annotations, covering 12 evaluation dimensions
 including both the spatial and temporal understanding.
+
 ## News
 **[2023.11.27]** SEED-Bench is released! Data and evaluation code is available now.
 
 ## Leaderboard
 Welcome to [Video_Benchmark Leaderboard](https://github.com/munanning/Video_Benchmark)!
 
-### Evaluation
+## Evaluation
 
 The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named 'Eval/{dataset_name}.json'. 
 
@@ -108,6 +109,7 @@ import numpy as np
 import os, json, glob
 import copy
 import pprint
+import traceback
 
 def T5_similarity(output_sequence=None, chocies_list = None):
     sentences = [output_sequence]
@@ -121,7 +123,6 @@ def T5_similarity(output_sequence=None, chocies_list = None):
     cosine_scores = util.cos_sim(embeddings, embeddings2)
     index = np.argmax(cosine_scores)
     return index
-
 dataset_qajson = {
   "Ucfcrime": f"{Eval_QA_root}/Eval_QA/Ucfcrime_QA_new.json",
   "Youcook2": f"{Eval_QA_root}/Eval_QA/Youcook2_QA_new.json",
@@ -137,9 +138,6 @@ dataset_qajson = {
   "ActivityNet": f"{Eval_QA_root}/Eval_QA/ActivityNet_QA_new.json",
   "TGIF": f"{Eval_QA_root}/Eval_QA/TGIF_QA_new.json"
 }
-
-
-import traceback
 def json_T5_eval(T5_save_folder=None, jsonfile=None):
     # dataset 的question choices answer jsonfile
     dataset_name = os.path.basename(jsonfile).split('_')[1]
@@ -164,7 +162,6 @@ def json_T5_eval(T5_save_folder=None, jsonfile=None):
                 qid = qid_vid.replace(f'_{video_id}', '')
                 choices = qa_choice_data[qid]['choices']
                 choices = [ f'{alpha}. {choice}' for alpha, choice in choices.items()]
-
                 answer_index = T5_similarity(str(output_sequence), choices)
                 T5_answer = candidates[answer_index]
                 new_item['t5-answer']= T5_answer
@@ -181,12 +178,6 @@ def json_T5_eval(T5_save_folder=None, jsonfile=None):
             json.dump(new_data, f, indent=2)
     except Exception as e:
         print(traceback.print_exc())
-        import ipdb
-        ipdb.set_trace()
-        
-
-
-    
 def main():
     evaljson_list = glob.glob('./Eval_results/*_eval.json', recursive=True)
     pprint.pprint(f'{len(evaljson_list)}')
@@ -199,45 +190,5 @@ def main():
             print(e)
 main()
 ```
-
-## Data Preparation
-
-You can download the data of SEED-Bench released on HuggingFace repo [SEED-Bench](https://huggingface.co/datasets/AILab-CVC/SEED-Bench).
-Please refer to [DATASET.md](DATASET.md) for image and video data preparation.
-
-## Installation
-
-Please refer to [INSTALL.md](INSTALL.md).
-
-## Run Evaluation
-
-The evaluation metric is provided in [eval.py](eval.py). We use [InstructBLIP](https://arxiv.org/abs/2305.06500) as an example. To run the following evaluation code, please refer to [repo](https://github.com/salesforce/LAVIS) for the environment preparation.
-
-```shell
-python eval.py --model instruct_blip --anno_path SEED-Bench.json --output-dir results --task all
-```
-
-After the evaluation is finished, you can obtain the accuracy of each evaluation dimension and also 'results.json' in 'results' folder, which can be submitted to [SEED-Bench Leaderboard](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard).
-
-If you want to evaluate your own models, please provide the interface like [instruct_blip_interface.py](https://github.com/AILab-CVC/SEED-Bench/blob/main/model/instruct_blip_interface.py).
-
-Note that to evaluate models with multiple-choice questions, we adopt the answer ranking strategy
-following GPT-3. Specifically, for each choice of a question, we compute the likelihood 
-that a model generates the content of this choice given the question. 
-We select the choice with the highest likelihood as model's prediction. 
-Our evaluation strategy does not rely on the instruction-following capabilities 
-of models to output 'A' or 'B' or 'C' or 'D'.
-
-
-
 ## License
 SEED-Bench is released under Apache License Version 2.0.
-
-## Declaration
-For the images of SEED-Bench, we use the data from Conceptual Captions Dataset (https://ai.google.com/research/ConceptualCaptions/)
-following its license (https://github.com/google-research-datasets/conceptual-captions/blob/master/LICENSE).
-Tencent does not hold the copyright for these images and the copyright belongs to the original owner of Conceptual Captions Dataset. 
-
-For the videos of SEED-Bench, we use tha data from Something-Something v2 (https://developer.qualcomm.com/software/ai-datasets/something-something),
-Epic-kitchen 100 (https://epic-kitchens.github.io/2023) and 
-Breakfast (https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/). We only provide the video name. Please download them in their official websites.
