@@ -14,10 +14,10 @@
 * We conduct extensive experiments to evaluate prominent Video-LLMs, summarizing their behaviors, analyzing main causes for observed limitations, and proposing future directions for improvement.
 
 
-## News
-**[2023.11.27]** SEED-Bench is released! Data and evaluation code is available now.
+## 📰 News
+**[2023.11.27]** Video-Bench is released! Data and evaluation code is available now.
 
-## Leaderboard
+## 📣 Leaderboard
 Welcome to [Video_Benchmark Leaderboard](https://github.com/munanning/Video_Benchmark)!
 
 We are delighted to have witnessed the remarkable advancements in video understanding and artificial intelligence alongside the community over the past year. We are proud to announce the launch of Video-Bench, a platform designed to assist developers and users in the field of video analysis.
@@ -28,7 +28,7 @@ The leaderboard will feature rankings for open-source models, providing an inclu
 
 We also welcome valuable suggestions and contributions from the community to foster collaborative growth and advancement in video understanding models. If you have any questions or would like to get involved, please feel free to contact us. Let's eagerly anticipate the release of the Video-Bench Leaderboard and the continued progress in video understanding and artificial intelligence!
 
-## Evaluation
+## 🤗 Evaluation
 
 The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named 'Eval/{dataset_name}.json'. 
 
@@ -201,5 +201,5 @@ def main():
             print(e)
 main()
 ```
-## License
+## 🐳  License
 SEED-Bench is released under Apache License Version 2.0.
