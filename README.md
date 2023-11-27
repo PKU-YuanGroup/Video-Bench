@@ -34,7 +34,7 @@ The video data can easily downloaded from [Huggingface](https://huggingface.co/d
 
 
 ### 🏗️ Evaluate on your own model
-The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named `./Eva_results/{dataset_name}.json`. 
+The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named `./Eval_results/{dataset_name}.json`. 
 
 ```python 
 Eval_QA_root = './'
@@ -116,7 +116,7 @@ if args.dataset_name is None:
 
 ```
 
-After obtaining the 'Eval/{dataset_name}.json' files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows
+After obtaining the `Eval/{dataset_name}.json` files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows:
 
 #### ChatGPT Evaluation
 ```python
