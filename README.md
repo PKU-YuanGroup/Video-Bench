@@ -2,9 +2,6 @@
 [Arxiv](https://arxiv.org/abs/2307.16125)
 <p align="center">
     <img src="assets/pie_fig.jpg" width="300" style="margin-bottom: 0.2;"/>
-    <br>
-    <br>
-    <img src="assets/pie_fig.jpg" width="300" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/abs/2311.10122">Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models</a></h2>
 <!-- <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2> -->
@@ -21,12 +18,7 @@ Welcome to [Video_Benchmark Leaderboard](https://github.com/munanning/Video_Benc
 
 ### Evaluation
 
-You can use our evaluation code to obtain 'Eval/{dataset_name}.json'.
-
-```shell
-python eval.py --model instruct_blip --anno_path SEED-Bench.json --output-dir results --task all
-```
-
+The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named 'Eval/{dataset_name}.json'. Then you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. 
 
 ```python 
 Eval_QA_root = '/remote-home/share/VideoBenchmark/Video_Benchmark'
