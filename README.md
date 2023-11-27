@@ -30,10 +30,10 @@ The leaderboard will feature rankings for open-source models, providing an inclu
 ## 🤗 Evaluation
 
 ### 📂 Data Preparation
-The video data can easily downloaded from [Huggingface](https://huggingface.co/datasets/Ai4Happiness/Video-Bench) 
+The video data can easily be downloaded from [Huggingface](https://huggingface.co/datasets/Ai4Happiness/Video-Bench) 
 
 
-### 🏗️ Evaluate on your own model
+### 🏗️ Evaluate your own model
 The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named `./Eval_results/{dataset_name}.json`. 
 
 ```python 
