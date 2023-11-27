@@ -38,7 +38,7 @@ The code below is just a generalized framework for dataset evaluation, you will 
 
 ```python 
 Eval_QA_root = './'
-Eval_Video_folder = './'
+Eval_Video_root = './'
 
 dataset_qajson = {
   "Ucfcrime": f"{Eval_QA_root}/Eval_QA/Ucfcrime_QA_new.json",
@@ -97,7 +97,7 @@ if args.dataset_name is None:
                     candidates = ['A', 'B']
                     candidates_long = [f" A.{item['choices']['A']}", f"B.{item['choices']['B']}"]
                 vid_rela_path = item['vid_path']
-                vid_path = os.path.join(Eval_Video_folder, vid_rela_path)
+                vid_path = os.path.join(Eval_Video_root, vid_rela_path)
                 output, output_scores = ask(args, question, model, tokenizer, image_processor, vid_path)
 
                 eval_dict[q_id] = {
