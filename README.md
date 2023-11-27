@@ -162,9 +162,8 @@ def chat_classify(gpt_input, model: str = "gpt-3.5-turbo-0613"):
     return request_openai_api()
 
 def process_file( eval_file, qa_file=None):
-    # time.sleep(5)
+    time.sleep(5)
     openai.api_key = random.choice(apikeys)
-    openai.api_base = " https://api.aiguoguo199.com/v1"
     with open(eval_file, 'r', encoding='utf-8') as f:
         eval_data = json.load(f)
     try:
@@ -185,7 +184,7 @@ def process_file( eval_file, qa_file=None):
                     res = chat_classify(gpt_input)
                     content = res["choices"][0]["message"]["content"]
                     output_chatgpt_choice = json.loads(content)["maximum probability"]
-                    if output_chatgpt_choice not in ['A','B','C','D','E','F','G']:
+                    if output_chatgpt_choice not in ['A','B','C','D','E','F']:
                         raise KeyError 
                     eval_item_copy['output_chatgpt_choice'] = output_chatgpt_choice
                     save_to_file({qid_vid:eval_item_copy}, output_file)
