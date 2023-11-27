@@ -20,6 +20,14 @@
 ## Leaderboard
 Welcome to [Video_Benchmark Leaderboard](https://github.com/munanning/Video_Benchmark)!
 
+We are delighted to have witnessed the remarkable advancements in video understanding and artificial intelligence alongside the community over the past year. We are proud to announce the launch of Video-Bench, a platform designed to assist developers and users in the field of video analysis.
+
+Video-Bench is committed to promoting the progress of video understanding models and facilitating their evaluation. We are pleased to announce the inaugural Video-Bench Leaderboard. This leaderboard aims to systematically evaluate the performance of video understanding models across various capabilities, including Prior Knowledge based QA, Comprehension Decision-making, Video-exclusive Understanding and more.
+
+The leaderboard will feature rankings for open-source models, providing an inclusive and comprehensive reference for the industry and research community. We invite developers and researchers working on video understanding models to join Video-Bench and showcase their models' performance advantages in different domains.
+
+We also welcome valuable suggestions and contributions from the community to foster collaborative growth and advancement in video understanding models. If you have any questions or would like to get involved, please feel free to contact us. Let's eagerly anticipate the release of the Video-Bench Leaderboard and the continued progress in video understanding and artificial intelligence!
+
 ## Evaluation
 
 The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named 'Eval/{dataset_name}.json'. 
