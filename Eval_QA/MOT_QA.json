@@ -1,0 +1,254 @@
+{
+  "0": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT16_videos/MOT16-02.mp4",
+    "video_id": "MOT16-02",
+    "question": "How many distinct pedestrians are visible in the video?",
+    "choices": {
+      "A": "81",
+      "B": "37",
+      "C": "18",
+      "D": "100",
+      "E": "126",
+      "F": "63"
+    },
+    "answer": "F"
+  },
+  "1": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT16_videos/MOT16-04.mp4",
+    "video_id": "MOT16-04",
+    "question": "In the video, how many pedestrians can be recognized as different individuals?",
+    "choices": {
+      "A": "114",
+      "B": "176",
+      "C": "52",
+      "D": "26",
+      "E": "88",
+      "F": "140"
+    },
+    "answer": "E"
+  },
+  "2": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT16_videos/MOT16-05.mp4",
+    "video_id": "MOT16-05",
+    "question": "In the video, how many distinct individuals can be seen walking?",
+    "choices": {
+      "A": "200",
+      "B": "162",
+      "C": "37",
+      "D": "125",
+      "E": "250",
+      "F": "75"
+    },
+    "answer": "D"
+  },
+  "3": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT16_videos/MOT16-09.mp4",
+    "video_id": "MOT16-09",
+    "question": "In the video, how many pedestrians can be identified as separate individuals?",
+    "choices": {
+      "A": "15",
+      "B": "32",
+      "C": "25",
+      "D": "7",
+      "E": "50",
+      "F": "40"
+    },
+    "answer": "C"
+  },
+  "4": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT16_videos/MOT16-10.mp4",
+    "video_id": "MOT16-10",
+    "question": "What is the number of different individuals seen walking in the video?",
+    "choices": {
+      "A": "17",
+      "B": "57",
+      "C": "34",
+      "D": "74",
+      "E": "114",
+      "F": "91"
+    },
+    "answer": "B"
+  },
+  "5": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT16_videos/MOT16-11.mp4",
+    "video_id": "MOT16-11",
+    "question": "How many different people can be spotted as pedestrians in the video?",
+    "choices": {
+      "A": "41",
+      "B": "89",
+      "C": "20",
+      "D": "138",
+      "E": "110",
+      "F": "69"
+    },
+    "answer": "F"
+  },
+  "6": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT16_videos/MOT16-13.mp4",
+    "video_id": "MOT16-13",
+    "question": "What is the number of different individuals seen walking in the video?",
+    "choices": {
+      "A": "139",
+      "B": "64",
+      "C": "214",
+      "D": "171",
+      "E": "32",
+      "F": "107"
+    },
+    "answer": "F"
+  },
+  "7": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT17_videos/MOT17-02-FRCNN.mp4",
+    "video_id": "MOT17-02-FRCNN",
+    "question": "How many distinct pedestrians are visible in the video?",
+    "choices": {
+      "A": "21",
+      "B": "42",
+      "C": "113",
+      "D": "142",
+      "E": "71",
+      "F": "92"
+    },
+    "answer": "E"
+  },
+  "8": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT17_videos/MOT17-04-FRCNN.mp4",
+    "video_id": "MOT17-04-FRCNN",
+    "question": "How many distinct pedestrians are visible in the video?",
+    "choices": {
+      "A": "176",
+      "B": "52",
+      "C": "26",
+      "D": "140",
+      "E": "88",
+      "F": "114"
+    },
+    "answer": "E"
+  },
+  "9": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT17_videos/MOT17-05-FRCNN.mp4",
+    "video_id": "MOT17-05-FRCNN",
+    "question": "What is the total count of different pedestrians in the video?",
+    "choices": {
+      "A": "172",
+      "B": "133",
+      "C": "39",
+      "D": "266",
+      "E": "79",
+      "F": "212"
+    },
+    "answer": "B"
+  },
+  "10": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT17_videos/MOT17-09-FRCNN.mp4",
+    "video_id": "MOT17-09-FRCNN",
+    "question": "What is the number of different individuals seen walking in the video?",
+    "choices": {
+      "A": "35",
+      "B": "54",
+      "C": "43",
+      "D": "16",
+      "E": "27",
+      "F": "8"
+    },
+    "answer": "E"
+  },
+  "11": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT17_videos/MOT17-10-FRCNN.mp4",
+    "video_id": "MOT17-10-FRCNN",
+    "question": "How many different people can be spotted as pedestrians in the video?",
+    "choices": {
+      "A": "60",
+      "B": "120",
+      "C": "96",
+      "D": "36",
+      "E": "18",
+      "F": "78"
+    },
+    "answer": "A"
+  },
+  "12": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT17_videos/MOT17-11-FRCNN.mp4",
+    "video_id": "MOT17-11-FRCNN",
+    "question": "How many individuals walking can be distinguished in the video?",
+    "choices": {
+      "A": "76",
+      "B": "121",
+      "C": "98",
+      "D": "152",
+      "E": "22",
+      "F": "45"
+    },
+    "answer": "A"
+  },
+  "13": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT17_videos/MOT17-13-FRCNN.mp4",
+    "video_id": "MOT17-13-FRCNN",
+    "question": "How many distinct pedestrians are present in the video?",
+    "choices": {
+      "A": "176",
+      "B": "220",
+      "C": "110",
+      "D": "143",
+      "E": "66",
+      "F": "33"
+    },
+    "answer": "C"
+  },
+  "14": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT20_videos/MOT20-01.mp4",
+    "video_id": "MOT20-01",
+    "question": "How many separate pedestrians are there in the video?",
+    "choices": {
+      "A": "80",
+      "B": "160",
+      "C": "128",
+      "D": "104",
+      "E": "24",
+      "F": "48"
+    },
+    "answer": "A"
+  },
+  "15": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT20_videos/MOT20-02.mp4",
+    "video_id": "MOT20-02",
+    "question": "What is the total number of distinct pedestrians in the video?",
+    "choices": {
+      "A": "274",
+      "B": "82",
+      "C": "164",
+      "D": "438",
+      "E": "548",
+      "F": "356"
+    },
+    "answer": "A"
+  },
+  "16": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT20_videos/MOT20-03.mp4",
+    "video_id": "MOT20-03",
+    "question": "How many different people can be spotted as pedestrians in the video?",
+    "choices": {
+      "A": "434",
+      "B": "1448",
+      "C": "217",
+      "D": "1158",
+      "E": "941",
+      "F": "724"
+    },
+    "answer": "F"
+  },
+  "17": {
+    "vid_path": "/remote-home/share/VideoBenchmark/videos/MOT_video/MOT20_videos/MOT20-05.mp4",
+    "video_id": "MOT20-05",
+    "question": "What is the quantity of different pedestrians present in the video?",
+    "choices": {
+      "A": "1560",
+      "B": "1200",
+      "C": "1920",
+      "D": "360",
+      "E": "720",
+      "F": "2400"
+    },
+    "answer": "B"
+  }
+}

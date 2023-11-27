@@ -1,0 +1,400 @@
+{
+  "918600": {
+    "vid_path": "Eval_video/Driving-exam/918600.mp4",
+    "video_id": "918600",
+    "question": "1/36. As shown in the video, how should you deal with this situation when driving a motor vehicle?",
+    "answer": "B",
+    "choices": {
+      "A": " Accelerate passing",
+      "B": " Leave a lateral safety distance and drive slowly",
+      "C": " Keep driving at normal speed",
+      "D": " Emergency braking when approaching"
+    }
+  },
+  "918700": {
+    "vid_path": "Eval_video/Driving-exam/918700.mp4",
+    "video_id": "918700",
+    "question": "2/36. As shown in the video, how should you deal with this situation when driving a motor vehicle?",
+    "answer": "C",
+    "choices": {
+      "A": " Emergency braking",
+      "B": " Turn sharply and bypass quickly",
+      "C": " Stop smoothly",
+      "D": " Avoid collision quickly"
+    }
+  },
+  "919600": {
+    "vid_path": "Eval_video/Driving-exam/919600.mp4",
+    "video_id": "919600",
+    "question": "3/36. As shown in the video, how should the car in front deal with this situation?",
+    "answer": "D",
+    "choices": {
+      "A": " Accelerate on the right side of the road",
+      "B": " Give appropriate space and speed up",
+      "C": " Rapid deceleration or emergency braking",
+      "D": " Slow down and give way to the right side of the road."
+    }
+  },
+  "921000": {
+    "vid_path": "Eval_video/Driving-exam/921000.mp4",
+    "video_id": "921000",
+    "question": "4/36. As shown in the video, when overtaking on the road, the lateral distance should be increased as much as possible, and when necessary, you can cross the solid line to overtake. Is this statement correct?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "926100": {
+    "vid_path": "Eval_video/Driving-exam/926100.mp4",
+    "video_id": "926100",
+    "question": "5/36. As shown in the video, how should I deal with this situation when driving a motor vehicle?",
+    "answer": "C",
+    "choices": {
+      "A": " Use the opposite lane to drive",
+      "B": " Drive on the outside of the curve",
+      "C": " Slow down sufficiently and drive on the right side",
+      "D": " rapid braking and low speed passing"
+    }
+  },
+  "927300": {
+    "vid_path": "Eval_video/Driving-exam/927300.mp4",
+    "video_id": "927300",
+    "question": "6/36. As shown in the video, how should I deal with this situation when driving a motor vehicle?",
+    "answer": "A",
+    "choices": {
+      "A": " Slow down or stop and give way",
+      "B": " Change lanes immediately to bypass pedestrians",
+      "C": " Honk the horn to signal them to give way",
+      "D": " Pass before pedestrians"
+    }
+  },
+  "929800": {
+    "vid_path": "Eval_video/Driving-exam/929800.mp4",
+    "video_id": "929800",
+    "question": "7/36, as shown in the video, how should I deal with this situation when driving a motor vehicle?",
+    "answer": "A",
+    "choices": {
+      "A": " pay attention to observe the dynamics of pedestrians and non-motorized vehicles before passing",
+      "B": " Accelerate passing",
+      "C": " Stop immediately",
+      "D": " honk the horn to signal pedestrians to give way"
+    }
+  },
+  "954500": {
+    "vid_path": "Eval_video/Driving-exam/954500.mp4",
+    "video_id": "954500",
+    "question": "8/36. As shown in the video, is the driver's behavior correct?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "928200": {
+    "vid_path": "Eval_video/Driving-exam/928200.mp4",
+    "video_id": "928200",
+    "question": "9/36, as shown in the video, the driver's behavior is correct. Is this statement correct?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "929500": {
+    "vid_path": "Eval_video/Driving-exam/929500.mp4",
+    "video_id": "929500",
+    "question": "10/36. As shown in the video, it is correct for motor vehicles to pass through railway crossings. Is this statement correct?",
+    "answer": "A",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "955800": {
+    "vid_path": "Eval_video/Driving-exam/955800.mp4",
+    "video_id": "955800",
+    "question": "11/36. As shown in the video, what should the driver do?",
+    "answer": "B",
+    "choices": {
+      "A": " honk to urge",
+      "B": " slow down and stop, wait in line one by one",
+      "C": " Look for opportunities to overtake the car in front",
+      "D": " passing through the vehicle space"
+    }
+  },
+  "963200": {
+    "vid_path": "Eval_video/Driving-exam/963200.mp4",
+    "video_id": "963200",
+    "question": "12/36. Vehicles should 'slow down, honk, and keep to the right' when passing a curve on a mountainous road. Is this statement correct?",
+    "answer": "A",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "972400": {
+    "vid_path": "Eval_video/Driving-exam/972400.mp4",
+    "video_id": "972400",
+    "question": "13/36. What should drivers do to ensure safety when driving through waterlogged roads?",
+    "answer": "A",
+    "choices": {
+      "A": " pay special attention to slow down",
+      "B": " quickly accelerate to pass",
+      "C": " accelerate through in low gear",
+      "D": " pass at normal speed"
+    }
+  },
+  "975300": {
+    "vid_path": "Eval_video/Driving-exam/975300.mp4",
+    "video_id": "975300",
+    "question": "14/36. As shown in the video, is the driving behavior of car A correct when the motor vehicle is driving on the highway?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "975400": {
+    "vid_path": "Eval_video/Driving-exam/975400.mp4",
+    "video_id": "975400",
+    "question": "15/36. As shown in the video, when the expressway is blocked due to an accident, is the driving behavior of car A correct?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "909800": {
+    "vid_path": "Eval_video/Driving-exam/909800.mp4",
+    "video_id": "909800",
+    "question": "16/36, how many illegal acts are there in video 1?",
+    "answer": "C",
+    "choices": {
+      "A": " Three illegal acts",
+      "B": " Four illegal acts",
+      "C": " Two illegal acts",
+      "D": " An illegal act"
+    }
+  },
+  "909900": {
+    "vid_path": "Eval_video/Driving-exam/909900.mp4",
+    "video_id": "909900",
+    "question": "17/36, how many illegal acts are there in video 2?",
+    "answer": "C",
+    "choices": {
+      "A": " Four illegal acts",
+      "B": " Three illegal acts",
+      "C": " Two illegal acts",
+      "D": " An illegal act"
+    }
+  },
+  "910000": {
+    "vid_path": "Eval_video/Driving-exam/910000.mp4",
+    "video_id": "910000",
+    "question": "18/36, how many illegal acts are there in video 3?",
+    "answer": "C",
+    "choices": {
+      "A": " Three illegal acts",
+      "B": " Four illegal acts",
+      "C": " Two illegal acts",
+      "D": " An illegal act"
+    }
+  },
+  "910100": {
+    "vid_path": "Eval_video/Driving-exam/910100.mp4",
+    "video_id": "910100",
+    "question": "19/36, how many illegal acts are there in video 4?",
+    "answer": "C",
+    "choices": {
+      "A": " An illegal act",
+      "B": " Two illegal acts",
+      "C": " Three illegal acts",
+      "D": " Four illegal acts"
+    }
+  },
+  "910200": {
+    "vid_path": "Eval_video/Driving-exam/910200.mp4",
+    "video_id": "910200",
+    "question": "20/36, how many illegal acts are there in video 5?",
+    "answer": "D",
+    "choices": {
+      "A": " Two illegal acts",
+      "B": " An illegal act",
+      "C": " Four illegal acts",
+      "D": " Three illegal acts"
+    }
+  },
+  "910300": {
+    "vid_path": "Eval_video/Driving-exam/910300.mp4",
+    "video_id": "910300",
+    "question": "21/36, how many illegal acts are there in video 6?",
+    "answer": "A",
+    "choices": {
+      "A": " Three illegal acts",
+      "B": " Four illegal acts",
+      "C": " Two illegal acts",
+      "D": " An illegal act"
+    }
+  },
+  "910400": {
+    "vid_path": "Eval_video/Driving-exam/910400.mp4",
+    "video_id": "910400",
+    "question": "22/36, how many illegal acts are there in video 7?",
+    "answer": "B",
+    "choices": {
+      "A": " Four illegal acts",
+      "B": " Two illegal acts",
+      "C": " An illegal act",
+      "D": " Three illegal acts"
+    }
+  },
+  "910500": {
+    "vid_path": "Eval_video/Driving-exam/910500.mp4",
+    "video_id": "910500",
+    "question": "23/36, how many illegal acts are there in video 8?",
+    "answer": "C",
+    "choices": {
+      "A": " Four illegal acts",
+      "B": " Three illegal acts",
+      "C": " Two illegal acts",
+      "D": " An illegal act"
+    }
+  },
+  "13497300": {
+    "vid_path": "Eval_video/Driving-exam/13497300.mp4",
+    "video_id": "13497300",
+    "question": "24/36, as shown in the video, which lane in the picture is the correct way to pass the crosswalk?",
+    "answer": "B",
+    "choices": {
+      "A": "\u2461\u2462",
+      "B": "\u2460\u2461\u2462",
+      "C": "\u2460\u2461",
+      "D": "\u2460\u2462"
+    }
+  },
+  "13497700": {
+    "vid_path": "Eval_video/Driving-exam/13497700.mp4",
+    "video_id": "13497700",
+    "question": "25/36. As shown in the video, is the driver's behavior correct?",
+    "answer": "A",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13497900": {
+    "vid_path": "Eval_video/Driving-exam/13497900.mp4",
+    "video_id": "13497900",
+    "question": "26/36. As shown in the video, is it correct for motor vehicles to cross the pedestrian crossing?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13498200": {
+    "vid_path": "Eval_video/Driving-exam/13498200.mp4",
+    "video_id": "13498200",
+    "question": "27/36. As shown in the video, it is wrong for motor vehicles to pass through the crosswalk. Is this statement correct?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13498300": {
+    "vid_path": "Eval_video/Driving-exam/13498300.mp4",
+    "video_id": "13498300",
+    "question": "28/36. As shown in the video, how should motor vehicles drive through this intersection?",
+    "answer": "D",
+    "choices": {
+      "A": " Pass quickly while honking the horn",
+      "B": " slow down",
+      "C": " accelerate pass",
+      "D": " stop and give way"
+    }
+  },
+  "13498400": {
+    "vid_path": "Eval_video/Driving-exam/13498400.mp4",
+    "video_id": "13498400",
+    "question": "29/36. As shown in the video, is it correct for the motor vehicle to turn left at the intersection? Is this statement correct?",
+    "answer": "A",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13498600": {
+    "vid_path": "Eval_video/Driving-exam/13498600.mp4",
+    "video_id": "13498600",
+    "question": "30/36. As shown in the video, it is wrong for motor vehicles to pass through pedestrian crossings. Is this statement correct?",
+    "answer": "A",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13498700": {
+    "vid_path": "Eval_video/Driving-exam/13498700.mp4",
+    "video_id": "13498700",
+    "question": "31/36. As shown in the video, is the driving behavior of the motor vehicle correct?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13498800": {
+    "vid_path": "Eval_video/Driving-exam/13498800.mp4",
+    "video_id": "13498800",
+    "question": "32/36. As shown in the video, is the driving behavior of AB and AB correct?",
+    "answer": "A",
+    "choices": {
+      "A": " A is wrong, B is correct",
+      "B": " A is correct, B is wrong",
+      "C": "C and AB are both wrong",
+      "D": "D and AB are both correct"
+    }
+  },
+  "13499000": {
+    "vid_path": "Eval_video/Driving-exam/13499000.mp4",
+    "video_id": "13499000",
+    "question": "33/36. As shown in the video, motor vehicles did not affect normal pedestrian traffic when passing the crosswalk, so it is the correct approach. Is this statement correct?",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13499200": {
+    "vid_path": "Eval_video/Driving-exam/13499200.mp4",
+    "video_id": "13499200",
+    "question": "34/36. When a motor vehicle is passing a crosswalk, the driver may stop and wave to signal for pedestrians to pass first. Is this statement correct?",
+    "answer": "A",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13499400": {
+    "vid_path": "Eval_video/Driving-exam/13499400.mp4",
+    "video_id": "13499400",
+    "question": "35/36. As shown in the video, the behavior of pedestrians crossing the zebra crossing in the video is uncivilized.",
+    "answer": "B",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  },
+  "13499600": {
+    "vid_path": "Eval_video/Driving-exam/13499600.mp4",
+    "video_id": "13499600",
+    "question": "36/36. As shown in the video, is the behavior of pedestrians and motor vehicles correct?",
+    "answer": "A",
+    "choices": {
+      "A": " correct",
+      "B": " error"
+    }
+  }
+}
