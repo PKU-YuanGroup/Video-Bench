@@ -18,7 +18,7 @@ Welcome to [Video_Benchmark Leaderboard](https://github.com/munanning/Video_Benc
 
 ### Evaluation
 
-The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named 'Eval/{dataset_name}.json'. Then you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. 
+The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named 'Eval/{dataset_name}.json'. 
 
 ```python 
 Eval_QA_root = '/remote-home/share/VideoBenchmark/Video_Benchmark'
@@ -35,7 +35,7 @@ dataset_qajson = {
   "SQA3D": f"{Eval_QA_root}/Eval_QA/SQA3D_QA_new.json",
   "Driving-exam": f"{Eval_QA_root}/Eval_QA/Driving-exam_QA_new.json",
   "MV": f"{Eval_QA_root}/Eval_QA/MV_QA_new.json",
-  "MOT": "../../Eval_QA/MOT_QA_new.json",
+  "MOT": f"{Eval_QA_root}/Eval_QA/MOT_QA_new.json",
   "ActivityNet": f"{Eval_QA_root}/Eval_QA/ActivityNet_QA_new.json",
   "TGIF": f"{Eval_QA_root}/Eval_QA/TGIF_QA_new.json"
 }
@@ -100,9 +100,105 @@ if args.dataset_name is None:
 
 ```
 
-Then you can upload 'results.json' in [SEED-Bench Leaderboard](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard).
+After obtaining the 'Eval/{dataset_name}.json' files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows
 
-After submitting, please press refresh button to get the latest results.
+```python
+from sentence_transformers import SentenceTransformer, util
+import numpy as np
+import os, json, glob
+import copy
+import pprint
+
+def T5_similarity(output_sequence=None, chocies_list = None):
+    sentences = [output_sequence]
+    sentences2 = chocies_list
+    model = SentenceTransformer('sentence-transformers/sentence-t5-large',cache_folder='./')
+    model = model.cuda()
+    # model = SentenceTransformer('DrishtiSharma/sentence-t5-large-quora-text-similarity')
+    embeddings = model.encode(sentences)
+    embeddings2 = model.encode(sentences2)
+    #Compute cosine-similarities
+    cosine_scores = util.cos_sim(embeddings, embeddings2)
+    index = np.argmax(cosine_scores)
+    return index
+
+dataset_qajson = {
+  "Ucfcrime": f"{Eval_QA_root}/Eval_QA/Ucfcrime_QA_new.json",
+  "Youcook2": f"{Eval_QA_root}/Eval_QA/Youcook2_QA_new.json",
+  "TVQA": f"{Eval_QA_root}/Eval_QA/TVQA_QA_new.json",
+  "MSVD": f"{Eval_QA_root}/Eval_QA/MSVD_QA_new.json",
+  "MSRVTT": f"{Eval_QA_root}/Eval_QA/MSRVTT_QA_new.json",
+  "Driving-decision-making": f"{Eval_QA_root}/Eval_QA/Driving-decision-making_QA_new.json",
+  "NBA": f"{Eval_QA_root}/Eval_QA/NBA_QA_new.json",
+  "SQA3D": f"{Eval_QA_root}/Eval_QA/SQA3D_QA_new.json",
+  "Driving-exam": f"{Eval_QA_root}/Eval_QA/Driving-exam_QA_new.json",
+  "MV": f"{Eval_QA_root}/Eval_QA/MV_QA_new.json",
+  "MOT": f"{Eval_QA_root}/Eval_QA/MOT_QA_new.json",
+  "ActivityNet": f"{Eval_QA_root}/Eval_QA/ActivityNet_QA_new.json",
+  "TGIF": f"{Eval_QA_root}/Eval_QA/TGIF_QA_new.json"
+}
+
+
+import traceback
+def json_T5_eval(T5_save_folder=None, jsonfile=None):
+    # dataset 的question choices answer jsonfile
+    dataset_name = os.path.basename(jsonfile).split('_')[1]
+    print(f'Dataset name: {dataset_name}')
+    qa_choice_json = dataset_qajson[dataset_name]
+    with open(qa_choice_json, 'r', encoding='utf-8') as f:
+        qa_choice_data = json.load(f)
+
+    # model output jsonfile
+    with open(jsonfile, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    candidates = ['A', 'B', 'C', 'D', 'E', 'F']
+    try:
+        new_data = {}
+        for qid_vid, item in data.items():
+            os.makedirs(os.path.join(T5_save_folder, os.path.basename(jsonfile).split('.')[0]), exist_ok=True)
+            T5_qidvid_jsonfile = os.path.join(T5_save_folder, os.path.basename(jsonfile).split('.')[0], qid_vid+'.json')
+            if not os.path.exists(T5_qidvid_jsonfile):
+                new_item = copy.deepcopy(item)
+                output_sequence = item['output_sequence']
+                video_id = item['video_id']
+                qid = qid_vid.replace(f'_{video_id}', '')
+                choices = qa_choice_data[qid]['choices']
+                choices = [ f'{alpha}. {choice}' for alpha, choice in choices.items()]
+
+                answer_index = T5_similarity(str(output_sequence), choices)
+                T5_answer = candidates[answer_index]
+                new_item['t5-answer']= T5_answer
+                new_item['choices'] = choices
+                pprint.pprint(new_item)
+                new_data[qid_vid] = new_item
+                with open(T5_qidvid_jsonfile, 'w', encoding='utf-8') as f:
+                    json.dump({qid_vid:new_item}, f, indent=2)
+                print(T5_qidvid_jsonfile, 'is saved!')
+            else:
+                print(f'{T5_qidvid_jsonfile} is existing!')
+        T5_dataset_jsonfile = os.path.join(T5_save_folder, os.path.basename(jsonfile))
+        with open(T5_dataset_jsonfile, 'w', encoding='utf-8') as f:
+            json.dump(new_data, f, indent=2)
+    except Exception as e:
+        print(traceback.print_exc())
+        import ipdb
+        ipdb.set_trace()
+        
+
+
+    
+def main():
+    evaljson_list = glob.glob('./Eval_results/*_eval.json', recursive=True)
+    pprint.pprint(f'{len(evaljson_list)}')
+    import random
+    random.shuffle(evaljson_list)
+    for evaljson in evaljson_list:
+        try:
+            json_T5_eval('T5_jsonfolder', evaljson)
+        except Exception as e:
+            print(e)
+main()
+```
 
 ## Data Preparation
 
