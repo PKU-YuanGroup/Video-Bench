@@ -8,8 +8,11 @@
 
 
  
- SEED-Bench consists of 19K multiple-choice questions with accurate human annotations, covering 12 evaluation dimensions
-including both the spatial and temporal understanding.
+
+* We introduce Video-Bench, the first comprehensive evaluation benchmark for Video-LLMs, featuring a three-level ability assessment that systematically evaluates models in video-exclusive understanding, prior knowledge incorporation, and video-based decision-making abilities.
+* We provide a user-friendly evaluation toolkit. Accompanied by our datasets and QA pairs, the toolkit can streamline the performance assessment of Video-LLMs.
+* We conduct extensive experiments to evaluate prominent Video-LLMs, summarizing their behaviors, analyzing main causes for observed limitations, and proposing future directions for improvement.
+
 
 ## News
 **[2023.11.27]** SEED-Bench is released! Data and evaluation code is available now.
