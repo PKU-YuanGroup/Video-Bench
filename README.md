@@ -1,11 +1,13 @@
 
 [Arxiv](https://arxiv.org/abs/2307.16125)
 <p align="center">
-    <img src="https://z1.ax1x.com/2023/11/07/pil4sqH.png" width="150" style="margin-bottom: 0.2;"/>
+    <img src="assets/pie_fig.jpg" width="300" style="margin-bottom: 0.2;"/>
+    <br>
+    <br>
+    <img src="assets/pie_fig.jpg" width="300" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/abs/2311.10122">Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models</a></h2>
 <!-- <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2> -->
-
 
 
  
@@ -17,9 +19,9 @@ including both the spatial and temporal understanding.
 ## Leaderboard
 Welcome to [Video_Benchmark Leaderboard](https://github.com/munanning/Video_Benchmark)!
 
-### Leaderboard Submission
+### Evaluation
 
-You can submit your model results in [SEED-Bench Leaderboard](https://huggingface.co/spaces/AILab-CVC/SEED-Bench_Leaderboard) now. You can use our evaluation code to obtain 'results.json' in 'results' folder as below.
+You can use our evaluation code to obtain 'Eval/{dataset_name}.json'.
 
 ```shell
 python eval.py --model instruct_blip --anno_path SEED-Bench.json --output-dir results --task all
