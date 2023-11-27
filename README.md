@@ -37,8 +37,8 @@ The video data can easily downloaded from [Huggingface](https://huggingface.co/d
 The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named `Eval/{dataset_name}.json`. 
 
 ```python 
-Eval_QA_root = '/remote-home/share/VideoBenchmark/Video_Benchmark'
-Eval_Video_folder = '/remote-home/share/VideoBenchmark/Video_Benchmark'
+Eval_QA_root = './'
+Eval_Video_folder = './'
 
 dataset_qajson = {
   "Ucfcrime": f"{Eval_QA_root}/Eval_QA/Ucfcrime_QA_new.json",
