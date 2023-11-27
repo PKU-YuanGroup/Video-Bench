@@ -117,6 +117,105 @@ if args.dataset_name is None:
 
 After obtaining the 'Eval/{dataset_name}.json' files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows
 
+#### ChatGPT Evaluation
+```python
+# -*- coding: utf-8 -*-
+import csv
+import glob
+import os
+import json
+import random
+from concurrent.futures import ThreadPoolExecutor
+import openai
+from retry import retry
+from tqdm import tqdm
+import time
+
+apikeys = [
+        'sk-B8uCs6QZE33bmVr63WnJT3BlbkFJaNHlSZ3Bxxxxxxxx',
+    ]  
+save_dir = './ChatGPT_Evaluation'
+if not os.path.exists(save_dir):
+    os.mkdir(save_dir)
+def chat_classify(gpt_input, model: str = "gpt-3.5-turbo-0613"):
+    @retry(tries=3, delay=10)
+    def request_openai_api():
+        #===============
+        messages = [
+            {"role": "system",
+             "content": 'As a language expert, please complete the following task.'},
+            {"role": "assistant",
+             "content": "You are now an answer selection expert, and I will provide you with a question with several options, "
+             "as well as a target sentence. Please return the alphabet of the option with the highest probability of matching "
+             "this target sentence. Given question with options and the target sequence:\n" + str(gpt_input)},
+            {"role": "user",
+             "content": 'Please output your responses in the form of a dictionary {"maximum probability":"xxx"}  '
+             'where xxx is A or B or C or ...'
+            }
+        ]   
+        response = openai.ChatCompletion.create(
+            model=model,
+            messages=messages,
+        )
+        return response
+    return request_openai_api()
+
+def process_file( eval_file, qa_file=None):
+    # time.sleep(5)
+    openai.api_key = random.choice(apikeys)
+    openai.api_base = " https://api.aiguoguo199.com/v1"
+    with open(eval_file, 'r', encoding='utf-8') as f:
+        eval_data = json.load(f)
+    try:
+        retry_delay = 2  # 重试延迟（秒）
+        for qid_vid, item in eval_data.items():
+            gpt_input = {'target sequcene': item['output_sequence'], 
+                        'question': item['question'],
+                        }
+            eval_item_copy = item.copy()
+            try:
+                output_folder = os.path.join(save_dir, os.path.basename(eval_file).replace('_eval.json', '_chatgpt_eval'))
+                os.makedirs(output_folder, exist_ok=True)
+                output_file =  os.path.join(output_folder, f'{qid_vid}.json')
+                if os.path.exists(output_file):
+                    pass
+                    # print(f'{output_file} is existing!')
+                else:
+                    res = chat_classify(gpt_input)
+                    content = res["choices"][0]["message"]["content"]
+                    output_chatgpt_choice = json.loads(content)["maximum probability"]
+                    if output_chatgpt_choice not in ['A','B','C','D','E','F','G']:
+                        raise KeyError 
+                    eval_item_copy['output_chatgpt_choice'] = output_chatgpt_choice
+                    save_to_file({qid_vid:eval_item_copy}, output_file)
+                
+            except Exception as e:
+                print(f'{e}, {eval_file}, {qid_vid}')
+                time.sleep(retry_delay)
+        print(f'{eval_file} is finished!!!!!!!')
+    except Exception as e:
+        print(f'{eval_file} is error!!!!!!!!')
+
+def save_to_file(data, output_file):
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)
+    print(f'{output_file} is saved!')
+
+if __name__ == '__main__':
+    evaljson_list = []
+    evaljson_list.extend(glob.glob('./Eval_results/*_eval.json'))
+    evaljson_list.sort()
+    print(evaljson_list)
+    import multiprocessing
+    try:
+        with ThreadPoolExecutor(64) as executor:
+            results = list(
+                tqdm(executor.map(process_file, evaljson_list), total=len(evaljson_list), desc="Processing and saving files"))
+    except Exception as e:
+        print(e)
+```
+
+#### T5 Evaluation
 ```python
 from sentence_transformers import SentenceTransformer, util
 import numpy as np
