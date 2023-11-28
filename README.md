@@ -140,7 +140,7 @@ python Step2_T5_judge.py  --model_chat_files_folder  ./Chat_results \
 ```
 
 ```python
-python Step3_compute_scores.py  --T5_judge_files_folder  ./T5_Judge \
+python Step3_compute_scores_T5.py  --T5_judge_files_folder  ./T5_Judge \
 --score_output_file  ./Final_score_table_T5.json
 ```
 
