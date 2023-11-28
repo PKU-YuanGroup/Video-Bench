@@ -97,7 +97,11 @@ if args.dataset_name is None:
                     candidates_long = [f" A.{item['choices']['A']}", f"B.{item['choices']['B']}"]
                 vid_rela_path = item['vid_path']
                 vid_path = os.path.join(Eval_Video_root, vid_rela_path)
+
+
+                #=================================You need to change this code =========================
                 output, output_scores = ask(args, question, model, tokenizer, image_processor, vid_path)
+                #=======================================================================================
 
                 eval_dict[q_id] = {
                     'video_id': video_id,
