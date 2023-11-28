@@ -44,7 +44,7 @@ def chat_classify(gpt_input, model: str = "gpt-3.5-turbo-0613"):
 def process_file( eval_file):
     # time.sleep(5)
     openai.api_key = args.apikey
-    openai.api_base = " https://api.aiguoguo199.com/v1"
+
     with open(eval_file, 'r', encoding='utf-8') as f:
         eval_data = json.load(f)
     try:
