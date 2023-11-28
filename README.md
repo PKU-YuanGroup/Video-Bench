@@ -134,7 +134,7 @@ import time
 apikeys = [
         'sk-B8uCs6QZE33bmVr63WnJT3BlbkFJaNHlSZ3Bxxxxxxxx',
     ]  
-save_dir = './ChatGPT_Evaluation'
+save_dir = './ChatGPT_Judge'
 if not os.path.exists(save_dir):
     os.mkdir(save_dir)
 def chat_classify(gpt_input, model: str = "gpt-3.5-turbo-0613"):
