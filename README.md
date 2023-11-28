@@ -136,7 +136,7 @@ python Step3_compute_scores.py  --chatgpt_judge_output_folder ./ChatGPT_Judge \
 ```python
 python Step2_T5_judge.py  --model_chat_files_folder  ./Chat_results \
 --T5_judge_output_folder  ./T5_Judge  \
---Eval_QA_root  . 
+--Eval_QA_root  ./ 
 ```
 
 ```python
