@@ -20,19 +20,19 @@ def T5_similarity(output_sequence=None, chocies_list = None):
 import traceback
 def json_T5_eval(T5_save_folder=None, jsonfile=None, args=None):
     dataset_qajson = {
-                    "Ucfcrime": f"{args.Eval_QA_root}/Eval_QA/Ucfcrime_QA_new.json",
-                    "Youcook2": f"{args.Eval_QA_root}/Eval_QA/Youcook2_QA_new.json",
-                    "TVQA": f"{args.Eval_QA_root}/Eval_QA/TVQA_QA_new.json",
-                    "MSVD": f"{args.Eval_QA_root}/Eval_QA/MSVD_QA_new.json",
-                    "MSRVTT": f"{args.Eval_QA_root}/Eval_QA/MSRVTT_QA_new.json",
-                    "Driving-decision-making": f"{args.Eval_QA_root}/Eval_QA/Driving-decision-making_QA_new.json",
-                    "NBA": f"{args.Eval_QA_root}/Eval_QA/NBA_QA_new.json",
-                    "SQA3D": f"{args.Eval_QA_root}/Eval_QA/SQA3D_QA_new.json",
-                    "Driving-exam": f"{args.Eval_QA_root}/Eval_QA/Driving-exam_QA_new.json",
-                    "MV": f"{args.Eval_QA_root}/Eval_QA/MV_QA_new.json",
-                    "MOT": f"{args.Eval_QA_root}/Eval_QA/MOT_QA_new.json",
-                    "ActivityNet": f"{args.Eval_QA_root}/Eval_QA/ActivityNet_QA_new.json",
-                    "TGIF": f"{args.Eval_QA_root}/Eval_QA/TGIF_QA_new.json"
+                    "Ucfcrime": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/Ucfcrime_QA_new.json"),
+                    "Youcook2": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/Youcook2_QA_new.json"),
+                    "TVQA": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/TVQA_QA_new.json"),
+                    "MSVD": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/MSVD_QA_new.json"),
+                    "MSRVTT": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/MSRVTT_QA_new.json"),
+                    "Driving-decision-making": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/Driving-decision-making_QA_new.json"),
+                    "NBA": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/NBA_QA_new.json"),
+                    "SQA3D": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/SQA3D_QA_new.json"),
+                    "Driving-exam": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/Driving-exam_QA_new.json"),
+                    "MV": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/MV_QA_new.json"),
+                    "MOT": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/MOT_QA_new.json"),
+                    "ActivityNet": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/ActivityNet_QA_new.json"),
+                    "TGIF": os.path.join( f"{args.Eval_QA_root}", "Eval_QA/TGIF_QA_new.json")
         }
     # dataset 的question-choices-answer jsonfile
     dataset_name = os.path.basename(jsonfile).split('_eval.json')[0]
@@ -99,3 +99,5 @@ if __name__ == "__main__":
     parser.add_argument("--Eval_QA_root", type=str, default="/remote-home/share/VideoBenchmark/Video_Benchmark")
     args = parser.parse_args()
     main(args)
+
+
