@@ -152,7 +152,7 @@ python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
 
 ```python
 python Step3_compute_scores.py  --chatgpt_judge_output_folder ./ChatGPT_Judge \
---score_output_file ./Final_score_table_ChatGPT.json
+--score_output_file ./Final_score_table_ChatGPT.csv
 ```
 
 #### T5 Evaluation
@@ -164,7 +164,7 @@ python Step2_T5_judge.py  --model_chat_files_folder  ./Chat_results \
 
 ```python
 python Step3_compute_scores_T5.py  --T5_judge_files_folder  ./T5_Judge \
---score_output_file  ./Final_score_table_T5.json
+--score_output_file  ./Final_score_table_T5.csv
 ```
 
 ## 🐳  License
