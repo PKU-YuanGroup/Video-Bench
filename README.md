@@ -1,7 +1,7 @@
 
 [Arxiv](https://arxiv.org/abs/2311.16103)
 <p align="center">
-    <img src="assets/log.png" width="300" style="margin-bottom: 0.2;"/>
+    <img src="assets/logo.png" width="300" style="margin-bottom: 0.2;"/>
 <p> 
 <h2 align="center"> <a href="https://arxiv.org/abs/2311.16103">Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models</a></h2>
 <!-- <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2> -->
