@@ -29,6 +29,16 @@ The leaderboard will feature rankings for open-source models, providing an inclu
 
 ## 🤗 Evaluation
 
+1. Clone this repository and navigate to Video-Bench folder
+```bash
+git clone https://github.com/PKU-YuanGroup/Video-Bench.git
+cd Video-Bench
+
+```
+2. Install Package
+```bash
+pip install -r requirements.txt
+```
 ### 📂 Data Preparation
 The video data can easily be downloaded from [Huggingface](https://huggingface.co/datasets/LanguageBind/Video-Bench) 
 
