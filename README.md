@@ -100,7 +100,9 @@ if args.dataset_name is None:
 
 
                 #=================================You need to change this code =========================
+                # ......
                 output, output_scores = ask(args, question, model, tokenizer, image_processor, vid_path)
+                # ......
                 #=======================================================================================
 
                 eval_dict[q_id] = {
