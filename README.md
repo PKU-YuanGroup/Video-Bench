@@ -18,7 +18,7 @@
 **[2023.11.27]** Video-Bench is released! Data and evaluation code is available now.
 
 ## 📣 Leaderboard
-Welcome to [**Video_Benchmark Leaderboard**](https://huggingface.co/spaces/LanguageBind/Video-Bench)!
+Welcome to [**Video-Benchmark Leaderboard**](https://huggingface.co/spaces/LanguageBind/Video-Bench)!
 
 🚩🚩🚩 We are delighted to have witnessed the remarkable advancements in video understanding and artificial intelligence alongside the community over the past year. We are proud to announce the launch of Video-Bench, a platform designed to assist developers and users in the field of video analysis.
 
