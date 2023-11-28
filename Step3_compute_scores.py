@@ -3,7 +3,7 @@ import pprint
 import traceback
 import tqdm
 import argparse
-
+import csv
 def chatgpt_json(args):
     folder_list = [ os.path.join(args.chatgpt_judge_files_folder, sub_folder) for sub_folder in os.listdir(args.chatgpt_judge_files_folder)]
     dataset_score_dict = {}
@@ -87,17 +87,50 @@ def compute_scores(args, dataset_score_dict):
   dataset_score_dict['final_score'] = final_score
     
   
-  print(dataset_score_dict)
-  with open(args.score_output_file, 'w', encoding='utf-8') as f:
-    json.dump(dataset_score_dict, f, indent=2)
-  print(f'{args.score_output_file} is saved!')
+  # print(dataset_score_dict)
+  # with open(args.score_output_file, 'w', encoding='utf-8') as f:
+  #   json.dump(dataset_score_dict, f, indent=2)
+  # print(f'{args.score_output_file} is saved!')
+  # ========================
+  data = [
+    
+    ["Avg. All", "Avg. Video-Exclusive", "Avg. Prior-Knowledge QA", "Avg. Decision-Making", 
+     "ActivityNet", "MSVD", "MSRVTT", "TGIF", "Youcook2", "Ucfcrime", 
+     "MOT", "TVQA", "MV", "NBA", "Driving-exam", "Driving-decision-making", "SQA3D"],
+    
+    [ final_score, exclusive_understanding_score, prior_QA_score, com_and_dec_QA_score, 
+      dataset_score_dict['ActivityNet'], 
+      dataset_score_dict["MSVD"],
+      dataset_score_dict['MSRVTT'],
+      dataset_score_dict['TGIF'],
+      dataset_score_dict['Youcook2'],
+      dataset_score_dict['Ucfcrime'],
+      dataset_score_dict['MOT'],
+      dataset_score_dict['TVQA'],
+      dataset_score_dict['MV'],
+      dataset_score_dict['NBA'],
+      dataset_score_dict['Driving-exam'],
+      dataset_score_dict['Driving-decision-making'],
+      dataset_score_dict['SQA3D'],
+     ],
+  ]
+  
+  with open(args.score_output_file, "w", newline="") as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerows(data)
+
+  print(f"{args.score_output_file} saved successfully.")
+
+  
+  
+  
     
 
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser()
   parser.add_argument("--chatgpt_judge_files_folder", type=str, default="/remote-home/share/VideoBenchmark/Video_Benchmark/VLLM-3metrics/Video-LLaVA/ChatGPT_Judge")
-  parser.add_argument("--score_output_file", type=str, default="./Final_score_table.json")
+  parser.add_argument("--score_output_file", type=str, default="./Final_score_table.csv")
   args = parser.parse_args()
   dataset_score_dict = chatgpt_json(args)
   compute_scores(args, dataset_score_dict)
