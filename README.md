@@ -33,7 +33,7 @@ The leaderboard will feature rankings for open-source models, providing an inclu
 The video data can easily be downloaded from [Huggingface](https://huggingface.co/datasets/LanguageBind/Video-Bench) 
 
 ### 🏗️ Evaluate your own model
-The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named `./Eval_results/{dataset_name}.json`. 
+The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named `./Chat_results/{dataset_name}.json`. 
 
 ```python 
 Eval_QA_root = './'
@@ -61,7 +61,7 @@ if args.dataset_name is None:
         dataset_name_list = [args.dataset_name]
         print(f'Specifically run {args.dataset_name}')
     print(dataset_name_list)
-    os.makedirs('./Eval_results', exist_ok=True)
+    os.makedirs('./Chat_results', exist_ok=True)
     
     for dataset_name in dataset_name_list:
         qa_json = dataset_qajson[dataset_name]
@@ -113,7 +113,7 @@ if args.dataset_name is None:
             except Exception as e:
                 traceback.print_exc()  
         # eval results
-        eval_dataset_json = f'./Eval_results/{dataset_name}_eval.json'
+        eval_dataset_json = f'./Chat_results/{dataset_name}_eval.json'
         with open(eval_dataset_json, 'w', encoding='utf-8') as f:
             json.dump(eval_dict, f, indent=2)
 
@@ -121,104 +121,16 @@ if args.dataset_name is None:
 
 After obtaining the `Eval/{dataset_name}.json` files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows:
 
-#### ChatGPT Evaluation
-```python
-# -*- coding: utf-8 -*-
-import csv
-import glob
-import os
-import json
-import random
-from concurrent.futures import ThreadPoolExecutor
-import openai
-from retry import retry
-from tqdm import tqdm
-import time
-
-apikeys = [
-        'sk-B8uCs6QZE33bmVr63WnJT3BlbkFJaNHlSZ3Bxxxxxxxx',
-    ]  
-save_dir = './ChatGPT_Judge'
-if not os.path.exists(save_dir):
-    os.mkdir(save_dir)
-def chat_classify(gpt_input, model: str = "gpt-3.5-turbo-0613"):
-    @retry(tries=3, delay=10)
-    def request_openai_api():
-        #===============
-        messages = [
-            {"role": "system",
-             "content": 'As a language expert, please complete the following task.'},
-            {"role": "assistant",
-             "content": "You are now an answer selection expert, and I will provide you with a question with several options, "
-             "as well as a target sentence. Please return the alphabet of the option with the highest probability of matching "
-             "this target sentence. Given question with options and the target sequence:\n" + str(gpt_input)},
-            {"role": "user",
-             "content": 'Please output your responses in the form of a dictionary {"maximum probability":"xxx"}  '
-             'where xxx is A or B or C or ...'
-            }
-        ]   
-        response = openai.ChatCompletion.create(
-            model=model,
-            messages=messages,
-        )
-        return response
-    return request_openai_api()
-
-def process_file( eval_file, qa_file=None):
-    time.sleep(5)
-    openai.api_key = random.choice(apikeys)
-    with open(eval_file, 'r', encoding='utf-8') as f:
-        eval_data = json.load(f)
-    try:
-        retry_delay = 2  # 重试延迟（秒）
-        for qid_vid, item in eval_data.items():
-            gpt_input = {'target sequcene': item['output_sequence'], 
-                        'question': item['question'],
-                        }
-            eval_item_copy = item.copy()
-            try:
-                output_folder = os.path.join(save_dir, os.path.basename(eval_file).replace('_eval.json', '_chatgpt_eval'))
-                os.makedirs(output_folder, exist_ok=True)
-                output_file =  os.path.join(output_folder, f'{qid_vid}.json')
-                if os.path.exists(output_file):
-                    pass
-                    # print(f'{output_file} is existing!')
-                else:
-                    res = chat_classify(gpt_input)
-                    content = res["choices"][0]["message"]["content"]
-                    output_chatgpt_choice = json.loads(content)["maximum probability"]
-                    if output_chatgpt_choice not in ['A','B','C','D','E','F']:
-                        raise KeyError 
-                    eval_item_copy['output_chatgpt_choice'] = output_chatgpt_choice
-                    save_to_file({qid_vid:eval_item_copy}, output_file)
-                
-            except Exception as e:
-                print(f'{e}, {eval_file}, {qid_vid}')
-                time.sleep(retry_delay)
-        print(f'{eval_file} is finished!!!!!!!')
-    except Exception as e:
-        print(f'{eval_file} is error!!!!!!!!')
-
-def save_to_file(data, output_file):
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2)
-    print(f'{output_file} is saved!')
-
-if __name__ == '__main__':
-    evaljson_list = []
-    evaljson_list.extend(glob.glob('./Eval_results/*_eval.json'))
-    evaljson_list.sort()
-    print(evaljson_list)
-    import multiprocessing
-    try:
-        with ThreadPoolExecutor(64) as executor:
-            results = list(
-                tqdm(executor.map(process_file, evaljson_list), total=len(evaljson_list), desc="Processing and saving files"))
-    except Exception as e:
-        print(e)
+```python 
+python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
+--apikey sk-eionFWpNThMNy4eeFdC25789F60a4cC2A66b2cxxxxxxx \
+--chatgpt_judge_output_folder  ./ChatGPT_Judge
 ```
 
-
+```python
+python Step3_compute_scores.py  --chatgpt_judge_output_folder ./ChatGPT_Judge \
+--score_output_file ./Final_score_table.json
+```
 
 #### T5 Evaluation
 ```python
@@ -297,7 +209,7 @@ def json_T5_eval(T5_save_folder=None, jsonfile=None):
     except Exception as e:
         print(traceback.print_exc())
 def main():
-    evaljson_list = glob.glob('./Eval_results/*_eval.json', recursive=True)
+    evaljson_list = glob.glob('./Chat_results/*_eval.json', recursive=True)
     pprint.pprint(f'{len(evaljson_list)}')
     import random
     random.shuffle(evaljson_list)
