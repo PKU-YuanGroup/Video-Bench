@@ -35,7 +35,7 @@ git clone https://github.com/PKU-YuanGroup/Video-Bench.git
 cd Video-Bench
 
 ```
-2. Install Package
+2. Install additional packages
 ```bash
 pip install -r requirements.txt
 ```
