@@ -4,9 +4,20 @@
     <img src="assets/logo.png" width="300" style="margin-bottom: 0.2;"/>
 <p> 
 <h2 align="center"> <a href="https://arxiv.org/abs/2311.16103">Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models</a></h2>
-<!-- <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2> -->
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
  
+<h5 align="center">
+    
+[![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/LanguageBind/Video-Bench)
+[![arXiv](https://img.shields.io/badge/Arxiv-2311.10122-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.16103)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/PKU-YuanGroup/Video-Bench/blob/main/LICENSE) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKU-YuanGroup%2FVideo-Bench&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub issues](https://img.shields.io/github/issues/PKU-YuanGroup/Video-Bench?color=critical&label=Issues)](https://github.com/PKU-YuanGroup/Video-Bench/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/PKU-YuanGroup/Video-Bench?color=success&label=Issues)](https://github.com/PKU-YuanGroup/Video-Bench/issues?q=is%3Aissue+is%3Aclosed)  <br>
+<!--[![zhihu](https://img.shields.io/badge/-Bilibili-000000?logo=bilibili&logoColor=00A1D6)](https://zhuanlan.zhihu.com/p/668166885)-->
+
+</h5>
  
 
 * **We introduce Video-Bench, the first comprehensive evaluation benchmark for Video-LLMs, featuring a three-level ability assessment that systematically evaluates models in video-exclusive understanding, prior knowledge incorporation, and video-based decision-making abilities.**
