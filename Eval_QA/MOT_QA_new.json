@@ -10,8 +10,7 @@
       "D": "100",
       "E": "126",
       "F": "63"
-    },
-    "answer": "F"
+    }
   },
   "1": {
     "vid_path": "Eval_video/MOT/MOT16-04.mp4",
@@ -24,8 +23,7 @@
       "D": "26",
       "E": "88",
       "F": "140"
-    },
-    "answer": "E"
+    }
   },
   "2": {
     "vid_path": "Eval_video/MOT/MOT16-05.mp4",
@@ -38,8 +36,7 @@
       "D": "125",
       "E": "250",
       "F": "75"
-    },
-    "answer": "D"
+    }
   },
   "3": {
     "vid_path": "Eval_video/MOT/MOT16-09.mp4",
@@ -52,8 +49,7 @@
       "D": "7",
       "E": "50",
       "F": "40"
-    },
-    "answer": "C"
+    }
   },
   "4": {
     "vid_path": "Eval_video/MOT/MOT16-10.mp4",
@@ -66,8 +62,7 @@
       "D": "74",
       "E": "114",
       "F": "91"
-    },
-    "answer": "B"
+    }
   },
   "5": {
     "vid_path": "Eval_video/MOT/MOT16-11.mp4",
@@ -80,8 +75,7 @@
       "D": "138",
       "E": "110",
       "F": "69"
-    },
-    "answer": "F"
+    }
   },
   "6": {
     "vid_path": "Eval_video/MOT/MOT16-13.mp4",
@@ -94,8 +88,7 @@
       "D": "171",
       "E": "32",
       "F": "107"
-    },
-    "answer": "F"
+    }
   },
   "7": {
     "vid_path": "Eval_video/MOT/MOT17-02-FRCNN.mp4",
@@ -108,8 +101,7 @@
       "D": "142",
       "E": "71",
       "F": "92"
-    },
-    "answer": "E"
+    }
   },
   "8": {
     "vid_path": "Eval_video/MOT/MOT17-04-FRCNN.mp4",
@@ -122,8 +114,7 @@
       "D": "140",
       "E": "88",
       "F": "114"
-    },
-    "answer": "E"
+    }
   },
   "9": {
     "vid_path": "Eval_video/MOT/MOT17-05-FRCNN.mp4",
@@ -136,8 +127,7 @@
       "D": "266",
       "E": "79",
       "F": "212"
-    },
-    "answer": "B"
+    }
   },
   "10": {
     "vid_path": "Eval_video/MOT/MOT17-09-FRCNN.mp4",
@@ -150,8 +140,7 @@
       "D": "16",
       "E": "27",
       "F": "8"
-    },
-    "answer": "E"
+    }
   },
   "11": {
     "vid_path": "Eval_video/MOT/MOT17-10-FRCNN.mp4",
@@ -164,8 +153,7 @@
       "D": "36",
       "E": "18",
       "F": "78"
-    },
-    "answer": "A"
+    }
   },
   "12": {
     "vid_path": "Eval_video/MOT/MOT17-11-FRCNN.mp4",
@@ -178,8 +166,7 @@
       "D": "152",
       "E": "22",
       "F": "45"
-    },
-    "answer": "A"
+    }
   },
   "13": {
     "vid_path": "Eval_video/MOT/MOT17-13-FRCNN.mp4",
@@ -192,8 +179,7 @@
       "D": "143",
       "E": "66",
       "F": "33"
-    },
-    "answer": "C"
+    }
   },
   "14": {
     "vid_path": "Eval_video/MOT/MOT20-01.mp4",
@@ -206,8 +192,7 @@
       "D": "104",
       "E": "24",
       "F": "48"
-    },
-    "answer": "A"
+    }
   },
   "15": {
     "vid_path": "Eval_video/MOT/MOT20-02.mp4",
@@ -220,8 +205,7 @@
       "D": "438",
       "E": "548",
       "F": "356"
-    },
-    "answer": "A"
+    }
   },
   "16": {
     "vid_path": "Eval_video/MOT/MOT20-03.mp4",
@@ -234,8 +218,7 @@
       "D": "1158",
       "E": "941",
       "F": "724"
-    },
-    "answer": "F"
+    }
   },
   "17": {
     "vid_path": "Eval_video/MOT/MOT20-05.mp4",
@@ -248,7 +231,6 @@
       "D": "360",
       "E": "720",
       "F": "2400"
-    },
-    "answer": "B"
+    }
   }
 }

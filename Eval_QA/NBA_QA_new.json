@@ -8,8 +8,7 @@
       "B": "NBA Finals",
       "C": "NBA All-Star game",
       "D": "NBA playoffs"
-    },
-    "answer": "A"
+    }
   },
   "1": {
     "vid_path": "Eval_video/NBA/10.mp4",
@@ -20,8 +19,7 @@
       "B": "Golden State Warriors vs. Cleveland Cavaliers",
       "C": "Los Angeles Lakers vs. Boston Celtics",
       "D": "Oklahoma City Thunder vs. Denver Nuggets"
-    },
-    "answer": "D"
+    }
   },
   "2": {
     "vid_path": "Eval_video/NBA/10.mp4",
@@ -32,8 +30,7 @@
       "B": "105-103, Nuggets leading by 2 points",
       "C": "103-105, Thunder trailing by 2 points",
       "D": "105-103, Thunder leading by 2 points"
-    },
-    "answer": "C"
+    }
   },
   "3": {
     "vid_path": "Eval_video/NBA/10.mp4",
@@ -42,8 +39,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "4": {
     "vid_path": "Eval_video/NBA/10.mp4",
@@ -54,8 +50,7 @@
       "B": "Two attempts, both missed",
       "C": "No attempts were shown",
       "D": "Three attempts, all successful"
-    },
-    "answer": "A"
+    }
   },
   "5": {
     "vid_path": "Eval_video/NBA/10.mp4",
@@ -66,8 +61,7 @@
       "B": "Westbrook",
       "C": "Durant",
       "D": "Adams"
-    },
-    "answer": "A"
+    }
   },
   "6": {
     "vid_path": "Eval_video/NBA/10.mp4",
@@ -78,8 +72,7 @@
       "B": "Adams",
       "C": "Westbrook",
       "D": "Curry"
-    },
-    "answer": "B"
+    }
   },
   "7": {
     "vid_path": "Eval_video/NBA/11.mp4",
@@ -90,8 +83,7 @@
       "B": "NBA Finals",
       "C": "NBA All-Star Game",
       "D": "NBA playoffs"
-    },
-    "answer": "A"
+    }
   },
   "8": {
     "vid_path": "Eval_video/NBA/11.mp4",
@@ -102,8 +94,7 @@
       "B": "Boston Celtics vs. Los Angeles Lakers",
       "C": "New York Knicks vs. Los Angeles Clippers",
       "D": "Houston Rockets vs. Golden State Warriors"
-    },
-    "answer": "C"
+    }
   },
   "9": {
     "vid_path": "Eval_video/NBA/11.mp4",
@@ -114,8 +105,7 @@
       "B": "64-78, Knicks leading",
       "C": "64-78, Clippers leading",
       "D": "78-64, Knicks leading"
-    },
-    "answer": "D"
+    }
   },
   "10": {
     "vid_path": "Eval_video/NBA/11.mp4",
@@ -124,8 +114,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "A"
+    }
   },
   "11": {
     "vid_path": "Eval_video/NBA/11.mp4",
@@ -136,8 +125,7 @@
       "B": "No offensive attempts shown",
       "C": "Two attempts - Griffin dunked over a defender and then with a turnaround",
       "D": "One attempt - Blake Griffin with a turnaround dunk"
-    },
-    "answer": "C"
+    }
   },
   "12": {
     "vid_path": "Eval_video/NBA/11.mp4",
@@ -148,8 +136,7 @@
       "B": "No defender shown",
       "C": "Foye",
       "D": "Mozgov"
-    },
-    "answer": "D"
+    }
   },
   "13": {
     "vid_path": "Eval_video/NBA/11.mp4",
@@ -160,8 +147,7 @@
       "B": "Gallinari",
       "C": "Foye",
       "D": "Griffin himself"
-    },
-    "answer": "A"
+    }
   },
   "14": {
     "vid_path": "Eval_video/NBA/12.mp4",
@@ -172,8 +158,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA Finals",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "15": {
     "vid_path": "Eval_video/NBA/12.mp4",
@@ -184,8 +169,7 @@
       "B": "Chicago Bulls vs. Miami Heat",
       "C": "Boston Celtics vs. Los Angeles Lakers",
       "D": "Houston Rockets vs. Toronto Raptors"
-    },
-    "answer": "A"
+    }
   },
   "16": {
     "vid_path": "Eval_video/NBA/12.mp4",
@@ -196,8 +180,7 @@
       "B": "62-52. Clippers were behind",
       "C": "52-62. Clippers were ahead",
       "D": "52-62. Clippers were behind"
-    },
-    "answer": "D"
+    }
   },
   "17": {
     "vid_path": "Eval_video/NBA/12.mp4",
@@ -208,8 +191,7 @@
       "B": "No",
       "C": "Not mentioned",
       "D": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "18": {
     "vid_path": "Eval_video/NBA/12.mp4",
@@ -220,8 +202,7 @@
       "B": "One attempt. Curry made a three-pointer",
       "C": "Not mentioned",
       "D": "Two attempts. No score"
-    },
-    "answer": "B"
+    }
   },
   "19": {
     "vid_path": "Eval_video/NBA/12.mp4",
@@ -232,8 +213,7 @@
       "B": "LeBron James",
       "C": "Kawhi Leonard",
       "D": "Chris Paul"
-    },
-    "answer": "D"
+    }
   },
   "20": {
     "vid_path": "Eval_video/NBA/12.mp4",
@@ -244,8 +224,7 @@
       "B": "Chris Paul",
       "C": "No assist",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "21": {
     "vid_path": "Eval_video/NBA/13.mp4",
@@ -256,8 +235,7 @@
       "B": "2014 NBA Finals G6",
       "C": "2014 NBA Western Conference First Round G6",
       "D": "2014 NBA Eastern Conference Finals G6"
-    },
-    "answer": "C"
+    }
   },
   "22": {
     "vid_path": "Eval_video/NBA/13.mp4",
@@ -268,8 +246,7 @@
       "B": "Golden State Warriors vs. Los Angeles Lakers",
       "C": "Boston Celtics vs. Miami Heat",
       "D": "Houston Rockets vs. Portland Trail Blazers"
-    },
-    "answer": "D"
+    }
   },
   "23": {
     "vid_path": "Eval_video/NBA/13.mp4",
@@ -280,8 +257,7 @@
       "B": "96-98. Rockets were leading by 2 points.",
       "C": "98-96. Rockets were leading by 2 points.",
       "D": "98-96. Trail Blazers were leading by 2 points."
-    },
-    "answer": "C"
+    }
   },
   "24": {
     "vid_path": "Eval_video/NBA/13.mp4",
@@ -290,8 +266,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "25": {
     "vid_path": "Eval_video/NBA/13.mp4",
@@ -302,8 +277,7 @@
       "B": "One attempt. Lillard made a three-pointer.",
       "C": "Two attempts. Lillard made a three-pointer.",
       "D": "One attempt. Lillard missed a three-pointer."
-    },
-    "answer": "B"
+    }
   },
   "26": {
     "vid_path": "Eval_video/NBA/13.mp4",
@@ -314,8 +288,7 @@
       "B": "Lillard",
       "C": "Parsons",
       "D": "Aldridge"
-    },
-    "answer": "C"
+    }
   },
   "27": {
     "vid_path": "Eval_video/NBA/13.mp4",
@@ -326,8 +299,7 @@
       "B": "Harden",
       "C": "Lin",
       "D": "There was no assist."
-    },
-    "answer": "D"
+    }
   },
   "28": {
     "vid_path": "Eval_video/NBA/14.mp4",
@@ -338,8 +310,7 @@
       "B": "NBA finals",
       "C": "NBA regular season",
       "D": "NBA playoffs"
-    },
-    "answer": "C"
+    }
   },
   "29": {
     "vid_path": "Eval_video/NBA/14.mp4",
@@ -350,8 +321,7 @@
       "B": "Golden State Warriors vs Miami Heat",
       "C": "Los Angeles Lakers vs Boston Celtics",
       "D": "San Antonio Spurs vs Oklahoma City Thunder"
-    },
-    "answer": "B"
+    }
   },
   "30": {
     "vid_path": "Eval_video/NBA/14.mp4",
@@ -362,8 +332,7 @@
       "B": "100-98, Heat leading by 2 points",
       "C": "125-123, Warriors leading by 2 points",
       "D": "112-110, Heat leading by 2 points"
-    },
-    "answer": "C"
+    }
   },
   "31": {
     "vid_path": "Eval_video/NBA/14.mp4",
@@ -372,8 +341,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "32": {
     "vid_path": "Eval_video/NBA/14.mp4",
@@ -384,8 +352,7 @@
       "B": "1 attempt, 3-pointer missed by Wade",
       "C": "1 attempt, 3-pointer made by Wade",
       "D": "2 attempts, 3-pointer missed by Durant and a 3-pointer made by Wade"
-    },
-    "answer": "A"
+    }
   },
   "33": {
     "vid_path": "Eval_video/NBA/14.mp4",
@@ -396,8 +363,7 @@
       "B": "Dwyane Wade",
       "C": "Stephen Curry",
       "D": "Kevin Durant"
-    },
-    "answer": "D"
+    }
   },
   "34": {
     "vid_path": "Eval_video/NBA/14.mp4",
@@ -408,8 +374,7 @@
       "B": "Klay Thompson",
       "C": "No assist, individual play",
       "D": "Stephen Curry"
-    },
-    "answer": "C"
+    }
   },
   "35": {
     "vid_path": "Eval_video/NBA/15.mp4",
@@ -420,8 +385,7 @@
       "B": "NBA All-Star game",
       "C": "NBA playoffs",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "36": {
     "vid_path": "Eval_video/NBA/15.mp4",
@@ -432,8 +396,7 @@
       "B": "San Antonio Spurs vs Houston Rockets",
       "C": "Chicago Bulls vs New York Knicks",
       "D": "Los Angeles Lakers vs Golden State Warriors"
-    },
-    "answer": "A"
+    }
   },
   "37": {
     "vid_path": "Eval_video/NBA/15.mp4",
@@ -444,8 +407,7 @@
       "B": "48-35. Heat leading",
       "C": "35-48. Heat trailing",
       "D": "35-48. Heat leading"
-    },
-    "answer": "C"
+    }
   },
   "38": {
     "vid_path": "Eval_video/NBA/15.mp4",
@@ -456,8 +418,7 @@
       "B": "No. Game continued smoothly",
       "C": "Yes. Wade steal",
       "D": "No. The possession remained the same"
-    },
-    "answer": "C"
+    }
   },
   "39": {
     "vid_path": "Eval_video/NBA/15.mp4",
@@ -468,8 +429,7 @@
       "B": "Four",
       "C": "One",
       "D": "Three"
-    },
-    "answer": "C"
+    }
   },
   "40": {
     "vid_path": "Eval_video/NBA/15.mp4",
@@ -480,8 +440,7 @@
       "B": "Terry",
       "C": "Wade",
       "D": "James"
-    },
-    "answer": "B"
+    }
   },
   "41": {
     "vid_path": "Eval_video/NBA/15.mp4",
@@ -492,8 +451,7 @@
       "B": "James",
       "C": "Terry",
       "D": "Cole"
-    },
-    "answer": "D"
+    }
   },
   "42": {
     "vid_path": "Eval_video/NBA/16.mp4",
@@ -504,8 +462,7 @@
       "B": "NBA exhibition game",
       "C": "NBA All-Star game",
       "D": "NBA playoffs game"
-    },
-    "answer": "A"
+    }
   },
   "43": {
     "vid_path": "Eval_video/NBA/16.mp4",
@@ -516,8 +473,7 @@
       "B": "Los Angeles Lakers vs Boston Celtics",
       "C": "Golden State Warriors vs Houston Rockets",
       "D": "Cleveland Cavaliers vs Portland Trail Blazers"
-    },
-    "answer": "D"
+    }
   },
   "44": {
     "vid_path": "Eval_video/NBA/16.mp4",
@@ -528,8 +484,7 @@
       "B": "13-14, Cavaliers trailing",
       "C": "14-13, Cavaliers leading",
       "D": "13-14, Trail Blazers leading"
-    },
-    "answer": "B"
+    }
   },
   "45": {
     "vid_path": "Eval_video/NBA/16.mp4",
@@ -538,8 +493,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "46": {
     "vid_path": "Eval_video/NBA/16.mp4",
@@ -550,8 +504,7 @@
       "B": "Two attempts, one made and one missed",
       "C": "Two attempts, both missed",
       "D": "One attempt, missed"
-    },
-    "answer": "A"
+    }
   },
   "47": {
     "vid_path": "Eval_video/NBA/16.mp4",
@@ -562,8 +515,7 @@
       "B": "Kevin Love",
       "C": "LeBron James",
       "D": "Damian Lillard"
-    },
-    "answer": "A"
+    }
   },
   "48": {
     "vid_path": "Eval_video/NBA/16.mp4",
@@ -574,8 +526,7 @@
       "B": "No assist, individual play",
       "C": "Kevin Love",
       "D": "Kyrie Irving"
-    },
-    "answer": "B"
+    }
   },
   "49": {
     "vid_path": "Eval_video/NBA/17.mp4",
@@ -586,8 +537,7 @@
       "B": "NBA playoffs",
       "C": "NBA Finals",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "50": {
     "vid_path": "Eval_video/NBA/17.mp4",
@@ -598,8 +548,7 @@
       "B": "Oklahoma City Thunder and Miami Heat",
       "C": "Golden State Warriors and Cleveland Cavaliers",
       "D": "Los Angeles Lakers and Boston Celtics"
-    },
-    "answer": "B"
+    }
   },
   "51": {
     "vid_path": "Eval_video/NBA/17.mp4",
@@ -610,8 +559,7 @@
       "B": "15-12, Heat leading",
       "C": "20-18, Thunder leading",
       "D": "41-30, Thunder leading"
-    },
-    "answer": "D"
+    }
   },
   "52": {
     "vid_path": "Eval_video/NBA/17.mp4",
@@ -620,8 +568,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "53": {
     "vid_path": "Eval_video/NBA/17.mp4",
@@ -632,8 +579,7 @@
       "B": "One attempt. Successful dunk",
       "C": "No offensive attempts were shown in the highlights",
       "D": "Three attempts. All successful"
-    },
-    "answer": "B"
+    }
   },
   "54": {
     "vid_path": "Eval_video/NBA/17.mp4",
@@ -644,8 +590,7 @@
       "B": "Durant",
       "C": "Bosh",
       "D": "Wade"
-    },
-    "answer": "A"
+    }
   },
   "55": {
     "vid_path": "Eval_video/NBA/17.mp4",
@@ -656,8 +601,7 @@
       "B": "Westbrook",
       "C": "James",
       "D": "Wade"
-    },
-    "answer": "A"
+    }
   },
   "56": {
     "vid_path": "Eval_video/NBA/18.mp4",
@@ -668,8 +612,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA playoffs",
       "D": "NBA Finals"
-    },
-    "answer": "A"
+    }
   },
   "57": {
     "vid_path": "Eval_video/NBA/18.mp4",
@@ -680,8 +623,7 @@
       "B": "Chicago Bulls vs Toronto Raptors",
       "C": "Boston Celtics vs Miami Heat",
       "D": "Golden State Warriors vs Los Angeles Lakers"
-    },
-    "answer": "A"
+    }
   },
   "58": {
     "vid_path": "Eval_video/NBA/18.mp4",
@@ -692,8 +634,7 @@
       "B": "No score. Game hasn't started yet.",
       "C": "7-28. Clippers were leading.",
       "D": "14-14. They were tied."
-    },
-    "answer": "A"
+    }
   },
   "59": {
     "vid_path": "Eval_video/NBA/18.mp4",
@@ -704,8 +645,7 @@
       "B": "Not mentioned",
       "C": "Yes",
       "D": "No"
-    },
-    "answer": "D"
+    }
   },
   "60": {
     "vid_path": "Eval_video/NBA/18.mp4",
@@ -716,8 +656,7 @@
       "B": "Two attempts. Both successful.",
       "C": "One attempt. Successful.",
       "D": "One attempt. Missed."
-    },
-    "answer": "C"
+    }
   },
   "61": {
     "vid_path": "Eval_video/NBA/18.mp4",
@@ -728,8 +667,7 @@
       "B": "Chris Paul",
       "C": "John Johnson",
       "D": "LeBron James"
-    },
-    "answer": "C"
+    }
   },
   "62": {
     "vid_path": "Eval_video/NBA/18.mp4",
@@ -740,8 +678,7 @@
       "B": "Chris Paul",
       "C": "Not mentioned",
       "D": "James Harden"
-    },
-    "answer": "A"
+    }
   },
   "63": {
     "vid_path": "Eval_video/NBA/19.mp4",
@@ -752,8 +689,7 @@
       "B": "NBA regular season",
       "C": "NBA Finals",
       "D": "NBA All-Star Game"
-    },
-    "answer": "B"
+    }
   },
   "64": {
     "vid_path": "Eval_video/NBA/19.mp4",
@@ -764,8 +700,7 @@
       "B": "Golden State Warriors vs Boston Celtics",
       "C": "Utah Jazz vs Los Angeles Lakers",
       "D": "Houston Rockets vs Miami Heat"
-    },
-    "answer": "C"
+    }
   },
   "65": {
     "vid_path": "Eval_video/NBA/19.mp4",
@@ -776,8 +711,7 @@
       "B": "96-95, Jazz leading",
       "C": "95-96, Jazz leading",
       "D": "95-96, Lakers leading"
-    },
-    "answer": "B"
+    }
   },
   "66": {
     "vid_path": "Eval_video/NBA/19.mp4",
@@ -786,8 +720,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "67": {
     "vid_path": "Eval_video/NBA/19.mp4",
@@ -798,8 +731,7 @@
       "B": "One attempt, made",
       "C": "Two attempts, both missed",
       "D": "Two attempts, one made"
-    },
-    "answer": "A"
+    }
   },
   "68": {
     "vid_path": "Eval_video/NBA/19.mp4",
@@ -810,8 +742,7 @@
       "B": "Utah Jazz",
       "C": "Kobe",
       "D": "Los Angeles Lakers"
-    },
-    "answer": "A"
+    }
   },
   "69": {
     "vid_path": "Eval_video/NBA/19.mp4",
@@ -822,8 +753,7 @@
       "B": "Hayward",
       "C": "Kobe",
       "D": "Los Angeles Lakers"
-    },
-    "answer": "D"
+    }
   },
   "70": {
     "vid_path": "Eval_video/NBA/1.mp4",
@@ -834,8 +764,7 @@
       "B": "2014 NBA Finals G5",
       "C": "2012 NBA Finals G7",
       "D": "2013 NBA Finals G6"
-    },
-    "answer": "D"
+    }
   },
   "71": {
     "vid_path": "Eval_video/NBA/1.mp4",
@@ -846,8 +775,7 @@
       "B": "San Antonio Spurs vs. Miami Heat",
       "C": "Chicago Bulls vs. Detroit Pistons",
       "D": "Golden State Warriors vs. Cleveland Cavaliers"
-    },
-    "answer": "B"
+    }
   },
   "72": {
     "vid_path": "Eval_video/NBA/1.mp4",
@@ -858,8 +786,7 @@
       "B": "95-92, with the Miami Heat leading by 3 points",
       "C": "92-95, with the Miami Heat leading by 3 points",
       "D": "95-92, with the San Antonio Spurs leading by 3 points"
-    },
-    "answer": "D"
+    }
   },
   "73": {
     "vid_path": "Eval_video/NBA/1.mp4",
@@ -868,8 +795,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "74": {
     "vid_path": "Eval_video/NBA/1.mp4",
@@ -880,8 +806,7 @@
       "B": "James made a three-pointer, Allen missed a three-pointer",
       "C": "James made a layup, Allen missed a layup",
       "D": "James missed a layup, Allen made a layup"
-    },
-    "answer": "A"
+    }
   },
   "75": {
     "vid_path": "Eval_video/NBA/1.mp4",
@@ -892,8 +817,7 @@
       "B": "LeBron James",
       "C": "Dwyane Wade",
       "D": "Tony Parker"
-    },
-    "answer": "D"
+    }
   },
   "76": {
     "vid_path": "Eval_video/NBA/1.mp4",
@@ -904,8 +828,7 @@
       "B": "Dwyane Wade",
       "C": "Chris Bosh",
       "D": "LeBron James"
-    },
-    "answer": "C"
+    }
   },
   "77": {
     "vid_path": "Eval_video/NBA/20.mp4",
@@ -916,8 +839,7 @@
       "B": "NBA playoffs",
       "C": "NBA regular season",
       "D": "All-Star game"
-    },
-    "answer": "C"
+    }
   },
   "78": {
     "vid_path": "Eval_video/NBA/20.mp4",
@@ -928,8 +850,7 @@
       "B": "San Antonio Spurs vs. Miami Heat",
       "C": "Houston Rockets vs. New Jersey Nets",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "C"
+    }
   },
   "79": {
     "vid_path": "Eval_video/NBA/20.mp4",
@@ -940,8 +861,7 @@
       "B": "82-80, Houston Rockets leading",
       "C": "68-72, New Jersey Nets leading",
       "D": "87-65, New Jersey Nets leading"
-    },
-    "answer": "A"
+    }
   },
   "80": {
     "vid_path": "Eval_video/NBA/20.mp4",
@@ -950,8 +870,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "81": {
     "vid_path": "Eval_video/NBA/20.mp4",
@@ -962,8 +881,7 @@
       "B": "Two attempts, both successful",
       "C": "One attempt, successful",
       "D": "Two attempts, both unsuccessful"
-    },
-    "answer": "C"
+    }
   },
   "82": {
     "vid_path": "Eval_video/NBA/20.mp4",
@@ -974,8 +892,7 @@
       "B": "James Harden",
       "C": "Unknown",
       "D": "Kyrie Irving"
-    },
-    "answer": "C"
+    }
   },
   "83": {
     "vid_path": "Eval_video/NBA/20.mp4",
@@ -986,8 +903,7 @@
       "B": "Brooks",
       "C": "Kevin Durant",
       "D": "James Harden"
-    },
-    "answer": "B"
+    }
   },
   "84": {
     "vid_path": "Eval_video/NBA/21.mp4",
@@ -998,8 +914,7 @@
       "B": "NBA regular season",
       "C": "NBA All-Star Game",
       "D": "NBA Finals"
-    },
-    "answer": "B"
+    }
   },
   "85": {
     "vid_path": "Eval_video/NBA/21.mp4",
@@ -1010,8 +925,7 @@
       "B": "Golden State Warriors vs. Cleveland Cavaliers",
       "C": "Los Angeles Lakers vs. Boston Celtics",
       "D": "Chicago Bulls vs. Miami Heat"
-    },
-    "answer": "D"
+    }
   },
   "86": {
     "vid_path": "Eval_video/NBA/21.mp4",
@@ -1022,8 +936,7 @@
       "B": "21-7, Heat were behind",
       "C": "7-21, Heat were ahead",
       "D": "21-7, Bulls were ahead"
-    },
-    "answer": "A"
+    }
   },
   "87": {
     "vid_path": "Eval_video/NBA/21.mp4",
@@ -1032,8 +945,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "88": {
     "vid_path": "Eval_video/NBA/21.mp4",
@@ -1044,8 +956,7 @@
       "B": "Two attempts, both missed",
       "C": "Three attempts, two made, one missed",
       "D": "Four attempts, all missed"
-    },
-    "answer": "A"
+    }
   },
   "89": {
     "vid_path": "Eval_video/NBA/21.mp4",
@@ -1056,8 +967,7 @@
       "B": "Unknown",
       "C": "Wade",
       "D": "James"
-    },
-    "answer": "A"
+    }
   },
   "90": {
     "vid_path": "Eval_video/NBA/21.mp4",
@@ -1068,8 +978,7 @@
       "B": "Unknown",
       "C": "Wade",
       "D": "James"
-    },
-    "answer": "C"
+    }
   },
   "91": {
     "vid_path": "Eval_video/NBA/22.mp4",
@@ -1080,8 +989,7 @@
       "B": "2018 NBA Eastern Conference First Round G3",
       "C": "2018 NBA Western Conference First Round G3",
       "D": "2018 NBA Western Conference Finals G3"
-    },
-    "answer": "C"
+    }
   },
   "92": {
     "vid_path": "Eval_video/NBA/22.mp4",
@@ -1092,8 +1000,7 @@
       "B": "Los Angeles Lakers vs New Orleans Pelicans",
       "C": "Golden State Warriors vs Houston Rockets",
       "D": "Golden State Warriors vs New Orleans Pelicans"
-    },
-    "answer": "D"
+    }
   },
   "93": {
     "vid_path": "Eval_video/NBA/22.mp4",
@@ -1104,8 +1011,7 @@
       "B": "105-108, with the Warriors leading",
       "C": "108-105, with the Warriors trailing",
       "D": "108-105, with the Warriors leading"
-    },
-    "answer": "A"
+    }
   },
   "94": {
     "vid_path": "Eval_video/NBA/22.mp4",
@@ -1114,8 +1020,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "95": {
     "vid_path": "Eval_video/NBA/22.mp4",
@@ -1126,8 +1031,7 @@
       "B": "2 attempts, Curry missed a three-pointer and made a three-pointer",
       "C": "1 attempt, Curry made a three-pointer",
       "D": "1 attempt, Curry missed a three-pointer"
-    },
-    "answer": "B"
+    }
   },
   "96": {
     "vid_path": "Eval_video/NBA/22.mp4",
@@ -1138,8 +1042,7 @@
       "B": "Thompson",
       "C": "Curry",
       "D": "Speights"
-    },
-    "answer": "A"
+    }
   },
   "97": {
     "vid_path": "Eval_video/NBA/22.mp4",
@@ -1150,8 +1053,7 @@
       "B": "Curry",
       "C": "Davis",
       "D": "Thompson"
-    },
-    "answer": "C"
+    }
   },
   "98": {
     "vid_path": "Eval_video/NBA/23.mp4",
@@ -1162,8 +1064,7 @@
       "B": "2010 NBA Finals Game 7",
       "C": "1998 NBA Finals Game 6",
       "D": "2005 NBA All-Star Game"
-    },
-    "answer": "A"
+    }
   },
   "99": {
     "vid_path": "Eval_video/NBA/23.mp4",
@@ -1174,8 +1075,7 @@
       "B": "Houston Rockets vs. Golden State Warriors",
       "C": "Chicago Bulls vs. Detroit Pistons",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "A"
+    }
   },
   "100": {
     "vid_path": "Eval_video/NBA/23.mp4",
@@ -1186,8 +1086,7 @@
       "B": "73-71, Pacers leading",
       "C": "104-98, Heat leading",
       "D": "89-95, Heat leading"
-    },
-    "answer": "B"
+    }
   },
   "101": {
     "vid_path": "Eval_video/NBA/23.mp4",
@@ -1196,8 +1095,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "A"
+    }
   },
   "102": {
     "vid_path": "Eval_video/NBA/23.mp4",
@@ -1208,8 +1106,7 @@
       "B": "Three",
       "C": "Four",
       "D": "One"
-    },
-    "answer": "A"
+    }
   },
   "103": {
     "vid_path": "Eval_video/NBA/23.mp4",
@@ -1220,8 +1117,7 @@
       "B": "Roy Hibbert",
       "C": "Dwyane Wade",
       "D": "Paul George"
-    },
-    "answer": "A"
+    }
   },
   "104": {
     "vid_path": "Eval_video/NBA/23.mp4",
@@ -1232,8 +1128,7 @@
       "B": "Paul George",
       "C": "Dwyane Wade",
       "D": "LeBron James"
-    },
-    "answer": "A"
+    }
   },
   "105": {
     "vid_path": "Eval_video/NBA/24.mp4",
@@ -1244,8 +1139,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "106": {
     "vid_path": "Eval_video/NBA/24.mp4",
@@ -1256,8 +1150,7 @@
       "B": "Los Angeles Lakers vs Brooklyn Nets",
       "C": "Golden State Warriors vs Houston Rockets",
       "D": "Los Angeles Clippers vs Miami Heat"
-    },
-    "answer": "B"
+    }
   },
   "107": {
     "vid_path": "Eval_video/NBA/24.mp4",
@@ -1268,8 +1161,7 @@
       "B": "73-72, Lakers ahead",
       "C": "74-71, Lakers ahead",
       "D": "72-73, Lakers behind"
-    },
-    "answer": "D"
+    }
   },
   "108": {
     "vid_path": "Eval_video/NBA/24.mp4",
@@ -1278,8 +1170,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "109": {
     "vid_path": "Eval_video/NBA/24.mp4",
@@ -1290,8 +1181,7 @@
       "B": "4 attempts, all missed shots",
       "C": "2 attempts, both missed shots",
       "D": "1 attempt, a dunk by Nance"
-    },
-    "answer": "D"
+    }
   },
   "110": {
     "vid_path": "Eval_video/NBA/24.mp4",
@@ -1302,8 +1192,7 @@
       "B": "Lopez",
       "C": "Nance",
       "D": "Ingram"
-    },
-    "answer": "B"
+    }
   },
   "111": {
     "vid_path": "Eval_video/NBA/24.mp4",
@@ -1314,8 +1203,7 @@
       "B": "None, individual play",
       "C": "Hart",
       "D": "Ingram"
-    },
-    "answer": "B"
+    }
   },
   "112": {
     "vid_path": "Eval_video/NBA/25.mp4",
@@ -1326,8 +1214,7 @@
       "B": "NBA All-Star game",
       "C": "NBA finals",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "113": {
     "vid_path": "Eval_video/NBA/25.mp4",
@@ -1338,8 +1225,7 @@
       "B": "Cleveland Cavaliers vs. Washington Wizards",
       "C": "Golden State Warriors vs. Houston Rockets",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "B"
+    }
   },
   "114": {
     "vid_path": "Eval_video/NBA/25.mp4",
@@ -1350,8 +1236,7 @@
       "B": "119-117, Cavaliers leading",
       "C": "119-117, Wizards leading",
       "D": "117-119, Wizards trailing"
-    },
-    "answer": "A"
+    }
   },
   "115": {
     "vid_path": "Eval_video/NBA/25.mp4",
@@ -1362,8 +1247,7 @@
       "B": "No",
       "C": "I don't know",
       "D": "Yes"
-    },
-    "answer": "D"
+    }
   },
   "116": {
     "vid_path": "Eval_video/NBA/25.mp4",
@@ -1374,8 +1258,7 @@
       "B": "None",
       "C": "More than two",
       "D": "Two - one made and one missed shot"
-    },
-    "answer": "A"
+    }
   },
   "117": {
     "vid_path": "Eval_video/NBA/25.mp4",
@@ -1386,8 +1269,7 @@
       "B": "Bill",
       "C": "LeBron James",
       "D": "Kevin Love"
-    },
-    "answer": "B"
+    }
   },
   "118": {
     "vid_path": "Eval_video/NBA/25.mp4",
@@ -1398,8 +1280,7 @@
       "B": "I don't know",
       "C": "LeBron James",
       "D": "Someone else"
-    },
-    "answer": "A"
+    }
   },
   "119": {
     "vid_path": "Eval_video/NBA/26.mp4",
@@ -1410,8 +1291,7 @@
       "B": "NBA regular season",
       "C": "NBA Finals",
       "D": "NBA All-Star Game"
-    },
-    "answer": "B"
+    }
   },
   "120": {
     "vid_path": "Eval_video/NBA/26.mp4",
@@ -1422,8 +1302,7 @@
       "B": "Miami Heat vs Toronto Raptors",
       "C": "Golden State Warriors vs Boston Celtics",
       "D": "Los Angeles Lakers vs Brooklyn Nets"
-    },
-    "answer": "D"
+    }
   },
   "121": {
     "vid_path": "Eval_video/NBA/26.mp4",
@@ -1434,8 +1313,7 @@
       "B": "70-70",
       "C": "90-90",
       "D": "80-80"
-    },
-    "answer": "D"
+    }
   },
   "122": {
     "vid_path": "Eval_video/NBA/26.mp4",
@@ -1446,8 +1324,7 @@
       "B": "Not mentioned",
       "C": "Yes",
       "D": "I'm not sure"
-    },
-    "answer": "A"
+    }
   },
   "123": {
     "vid_path": "Eval_video/NBA/26.mp4",
@@ -1458,8 +1335,7 @@
       "B": "Three attempts and all scored",
       "C": "Two attempts and both missed",
       "D": "One attempt and Kobe Bryant scored a dunk"
-    },
-    "answer": "D"
+    }
   },
   "124": {
     "vid_path": "Eval_video/NBA/26.mp4",
@@ -1470,8 +1346,7 @@
       "B": "Durant & Curry",
       "C": "Jordan & Harden",
       "D": "Wallace & Humphries"
-    },
-    "answer": "D"
+    }
   },
   "125": {
     "vid_path": "Eval_video/NBA/26.mp4",
@@ -1482,8 +1357,7 @@
       "B": "Not mentioned/No assist",
       "C": "Kevin Durant",
       "D": "LeBron James"
-    },
-    "answer": "B"
+    }
   },
   "126": {
     "vid_path": "Eval_video/NBA/27.mp4",
@@ -1494,8 +1368,7 @@
       "B": "NBA regular season",
       "C": "NBA All-Star game",
       "D": "NBA finals"
-    },
-    "answer": "B"
+    }
   },
   "127": {
     "vid_path": "Eval_video/NBA/27.mp4",
@@ -1506,8 +1379,7 @@
       "B": "Chicago Bulls vs. Miami Heat",
       "C": "Houston Rockets vs. Boston Celtics",
       "D": "Charlotte Hornets vs. Toronto Raptors"
-    },
-    "answer": "D"
+    }
   },
   "128": {
     "vid_path": "Eval_video/NBA/27.mp4",
@@ -1518,8 +1390,7 @@
       "B": "112-114, Raptors trailing",
       "C": "112-114, Hornets trailing",
       "D": "114-112, Raptors leading"
-    },
-    "answer": "C"
+    }
   },
   "129": {
     "vid_path": "Eval_video/NBA/27.mp4",
@@ -1530,8 +1401,7 @@
       "B": "Not mentioned",
       "C": "No",
       "D": "Unclear"
-    },
-    "answer": "C"
+    }
   },
   "130": {
     "vid_path": "Eval_video/NBA/27.mp4",
@@ -1542,8 +1412,7 @@
       "B": "Three attempts, one made basket",
       "C": "One attempt, made basket",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "131": {
     "vid_path": "Eval_video/NBA/27.mp4",
@@ -1554,8 +1423,7 @@
       "B": "Kemba Walker",
       "C": "Jeremy Lamb",
       "D": "Pascal Siakam"
-    },
-    "answer": "D"
+    }
   },
   "132": {
     "vid_path": "Eval_video/NBA/27.mp4",
@@ -1566,8 +1434,7 @@
       "B": "Jeremy Lamb",
       "C": "Pascal Siakam",
       "D": "Kemba Walker"
-    },
-    "answer": "A"
+    }
   },
   "133": {
     "vid_path": "Eval_video/NBA/28.mp4",
@@ -1578,8 +1445,7 @@
       "B": "NBA finals",
       "C": "NBA All-Star game",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "134": {
     "vid_path": "Eval_video/NBA/28.mp4",
@@ -1590,8 +1456,7 @@
       "B": "Golden State Warriors vs Brooklyn Nets",
       "C": "Houston Rockets vs Miami Heat",
       "D": "Milwaukee Bucks vs Toronto Raptors"
-    },
-    "answer": "B"
+    }
   },
   "135": {
     "vid_path": "Eval_video/NBA/28.mp4",
@@ -1602,8 +1467,7 @@
       "B": "23-14, Celtics leading",
       "C": "14-23, Celtics leading",
       "D": "23-14, Celtics trailing"
-    },
-    "answer": "A"
+    }
   },
   "136": {
     "vid_path": "Eval_video/NBA/28.mp4",
@@ -1612,8 +1476,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "137": {
     "vid_path": "Eval_video/NBA/28.mp4",
@@ -1624,8 +1487,7 @@
       "B": "2 attempts, both missed",
       "C": "2 attempts, 1 made and 1 missed",
       "D": "1 attempt, missed"
-    },
-    "answer": "A"
+    }
   },
   "138": {
     "vid_path": "Eval_video/NBA/28.mp4",
@@ -1636,8 +1498,7 @@
       "B": "Curry",
       "C": "Thompson",
       "D": "Durant"
-    },
-    "answer": "C"
+    }
   },
   "139": {
     "vid_path": "Eval_video/NBA/28.mp4",
@@ -1648,8 +1509,7 @@
       "B": "Rondo",
       "C": "Durant",
       "D": "Thompson"
-    },
-    "answer": "B"
+    }
   },
   "140": {
     "vid_path": "Eval_video/NBA/29.mp4",
@@ -1660,8 +1520,7 @@
       "B": "2018 NBA All-Star Game",
       "C": "2018 NBA Eastern Conference Semifinals G3",
       "D": "2018 NBA Finals Game 3"
-    },
-    "answer": "C"
+    }
   },
   "141": {
     "vid_path": "Eval_video/NBA/29.mp4",
@@ -1672,8 +1531,7 @@
       "B": "Los Angeles Lakers vs San Antonio Spurs",
       "C": "Miami Heat vs Boston Celtics",
       "D": "Cleveland Cavaliers vs Golden State Warriors"
-    },
-    "answer": "A"
+    }
   },
   "142": {
     "vid_path": "Eval_video/NBA/29.mp4",
@@ -1684,8 +1542,7 @@
       "B": "85-82, Cavaliers leading",
       "C": "71-68, Cavaliers leading",
       "D": "104-99, Bulls leading"
-    },
-    "answer": "A"
+    }
   },
   "143": {
     "vid_path": "Eval_video/NBA/29.mp4",
@@ -1694,8 +1551,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "144": {
     "vid_path": "Eval_video/NBA/29.mp4",
@@ -1706,8 +1562,7 @@
       "B": "Three. Two made shots and one missed shot",
       "C": "One. Derrick Rose made a three-pointer",
       "D": "None. Only defensive plays were shown"
-    },
-    "answer": "C"
+    }
   },
   "145": {
     "vid_path": "Eval_video/NBA/29.mp4",
@@ -1718,8 +1573,7 @@
       "B": "Tristan Thompson",
       "C": "LeBron James",
       "D": "Dwyane Wade"
-    },
-    "answer": "B"
+    }
   },
   "146": {
     "vid_path": "Eval_video/NBA/29.mp4",
@@ -1730,8 +1584,7 @@
       "B": "Kyrie Irving",
       "C": "LeBron James",
       "D": "No assist, individual play"
-    },
-    "answer": "D"
+    }
   },
   "147": {
     "vid_path": "Eval_video/NBA/2.mp4",
@@ -1742,8 +1595,7 @@
       "B": "2019 NBA All-Star Game",
       "C": "2017 NBA Playoffs",
       "D": "2016 NBA Finals G7"
-    },
-    "answer": "D"
+    }
   },
   "148": {
     "vid_path": "Eval_video/NBA/2.mp4",
@@ -1754,8 +1606,7 @@
       "B": "Cleveland Cavaliers vs Golden State Warriors",
       "C": "Los Angeles Lakers vs Boston Celtics",
       "D": "Miami Heat vs San Antonio Spurs"
-    },
-    "answer": "B"
+    }
   },
   "149": {
     "vid_path": "Eval_video/NBA/2.mp4",
@@ -1766,8 +1617,7 @@
       "B": "78-71, home team leading",
       "C": "110-108, away team leading",
       "D": "89-89, tied"
-    },
-    "answer": "D"
+    }
   },
   "150": {
     "vid_path": "Eval_video/NBA/2.mp4",
@@ -1778,8 +1628,7 @@
       "B": "No",
       "C": "Yes",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "151": {
     "vid_path": "Eval_video/NBA/2.mp4",
@@ -1790,8 +1639,7 @@
       "B": "Two attempts, both missed",
       "C": "Three attempts, one made",
       "D": "One attempt, blocked by James"
-    },
-    "answer": "D"
+    }
   },
   "152": {
     "vid_path": "Eval_video/NBA/2.mp4",
@@ -1802,8 +1650,7 @@
       "B": "Thompson",
       "C": "James",
       "D": "Curry"
-    },
-    "answer": "C"
+    }
   },
   "153": {
     "vid_path": "Eval_video/NBA/2.mp4",
@@ -1814,8 +1661,7 @@
       "B": "No score, no assist",
       "C": "Davis",
       "D": "Westbrook"
-    },
-    "answer": "B"
+    }
   },
   "154": {
     "vid_path": "Eval_video/NBA/30.mp4",
@@ -1826,8 +1672,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA regular season",
       "D": "NBA playoffs"
-    },
-    "answer": "C"
+    }
   },
   "155": {
     "vid_path": "Eval_video/NBA/30.mp4",
@@ -1838,8 +1683,7 @@
       "B": "Golden State Warriors vs. Los Angeles Lakers",
       "C": "Boston Celtics vs. Houston Rockets",
       "D": "Toronto Raptors vs. Miami Heat"
-    },
-    "answer": "D"
+    }
   },
   "156": {
     "vid_path": "Eval_video/NBA/30.mp4",
@@ -1850,8 +1694,7 @@
       "B": "117-93, with the Miami Heat leading",
       "C": "93-117, with the Toronto Raptors leading",
       "D": "117-93, with the Toronto Raptors leading"
-    },
-    "answer": "D"
+    }
   },
   "157": {
     "vid_path": "Eval_video/NBA/30.mp4",
@@ -1862,8 +1705,7 @@
       "B": "Not enough information",
       "C": "Not mentioned",
       "D": "Yes"
-    },
-    "answer": "D"
+    }
   },
   "158": {
     "vid_path": "Eval_video/NBA/30.mp4",
@@ -1874,8 +1716,7 @@
       "B": "Three attempts, one made basket",
       "C": "Not mentioned",
       "D": "Two attempts, both missed"
-    },
-    "answer": "A"
+    }
   },
   "159": {
     "vid_path": "Eval_video/NBA/30.mp4",
@@ -1886,8 +1727,7 @@
       "B": "Jones",
       "C": "Not enough information",
       "D": "Miller"
-    },
-    "answer": "D"
+    }
   },
   "160": {
     "vid_path": "Eval_video/NBA/30.mp4",
@@ -1898,8 +1738,7 @@
       "B": "Abbott",
       "C": "Adewale",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "161": {
     "vid_path": "Eval_video/NBA/31.mp4",
@@ -1910,8 +1749,7 @@
       "B": "NBA playoffs",
       "C": "NBA Finals",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "162": {
     "vid_path": "Eval_video/NBA/31.mp4",
@@ -1922,8 +1760,7 @@
       "B": "Houston Rockets vs. Golden State Warriors",
       "C": "Toronto Raptors vs. Philadelphia 76ers",
       "D": "Chicago Bulls vs. Miami Heat"
-    },
-    "answer": "B"
+    }
   },
   "163": {
     "vid_path": "Eval_video/NBA/31.mp4",
@@ -1934,8 +1771,7 @@
       "B": "134-132, Rockets leading by 2 points",
       "C": "132-134, Rockets trailing by 2 points",
       "D": "132-132, tied"
-    },
-    "answer": "C"
+    }
   },
   "164": {
     "vid_path": "Eval_video/NBA/31.mp4",
@@ -1946,8 +1782,7 @@
       "B": "Not mentioned",
       "C": "Yes",
       "D": "None of the above"
-    },
-    "answer": "A"
+    }
   },
   "165": {
     "vid_path": "Eval_video/NBA/31.mp4",
@@ -1958,8 +1793,7 @@
       "B": "Two attempts, both successful",
       "C": "Not mentioned",
       "D": "No attempts shown"
-    },
-    "answer": "A"
+    }
   },
   "166": {
     "vid_path": "Eval_video/NBA/31.mp4",
@@ -1970,8 +1804,7 @@
       "B": "Green and Thompson",
       "C": "Harden and Westbrook",
       "D": "Not mentioned"
-    },
-    "answer": "B"
+    }
   },
   "167": {
     "vid_path": "Eval_video/NBA/31.mp4",
@@ -1982,8 +1815,7 @@
       "B": "Westbrook",
       "C": "Not mentioned",
       "D": "Curry"
-    },
-    "answer": "C"
+    }
   },
   "168": {
     "vid_path": "Eval_video/NBA/32.mp4",
@@ -1994,8 +1826,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "169": {
     "vid_path": "Eval_video/NBA/32.mp4",
@@ -2006,8 +1837,7 @@
       "B": "Chicago Bulls vs. Boston Celtics",
       "C": "Chicago Bulls vs. Phoenix Suns",
       "D": "Chicago Bulls vs. Miami Heat"
-    },
-    "answer": "C"
+    }
   },
   "170": {
     "vid_path": "Eval_video/NBA/32.mp4",
@@ -2018,8 +1848,7 @@
       "B": "91-97, Phoenix Suns leading",
       "C": "97-91, Phoenix Suns leading",
       "D": "91-97, Chicago Bulls leading"
-    },
-    "answer": "A"
+    }
   },
   "171": {
     "vid_path": "Eval_video/NBA/32.mp4",
@@ -2028,8 +1857,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "172": {
     "vid_path": "Eval_video/NBA/32.mp4",
@@ -2040,8 +1868,7 @@
       "B": "Four",
       "C": "Two",
       "D": "One"
-    },
-    "answer": "D"
+    }
   },
   "173": {
     "vid_path": "Eval_video/NBA/32.mp4",
@@ -2052,8 +1879,7 @@
       "B": "Rose",
       "C": "Dragic",
       "D": "Butler"
-    },
-    "answer": "C"
+    }
   },
   "174": {
     "vid_path": "Eval_video/NBA/32.mp4",
@@ -2064,8 +1890,7 @@
       "B": "Derrick Rose",
       "C": "Jordan",
       "D": "Butler"
-    },
-    "answer": "B"
+    }
   },
   "175": {
     "vid_path": "Eval_video/NBA/33.mp4",
@@ -2076,8 +1901,7 @@
       "B": "NBA regular season",
       "C": "NBA All-Star game",
       "D": "NBA playoffs"
-    },
-    "answer": "B"
+    }
   },
   "176": {
     "vid_path": "Eval_video/NBA/33.mp4",
@@ -2088,8 +1912,7 @@
       "B": "Los Angeles Lakers vs Miami Heat",
       "C": "Golden State Warriors vs Houston Rockets",
       "D": "Milwaukee Bucks vs Toronto Raptors"
-    },
-    "answer": "A"
+    }
   },
   "177": {
     "vid_path": "Eval_video/NBA/33.mp4",
@@ -2100,8 +1923,7 @@
       "B": "74-65, Celtics leading",
       "C": "74-65, Nets leading",
       "D": "65-74, Celtics leading"
-    },
-    "answer": "C"
+    }
   },
   "178": {
     "vid_path": "Eval_video/NBA/33.mp4",
@@ -2112,8 +1934,7 @@
       "B": "Yes",
       "C": "Unclear",
       "D": "Not mentioned in the text"
-    },
-    "answer": "A"
+    }
   },
   "179": {
     "vid_path": "Eval_video/NBA/33.mp4",
@@ -2124,8 +1945,7 @@
       "B": "No offensive attempts were shown",
       "C": "One attempt, Johnson made a mid-range jump shot",
       "D": "Two attempts, Johnson missed both shots"
-    },
-    "answer": "C"
+    }
   },
   "180": {
     "vid_path": "Eval_video/NBA/33.mp4",
@@ -2136,8 +1956,7 @@
       "B": "Johnson",
       "C": "Not mentioned in the text",
       "D": "Pierce"
-    },
-    "answer": "D"
+    }
   },
   "181": {
     "vid_path": "Eval_video/NBA/33.mp4",
@@ -2148,8 +1967,7 @@
       "B": "Pierce",
       "C": "Not mentioned in the text",
       "D": "No assist was given"
-    },
-    "answer": "D"
+    }
   },
   "182": {
     "vid_path": "Eval_video/NBA/34.mp4",
@@ -2160,8 +1978,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "183": {
     "vid_path": "Eval_video/NBA/34.mp4",
@@ -2172,8 +1989,7 @@
       "B": "Los Angeles Lakers vs. Brooklyn Nets",
       "C": "Miami Heat vs. Boston Celtics",
       "D": "Milwaukee Bucks vs. Los Angeles Clippers"
-    },
-    "answer": "D"
+    }
   },
   "184": {
     "vid_path": "Eval_video/NBA/34.mp4",
@@ -2184,8 +2000,7 @@
       "B": "91-106, Bucks trailing",
       "C": "106-91, Bucks trailing",
       "D": "91-106, Bucks leading"
-    },
-    "answer": "B"
+    }
   },
   "185": {
     "vid_path": "Eval_video/NBA/34.mp4",
@@ -2194,8 +2009,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "186": {
     "vid_path": "Eval_video/NBA/34.mp4",
@@ -2206,8 +2020,7 @@
       "B": "Multiple attempts, mixed results",
       "C": "One attempt, Griffin dunks successfully",
       "D": "Two attempts, both missed"
-    },
-    "answer": "C"
+    }
   },
   "187": {
     "vid_path": "Eval_video/NBA/34.mp4",
@@ -2218,8 +2031,7 @@
       "B": "Giannis Antetokounmpo",
       "C": "Kawhi Leonard",
       "D": "Paul George"
-    },
-    "answer": "A"
+    }
   },
   "188": {
     "vid_path": "Eval_video/NBA/34.mp4",
@@ -2230,8 +2042,7 @@
       "B": "Crawford",
       "C": "Leonard",
       "D": "Antetokounmpo"
-    },
-    "answer": "B"
+    }
   },
   "189": {
     "vid_path": "Eval_video/NBA/35.mp4",
@@ -2242,8 +2053,7 @@
       "B": "2010 NBA Finals",
       "C": "2015 NBA Finals",
       "D": "2011 NBA Eastern Conference Finals"
-    },
-    "answer": "D"
+    }
   },
   "190": {
     "vid_path": "Eval_video/NBA/35.mp4",
@@ -2254,8 +2064,7 @@
       "B": "Chicago Bulls vs. Miami Heat",
       "C": "Los Angeles Lakers vs. Boston Celtics",
       "D": "Golden State Warriors vs. Cleveland Cavaliers"
-    },
-    "answer": "B"
+    }
   },
   "191": {
     "vid_path": "Eval_video/NBA/35.mp4",
@@ -2266,8 +2075,7 @@
       "B": "40-42, Bulls leading",
       "C": "42-40, Bulls trailing",
       "D": "40-42, Bulls trailing"
-    },
-    "answer": "D"
+    }
   },
   "192": {
     "vid_path": "Eval_video/NBA/35.mp4",
@@ -2278,8 +2086,7 @@
       "B": "The question is ambiguous",
       "C": "The question doesn't mention it",
       "D": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "193": {
     "vid_path": "Eval_video/NBA/35.mp4",
@@ -2290,8 +2097,7 @@
       "B": "2 attempts, both scored",
       "C": "2 attempts, both missed",
       "D": "1 attempt, missed"
-    },
-    "answer": "D"
+    }
   },
   "194": {
     "vid_path": "Eval_video/NBA/35.mp4",
@@ -2302,8 +2108,7 @@
       "B": "Jordan",
       "C": "Anthony",
       "D": "Smith"
-    },
-    "answer": "C"
+    }
   },
   "195": {
     "vid_path": "Eval_video/NBA/35.mp4",
@@ -2314,8 +2119,7 @@
       "B": "Anthony",
       "C": "Smith",
       "D": "Johnson"
-    },
-    "answer": "A"
+    }
   },
   "196": {
     "vid_path": "Eval_video/NBA/36.mp4",
@@ -2326,8 +2130,7 @@
       "B": "NBA playoff game",
       "C": "NBA preseason game",
       "D": "NBA regular season game"
-    },
-    "answer": "D"
+    }
   },
   "197": {
     "vid_path": "Eval_video/NBA/36.mp4",
@@ -2338,8 +2141,7 @@
       "B": "Boston Celtics vs. Philadelphia 76ers",
       "C": "Golden State Warriors vs. Los Angeles Clippers",
       "D": "Houston Rockets vs. Los Angeles Lakers"
-    },
-    "answer": "C"
+    }
   },
   "198": {
     "vid_path": "Eval_video/NBA/36.mp4",
@@ -2350,8 +2152,7 @@
       "B": "39-48, with the Warriors trailing",
       "C": "48-39, with the Clippers trailing",
       "D": "48-39, with the Warriors leading"
-    },
-    "answer": "B"
+    }
   },
   "199": {
     "vid_path": "Eval_video/NBA/36.mp4",
@@ -2360,8 +2161,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "200": {
     "vid_path": "Eval_video/NBA/36.mp4",
@@ -2372,8 +2172,7 @@
       "B": "Two attempts, both missed",
       "C": "One attempt, missed",
       "D": "Two attempts, one made and one missed"
-    },
-    "answer": "A"
+    }
   },
   "201": {
     "vid_path": "Eval_video/NBA/36.mp4",
@@ -2384,8 +2183,7 @@
       "B": "Kevin Durant",
       "C": "Kawhi Leonard",
       "D": "Chris Paul"
-    },
-    "answer": "D"
+    }
   },
   "202": {
     "vid_path": "Eval_video/NBA/36.mp4",
@@ -2396,8 +2194,7 @@
       "B": "Steph Curry",
       "C": "Kevin Durant",
       "D": "There was no assist, it was an individual play"
-    },
-    "answer": "D"
+    }
   },
   "203": {
     "vid_path": "Eval_video/NBA/37.mp4",
@@ -2408,8 +2205,7 @@
       "B": "2017 NBA Finals G6",
       "C": "2018 NBA Eastern Conference semifinals G3",
       "D": "2019 NBA Western Conference finals G4"
-    },
-    "answer": "C"
+    }
   },
   "204": {
     "vid_path": "Eval_video/NBA/37.mp4",
@@ -2420,8 +2216,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Golden State Warriors vs. Houston Rockets",
       "D": "Miami Heat vs. San Antonio Spurs"
-    },
-    "answer": "A"
+    }
   },
   "205": {
     "vid_path": "Eval_video/NBA/37.mp4",
@@ -2432,8 +2227,7 @@
       "B": "103-103, tied",
       "C": "110-108, Cavaliers leading",
       "D": "98-97, Raptors leading"
-    },
-    "answer": "B"
+    }
   },
   "206": {
     "vid_path": "Eval_video/NBA/37.mp4",
@@ -2444,8 +2238,7 @@
       "B": "Not mentioned",
       "C": "Yes",
       "D": "No"
-    },
-    "answer": "D"
+    }
   },
   "207": {
     "vid_path": "Eval_video/NBA/37.mp4",
@@ -2456,8 +2249,7 @@
       "B": "2 attempts, both missed",
       "C": "3 attempts, all missed",
       "D": "4 attempts, 2 made and 2 missed"
-    },
-    "answer": "A"
+    }
   },
   "208": {
     "vid_path": "Eval_video/NBA/37.mp4",
@@ -2468,8 +2260,7 @@
       "B": "LeBron James",
       "C": "Kyrie Irving",
       "D": "Anunoby"
-    },
-    "answer": "D"
+    }
   },
   "209": {
     "vid_path": "Eval_video/NBA/37.mp4",
@@ -2480,8 +2271,7 @@
       "B": "An individual effort with no assist",
       "C": "Kyle Lowry",
       "D": "LeBron James"
-    },
-    "answer": "B"
+    }
   },
   "210": {
     "vid_path": "Eval_video/NBA/38.mp4",
@@ -2492,8 +2282,7 @@
       "B": "NBA regular season",
       "C": "NBA Finals",
       "D": "NBA All-Star game"
-    },
-    "answer": "B"
+    }
   },
   "211": {
     "vid_path": "Eval_video/NBA/38.mp4",
@@ -2504,8 +2293,7 @@
       "B": "Houston Rockets vs Toronto Raptors",
       "C": "Chicago Bulls vs Boston Celtics",
       "D": "New Orleans Pelicans vs Oklahoma City Thunder"
-    },
-    "answer": "D"
+    }
   },
   "212": {
     "vid_path": "Eval_video/NBA/38.mp4",
@@ -2516,8 +2304,7 @@
       "B": "113-113, tied",
       "C": "104-98, away team leading",
       "D": "87-95, home team leading"
-    },
-    "answer": "B"
+    }
   },
   "213": {
     "vid_path": "Eval_video/NBA/38.mp4",
@@ -2526,8 +2313,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "214": {
     "vid_path": "Eval_video/NBA/38.mp4",
@@ -2538,8 +2324,7 @@
       "B": "3 attempts, all missed",
       "C": "2 attempts, one made and one missed",
       "D": "2 attempts, both missed"
-    },
-    "answer": "A"
+    }
   },
   "215": {
     "vid_path": "Eval_video/NBA/38.mp4",
@@ -2550,8 +2335,7 @@
       "B": "Davis and Thompson",
       "C": "Durant and Robers",
       "D": "Irving and Butler"
-    },
-    "answer": "C"
+    }
   },
   "216": {
     "vid_path": "Eval_video/NBA/38.mp4",
@@ -2562,8 +2346,7 @@
       "B": "Davis",
       "C": "Robers",
       "D": "No one"
-    },
-    "answer": "D"
+    }
   },
   "217": {
     "vid_path": "Eval_video/NBA/39.mp4",
@@ -2574,8 +2357,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA Finals",
       "D": "NBA Playoffs"
-    },
-    "answer": "A"
+    }
   },
   "218": {
     "vid_path": "Eval_video/NBA/39.mp4",
@@ -2586,8 +2368,7 @@
       "B": "Miami Heat vs San Antonio Spurs",
       "C": "Cleveland Cavaliers vs Houston Rockets",
       "D": "Cleveland Cavaliers vs Golden State Warriors"
-    },
-    "answer": "C"
+    }
   },
   "219": {
     "vid_path": "Eval_video/NBA/39.mp4",
@@ -2598,8 +2379,7 @@
       "B": "81-66, Cavaliers leading",
       "C": "81-66, Rockets leading",
       "D": "66-81, Cavaliers leading"
-    },
-    "answer": "B"
+    }
   },
   "220": {
     "vid_path": "Eval_video/NBA/39.mp4",
@@ -2608,8 +2388,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "221": {
     "vid_path": "Eval_video/NBA/39.mp4",
@@ -2620,8 +2399,7 @@
       "B": "1 attempt, made",
       "C": "2 attempts, missed",
       "D": "2 attempts, made"
-    },
-    "answer": "B"
+    }
   },
   "222": {
     "vid_path": "Eval_video/NBA/39.mp4",
@@ -2632,8 +2410,7 @@
       "B": "Irving and Love",
       "C": "LeBron and Durant",
       "D": "Thompson and Smith"
-    },
-    "answer": "A"
+    }
   },
   "223": {
     "vid_path": "Eval_video/NBA/39.mp4",
@@ -2644,8 +2421,7 @@
       "B": "Kevin Love",
       "C": "James Harden",
       "D": "Kyrie Irving"
-    },
-    "answer": "A"
+    }
   },
   "224": {
     "vid_path": "Eval_video/NBA/3.mp4",
@@ -2656,8 +2432,7 @@
       "B": "2019 NBA Finals G7",
       "C": "2018 Eastern Conference Semifinals G7",
       "D": "2019 Eastern Conference Finals G7"
-    },
-    "answer": "D"
+    }
   },
   "225": {
     "vid_path": "Eval_video/NBA/3.mp4",
@@ -2668,8 +2443,7 @@
       "B": "Los Angeles Lakers vs Boston Celtics",
       "C": "Golden State Warriors vs Cleveland Cavaliers",
       "D": "Houston Rockets vs Milwaukee Bucks"
-    },
-    "answer": "A"
+    }
   },
   "226": {
     "vid_path": "Eval_video/NBA/3.mp4",
@@ -2680,8 +2454,7 @@
       "B": "90-90. The game was tied.",
       "C": "80-80. The game was tied.",
       "D": "90-100. The away team was leading."
-    },
-    "answer": "B"
+    }
   },
   "227": {
     "vid_path": "Eval_video/NBA/3.mp4",
@@ -2690,8 +2463,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "228": {
     "vid_path": "Eval_video/NBA/3.mp4",
@@ -2702,8 +2474,7 @@
       "B": "No offensive attempts shown",
       "C": "One attempt, Leonard's three-pointer made",
       "D": "Two attempts, both missed"
-    },
-    "answer": "C"
+    }
   },
   "229": {
     "vid_path": "Eval_video/NBA/3.mp4",
@@ -2714,8 +2485,7 @@
       "B": "Simmons and Embiid",
       "C": "Butler and Harris",
       "D": "Leonard and Siakam"
-    },
-    "answer": "B"
+    }
   },
   "230": {
     "vid_path": "Eval_video/NBA/3.mp4",
@@ -2726,8 +2496,7 @@
       "B": "No assist, individual play",
       "C": "Butler",
       "D": "Embiid"
-    },
-    "answer": "B"
+    }
   },
   "231": {
     "vid_path": "Eval_video/NBA/40.mp4",
@@ -2738,8 +2507,7 @@
       "B": "NBA playoffs",
       "C": "NBA regular season",
       "D": "NBA All-Star Game"
-    },
-    "answer": "C"
+    }
   },
   "232": {
     "vid_path": "Eval_video/NBA/40.mp4",
@@ -2750,8 +2518,7 @@
       "B": "San Antonio Spurs vs Toronto Raptors",
       "C": "Los Angeles Lakers vs Boston Celtics",
       "D": "Houston Rockets vs Miami Heat"
-    },
-    "answer": "A"
+    }
   },
   "233": {
     "vid_path": "Eval_video/NBA/40.mp4",
@@ -2762,8 +2529,7 @@
       "B": "55-40, Warriors leading",
       "C": "40-55, 76ers leading",
       "D": "50-45, Warriors leading"
-    },
-    "answer": "B"
+    }
   },
   "234": {
     "vid_path": "Eval_video/NBA/40.mp4",
@@ -2772,8 +2538,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "235": {
     "vid_path": "Eval_video/NBA/40.mp4",
@@ -2784,8 +2549,7 @@
       "B": "One, Bogut with a made basket",
       "C": "Two, one made and one missed basket",
       "D": "None, only defensive plays shown"
-    },
-    "answer": "B"
+    }
   },
   "236": {
     "vid_path": "Eval_video/NBA/40.mp4",
@@ -2796,8 +2560,7 @@
       "B": "Curry",
       "C": "Sampson",
       "D": "Embiid"
-    },
-    "answer": "C"
+    }
   },
   "237": {
     "vid_path": "Eval_video/NBA/40.mp4",
@@ -2808,8 +2571,7 @@
       "B": "Durant",
       "C": "Curry",
       "D": "Iguodala"
-    },
-    "answer": "D"
+    }
   },
   "238": {
     "vid_path": "Eval_video/NBA/41.mp4",
@@ -2820,8 +2582,7 @@
       "B": "2019 NBA Finals Game 2",
       "C": "2005 NBA Playoffs Game 7",
       "D": "2017 NBA Western Conference Semifinals Game 5"
-    },
-    "answer": "D"
+    }
   },
   "239": {
     "vid_path": "Eval_video/NBA/41.mp4",
@@ -2832,8 +2593,7 @@
       "B": "Los Angeles Lakers vs. Miami Heat",
       "C": "Golden State Warriors vs. Cleveland Cavaliers",
       "D": "Boston Celtics vs. Los Angeles Lakers"
-    },
-    "answer": "A"
+    }
   },
   "240": {
     "vid_path": "Eval_video/NBA/41.mp4",
@@ -2844,8 +2604,7 @@
       "B": "90-85, Rockets leading",
       "C": "120-100, Rockets trailing",
       "D": "107-110, Rockets trailing"
-    },
-    "answer": "D"
+    }
   },
   "241": {
     "vid_path": "Eval_video/NBA/41.mp4",
@@ -2856,8 +2615,7 @@
       "B": "Unclear",
       "C": "Not mentioned",
       "D": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "242": {
     "vid_path": "Eval_video/NBA/41.mp4",
@@ -2868,8 +2626,7 @@
       "B": "Four, two made and two missed",
       "C": "Two, both missed",
       "D": "One, blocked three-pointer by Harden"
-    },
-    "answer": "D"
+    }
   },
   "243": {
     "vid_path": "Eval_video/NBA/41.mp4",
@@ -2880,8 +2637,7 @@
       "B": "Tony Parker",
       "C": "LaMarcus Aldridge",
       "D": "Tim Duncan"
-    },
-    "answer": "A"
+    }
   },
   "244": {
     "vid_path": "Eval_video/NBA/41.mp4",
@@ -2892,8 +2648,7 @@
       "B": "Russell Westbrook",
       "C": "James Harden",
       "D": "No assist"
-    },
-    "answer": "D"
+    }
   },
   "245": {
     "vid_path": "Eval_video/NBA/42.mp4",
@@ -2904,8 +2659,7 @@
       "B": "NBA regular season",
       "C": "NBA finals",
       "D": "NBA playoffs"
-    },
-    "answer": "B"
+    }
   },
   "246": {
     "vid_path": "Eval_video/NBA/42.mp4",
@@ -2916,8 +2670,7 @@
       "B": "Houston Rockets vs Toronto Raptors",
       "C": "Golden State Warriors vs Los Angeles Lakers",
       "D": "Los Angeles Clippers vs Brooklyn Nets"
-    },
-    "answer": "D"
+    }
   },
   "247": {
     "vid_path": "Eval_video/NBA/42.mp4",
@@ -2928,8 +2681,7 @@
       "B": "25-25, tied",
       "C": "Clippers leading",
       "D": "Nets leading"
-    },
-    "answer": "B"
+    }
   },
   "248": {
     "vid_path": "Eval_video/NBA/42.mp4",
@@ -2940,8 +2692,7 @@
       "B": "Yes",
       "C": "Not mentioned",
       "D": "Unknown"
-    },
-    "answer": "B"
+    }
   },
   "249": {
     "vid_path": "Eval_video/NBA/42.mp4",
@@ -2952,8 +2703,7 @@
       "B": "Unknown",
       "C": "No attempts shown in the highlights",
       "D": "Multiple attempts, no successful shots"
-    },
-    "answer": "A"
+    }
   },
   "250": {
     "vid_path": "Eval_video/NBA/42.mp4",
@@ -2964,8 +2714,7 @@
       "B": "Unknown",
       "C": "Paul George",
       "D": "DeAndre Jordan"
-    },
-    "answer": "A"
+    }
   },
   "251": {
     "vid_path": "Eval_video/NBA/42.mp4",
@@ -2976,8 +2725,7 @@
       "B": "Williams",
       "C": "No one",
       "D": "Unknown"
-    },
-    "answer": "C"
+    }
   },
   "252": {
     "vid_path": "Eval_video/NBA/43.mp4",
@@ -2988,8 +2736,7 @@
       "B": "2008 NBA All-Star Game",
       "C": "2012 NBA Regular Season Game",
       "D": "2017 NBA Finals Game 7"
-    },
-    "answer": "A"
+    }
   },
   "253": {
     "vid_path": "Eval_video/NBA/43.mp4",
@@ -3000,8 +2747,7 @@
       "B": "Atlanta Hawks vs. Washington Wizards",
       "C": "San Antonio Spurs vs. Miami Heat",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "B"
+    }
   },
   "254": {
     "vid_path": "Eval_video/NBA/43.mp4",
@@ -3012,8 +2758,7 @@
       "B": "110-95, in favor of Washington Wizards",
       "C": "85-78, in favor of Atlanta Hawks",
       "D": "101-101, tie"
-    },
-    "answer": "D"
+    }
   },
   "255": {
     "vid_path": "Eval_video/NBA/43.mp4",
@@ -3024,8 +2769,7 @@
       "B": "Yes",
       "C": "None of the above",
       "D": "No"
-    },
-    "answer": "D"
+    }
   },
   "256": {
     "vid_path": "Eval_video/NBA/43.mp4",
@@ -3036,8 +2780,7 @@
       "B": "One attempt, made",
       "C": "Three attempts, one missed and two made",
       "D": "Two attempts, both missed"
-    },
-    "answer": "B"
+    }
   },
   "257": {
     "vid_path": "Eval_video/NBA/43.mp4",
@@ -3048,8 +2791,7 @@
       "B": "Dennis Schroder",
       "C": "Al Horford",
       "D": "John Wall"
-    },
-    "answer": "B"
+    }
   },
   "258": {
     "vid_path": "Eval_video/NBA/43.mp4",
@@ -3060,8 +2802,7 @@
       "B": "John Wall",
       "C": "Bradley Beal",
       "D": "Paul Pierce"
-    },
-    "answer": "A"
+    }
   },
   "259": {
     "vid_path": "Eval_video/NBA/44.mp4",
@@ -3072,8 +2813,7 @@
       "B": "2018 NBA Finals G1",
       "C": "2014 NBA Finals G3",
       "D": "2013 NBA Finals G2"
-    },
-    "answer": "D"
+    }
   },
   "260": {
     "vid_path": "Eval_video/NBA/44.mp4",
@@ -3084,8 +2824,7 @@
       "B": "Golden State Warriors vs. Cleveland Cavaliers",
       "C": "San Antonio Spurs vs. Miami Heat",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "C"
+    }
   },
   "261": {
     "vid_path": "Eval_video/NBA/44.mp4",
@@ -3096,8 +2835,7 @@
       "B": "86-67, Spurs trailing",
       "C": "105-97, Spurs leading",
       "D": "112-90, Spurs trailing"
-    },
-    "answer": "B"
+    }
   },
   "262": {
     "vid_path": "Eval_video/NBA/44.mp4",
@@ -3106,8 +2844,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "263": {
     "vid_path": "Eval_video/NBA/44.mp4",
@@ -3118,8 +2855,7 @@
       "B": "One attempt, blocked by LeBron James",
       "C": "Four attempts, two successful, two unsuccessful",
       "D": "Three attempts, all unsuccessful"
-    },
-    "answer": "B"
+    }
   },
   "264": {
     "vid_path": "Eval_video/NBA/44.mp4",
@@ -3130,8 +2866,7 @@
       "B": "Manu Ginobili",
       "C": "Tim Duncan",
       "D": "LeBron James"
-    },
-    "answer": "D"
+    }
   },
   "265": {
     "vid_path": "Eval_video/NBA/44.mp4",
@@ -3142,8 +2877,7 @@
       "B": "Kawhi Leonard",
       "C": "Tony Parker",
       "D": "None"
-    },
-    "answer": "D"
+    }
   },
   "266": {
     "vid_path": "Eval_video/NBA/45.mp4",
@@ -3154,8 +2888,7 @@
       "B": "2013 NBA Finals G6",
       "C": "2011 NBA Western Conference Finals G2",
       "D": "2016 NBA Finals G7"
-    },
-    "answer": "C"
+    }
   },
   "267": {
     "vid_path": "Eval_video/NBA/45.mp4",
@@ -3166,8 +2899,7 @@
       "B": "Golden State Warriors vs. Cleveland Cavaliers",
       "C": "Oklahoma City Thunder vs. Dallas Mavericks",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "C"
+    }
   },
   "268": {
     "vid_path": "Eval_video/NBA/45.mp4",
@@ -3178,8 +2910,7 @@
       "B": "Unknown",
       "C": "Thunder: 62, Mavericks: 56",
       "D": "Thunder: 42, Mavericks: 34"
-    },
-    "answer": "B"
+    }
   },
   "269": {
     "vid_path": "Eval_video/NBA/45.mp4",
@@ -3190,8 +2921,7 @@
       "B": "No",
       "C": "Yes",
       "D": "Cannot be determined"
-    },
-    "answer": "B"
+    }
   },
   "270": {
     "vid_path": "Eval_video/NBA/45.mp4",
@@ -3202,8 +2932,7 @@
       "B": "2 attempts, Durant missed both",
       "C": "1 attempt, Durant missed",
       "D": "1 attempt, Durant dunked in"
-    },
-    "answer": "D"
+    }
   },
   "271": {
     "vid_path": "Eval_video/NBA/45.mp4",
@@ -3214,8 +2943,7 @@
       "B": "Haywood",
       "C": "Ibaka",
       "D": "Durant"
-    },
-    "answer": "B"
+    }
   },
   "272": {
     "vid_path": "Eval_video/NBA/45.mp4",
@@ -3226,8 +2954,7 @@
       "B": "No assist, solo play",
       "C": "Durant",
       "D": "Ibaka"
-    },
-    "answer": "B"
+    }
   },
   "273": {
     "vid_path": "Eval_video/NBA/46.mp4",
@@ -3238,8 +2965,7 @@
       "B": "2009 NBA Finals G4",
       "C": "2011 NBA Finals G2",
       "D": "2010 NBA Playoffs G3"
-    },
-    "answer": "C"
+    }
   },
   "274": {
     "vid_path": "Eval_video/NBA/46.mp4",
@@ -3250,8 +2976,7 @@
       "B": "Dallas Mavericks vs. Miami Heat",
       "C": "Golden State Warriors vs. Cleveland Cavaliers",
       "D": "San Antonio Spurs vs. Oklahoma City Thunder"
-    },
-    "answer": "B"
+    }
   },
   "275": {
     "vid_path": "Eval_video/NBA/46.mp4",
@@ -3262,8 +2987,7 @@
       "B": "101-98, leading team B",
       "C": "116-110, leading team A",
       "D": "93-93, tied"
-    },
-    "answer": "D"
+    }
   },
   "276": {
     "vid_path": "Eval_video/NBA/46.mp4",
@@ -3272,8 +2996,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "277": {
     "vid_path": "Eval_video/NBA/46.mp4",
@@ -3284,8 +3007,7 @@
       "B": "One, successful",
       "C": "None of the above",
       "D": "Two, one successful and one unsuccessful"
-    },
-    "answer": "B"
+    }
   },
   "278": {
     "vid_path": "Eval_video/NBA/46.mp4",
@@ -3296,8 +3018,7 @@
       "B": "Nowitzki and Bosh",
       "C": "Nowitzki and Wade",
       "D": "Bosh and Haslem"
-    },
-    "answer": "D"
+    }
   },
   "279": {
     "vid_path": "Eval_video/NBA/46.mp4",
@@ -3308,8 +3029,7 @@
       "B": "There was no assist",
       "C": "Wade",
       "D": "Terry"
-    },
-    "answer": "B"
+    }
   },
   "280": {
     "vid_path": "Eval_video/NBA/47.mp4",
@@ -3320,8 +3040,7 @@
       "B": "2020 NBA Finals G4",
       "C": "2019 NBA Finals G5",
       "D": "2017 NBA Finals G3"
-    },
-    "answer": "D"
+    }
   },
   "281": {
     "vid_path": "Eval_video/NBA/47.mp4",
@@ -3332,8 +3051,7 @@
       "B": "Los Angeles Lakers vs Boston Celtics",
       "C": "Houston Rockets vs Toronto Raptors",
       "D": "Miami Heat vs Dallas Mavericks"
-    },
-    "answer": "A"
+    }
   },
   "282": {
     "vid_path": "Eval_video/NBA/47.mp4",
@@ -3344,8 +3062,7 @@
       "B": "111-113 Cavaliers trailing",
       "C": "111-113 Warriors trailing",
       "D": "113-111 Warriors leading"
-    },
-    "answer": "C"
+    }
   },
   "283": {
     "vid_path": "Eval_video/NBA/47.mp4",
@@ -3354,8 +3071,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "284": {
     "vid_path": "Eval_video/NBA/47.mp4",
@@ -3366,8 +3082,7 @@
       "B": "3 attempts, Cavaliers' Korver missed 3-pointer, Warriors' Durant made a 3-pointer on the counterattack",
       "C": "1 attempt, Cavaliers' Korver missed 3-pointer",
       "D": "2 attempts, Cavaliers' Korver missed 3-pointer, Warriors' Durant made a 3-pointer on the counterattack"
-    },
-    "answer": "D"
+    }
   },
   "285": {
     "vid_path": "Eval_video/NBA/47.mp4",
@@ -3378,8 +3093,7 @@
       "B": "James",
       "C": "Unknown",
       "D": "Durant"
-    },
-    "answer": "B"
+    }
   },
   "286": {
     "vid_path": "Eval_video/NBA/47.mp4",
@@ -3390,8 +3104,7 @@
       "B": "Durant",
       "C": "Korver",
       "D": "James"
-    },
-    "answer": "A"
+    }
   },
   "287": {
     "vid_path": "Eval_video/NBA/48.mp4",
@@ -3402,8 +3115,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA Finals"
-    },
-    "answer": "A"
+    }
   },
   "288": {
     "vid_path": "Eval_video/NBA/48.mp4",
@@ -3414,8 +3126,7 @@
       "B": "Los Angeles Lakers vs. Golden State Warriors",
       "C": "Utah Jazz vs. Oklahoma City Thunder",
       "D": "Houston Rockets vs. San Antonio Spurs"
-    },
-    "answer": "C"
+    }
   },
   "289": {
     "vid_path": "Eval_video/NBA/48.mp4",
@@ -3426,8 +3137,7 @@
       "B": "48-48, tie game",
       "C": "40-52, Thunder leading",
       "D": "44-48, Thunder leading"
-    },
-    "answer": "A"
+    }
   },
   "290": {
     "vid_path": "Eval_video/NBA/48.mp4",
@@ -3438,8 +3148,7 @@
       "B": "No",
       "C": "Not mentioned",
       "D": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "291": {
     "vid_path": "Eval_video/NBA/48.mp4",
@@ -3450,8 +3159,7 @@
       "B": "Three-point shot miss by Jazz",
       "C": "Two-point shot made by Jazz",
       "D": "Layup made by Thunder"
-    },
-    "answer": "C"
+    }
   },
   "292": {
     "vid_path": "Eval_video/NBA/48.mp4",
@@ -3462,8 +3170,7 @@
       "B": "Mitchell",
       "C": "Adams",
       "D": "Gobert"
-    },
-    "answer": "A"
+    }
   },
   "293": {
     "vid_path": "Eval_video/NBA/48.mp4",
@@ -3474,8 +3181,7 @@
       "B": "Gobert",
       "C": "No assist",
       "D": "Mitchell"
-    },
-    "answer": "C"
+    }
   },
   "294": {
     "vid_path": "Eval_video/NBA/49.mp4",
@@ -3486,8 +3192,7 @@
       "B": "NBA All-Star game",
       "C": "NBA regular season",
       "D": "NBA playoffs"
-    },
-    "answer": "C"
+    }
   },
   "295": {
     "vid_path": "Eval_video/NBA/49.mp4",
@@ -3498,8 +3203,7 @@
       "B": "San Antonio Spurs vs. Oklahoma City Thunder",
       "C": "Milwaukee Bucks vs. Boston Celtics",
       "D": "Golden State Warriors vs. Los Angeles Lakers"
-    },
-    "answer": "C"
+    }
   },
   "296": {
     "vid_path": "Eval_video/NBA/49.mp4",
@@ -3510,8 +3214,7 @@
       "B": "102-106, with the Bucks trailing",
       "C": "106-102, with the Bucks trailing",
       "D": "106-102, with the Bucks leading"
-    },
-    "answer": "B"
+    }
   },
   "297": {
     "vid_path": "Eval_video/NBA/49.mp4",
@@ -3522,8 +3225,7 @@
       "B": "None of the above",
       "C": "Yes",
       "D": "It's not mentioned"
-    },
-    "answer": "A"
+    }
   },
   "298": {
     "vid_path": "Eval_video/NBA/49.mp4",
@@ -3534,8 +3236,7 @@
       "B": "One attempt, missed",
       "C": "Two attempts, both missed",
       "D": "Two attempts, one made and one missed"
-    },
-    "answer": "B"
+    }
   },
   "299": {
     "vid_path": "Eval_video/NBA/49.mp4",
@@ -3546,8 +3247,7 @@
       "B": "Number 24",
       "C": "Number 11",
       "D": "Number 33"
-    },
-    "answer": "A"
+    }
   },
   "300": {
     "vid_path": "Eval_video/NBA/49.mp4",
@@ -3558,8 +3258,7 @@
       "B": "Malcolm Brogdon",
       "C": "Isaiah Thomas",
       "D": "Khris Middleton"
-    },
-    "answer": "C"
+    }
   },
   "301": {
     "vid_path": "Eval_video/NBA/4.mp4",
@@ -3570,8 +3269,7 @@
       "B": "2019 NBA Finals G4",
       "C": "2017 NBA Finals G6",
       "D": "2018 NBA Finals G5"
-    },
-    "answer": "A"
+    }
   },
   "302": {
     "vid_path": "Eval_video/NBA/4.mp4",
@@ -3582,8 +3280,7 @@
       "B": "Chicago Bulls vs Houston Rockets",
       "C": "Miami Heat vs San Antonio Spurs",
       "D": "Cleveland Cavaliers vs Golden State Warriors"
-    },
-    "answer": "D"
+    }
   },
   "303": {
     "vid_path": "Eval_video/NBA/4.mp4",
@@ -3594,8 +3291,7 @@
       "B": "Cavaliers leading 89-88",
       "C": "Warriors leading 90-88",
       "D": "89-89 tie"
-    },
-    "answer": "D"
+    }
   },
   "304": {
     "vid_path": "Eval_video/NBA/4.mp4",
@@ -3606,8 +3302,7 @@
       "B": "Not mentioned",
       "C": "Unclear",
       "D": "No"
-    },
-    "answer": "D"
+    }
   },
   "305": {
     "vid_path": "Eval_video/NBA/4.mp4",
@@ -3618,8 +3313,7 @@
       "B": "No attempts shown",
       "C": "Two attempts, both missed",
       "D": "One attempt, scored"
-    },
-    "answer": "D"
+    }
   },
   "306": {
     "vid_path": "Eval_video/NBA/4.mp4",
@@ -3630,8 +3324,7 @@
       "B": "Stephen Curry",
       "C": "Kawhi Leonard",
       "D": "LeBron James"
-    },
-    "answer": "B"
+    }
   },
   "307": {
     "vid_path": "Eval_video/NBA/4.mp4",
@@ -3642,8 +3335,7 @@
       "B": "LeBron James",
       "C": "Kevin Durant",
       "D": "No assist"
-    },
-    "answer": "D"
+    }
   },
   "308": {
     "vid_path": "Eval_video/NBA/50.mp4",
@@ -3654,8 +3346,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "309": {
     "vid_path": "Eval_video/NBA/50.mp4",
@@ -3666,8 +3357,7 @@
       "B": "Boston Celtics vs Toronto Raptors",
       "C": "Los Angeles Lakers vs Miami Heat",
       "D": "Los Angeles Clippers vs Indiana Pacers"
-    },
-    "answer": "D"
+    }
   },
   "310": {
     "vid_path": "Eval_video/NBA/50.mp4",
@@ -3678,8 +3368,7 @@
       "B": "94-74, Clippers leading",
       "C": "74-94, Clippers trailing",
       "D": "74-94, Clippers leading"
-    },
-    "answer": "C"
+    }
   },
   "311": {
     "vid_path": "Eval_video/NBA/50.mp4",
@@ -3688,8 +3377,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "A"
+    }
   },
   "312": {
     "vid_path": "Eval_video/NBA/50.mp4",
@@ -3700,8 +3388,7 @@
       "B": "One attempt, George missed",
       "C": "One attempt, George dunked successfully",
       "D": "Two attempts, both missed"
-    },
-    "answer": "C"
+    }
   },
   "313": {
     "vid_path": "Eval_video/NBA/50.mp4",
@@ -3712,8 +3399,7 @@
       "B": "Indiana Pacers' player",
       "C": "Unknown",
       "D": "Los Angeles Clippers' player"
-    },
-    "answer": "C"
+    }
   },
   "314": {
     "vid_path": "Eval_video/NBA/50.mp4",
@@ -3724,8 +3410,7 @@
       "B": "Los Angeles Clippers' player",
       "C": "Unknown",
       "D": "No assist, individual play"
-    },
-    "answer": "D"
+    }
   },
   "315": {
     "vid_path": "Eval_video/NBA/51.mp4",
@@ -3736,8 +3421,7 @@
       "B": "All-Star Game",
       "C": "NBA regular season",
       "D": "NBA Finals"
-    },
-    "answer": "C"
+    }
   },
   "316": {
     "vid_path": "Eval_video/NBA/51.mp4",
@@ -3748,8 +3432,7 @@
       "B": "Chicago Bulls vs Houston Rockets",
       "C": "Los Angeles Lakers vs Miami Heat",
       "D": "Golden State Warriors vs Toronto Raptors"
-    },
-    "answer": "A"
+    }
   },
   "317": {
     "vid_path": "Eval_video/NBA/51.mp4",
@@ -3760,8 +3443,7 @@
       "B": "104-106, Suns leading",
       "C": "106-104, Suns leading",
       "D": "106-104, Celtics leading"
-    },
-    "answer": "D"
+    }
   },
   "318": {
     "vid_path": "Eval_video/NBA/51.mp4",
@@ -3770,8 +3452,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "319": {
     "vid_path": "Eval_video/NBA/51.mp4",
@@ -3782,8 +3463,7 @@
       "B": "2 attempts, both missed",
       "C": "1 attempt, Bledsoe layup made",
       "D": "1 attempt, Julius three-pointer made"
-    },
-    "answer": "A"
+    }
   },
   "320": {
     "vid_path": "Eval_video/NBA/51.mp4",
@@ -3794,8 +3474,7 @@
       "B": "Julius",
       "C": "Eric Bledsoe",
       "D": "The answer is not mentioned"
-    },
-    "answer": "A"
+    }
   },
   "321": {
     "vid_path": "Eval_video/NBA/51.mp4",
@@ -3806,8 +3485,7 @@
       "B": "Julius",
       "C": "Isaiah Thomas",
       "D": "No assist mentioned"
-    },
-    "answer": "D"
+    }
   },
   "322": {
     "vid_path": "Eval_video/NBA/52.mp4",
@@ -3818,8 +3496,7 @@
       "B": "NBA Regular Season",
       "C": "NBA All-Star Game",
       "D": "NBA Finals"
-    },
-    "answer": "B"
+    }
   },
   "323": {
     "vid_path": "Eval_video/NBA/52.mp4",
@@ -3830,8 +3507,7 @@
       "B": "Chicago Bulls vs. Miami Heat",
       "C": "Los Angeles Lakers vs. Boston Celtics",
       "D": "Houston Rockets vs. Golden State Warriors"
-    },
-    "answer": "A"
+    }
   },
   "324": {
     "vid_path": "Eval_video/NBA/52.mp4",
@@ -3842,8 +3518,7 @@
       "B": "108-107, Houston Rockets in the lead",
       "C": "107-108, Houston Rockets in the lead",
       "D": "107-108, San Antonio Spurs in the lead"
-    },
-    "answer": "B"
+    }
   },
   "325": {
     "vid_path": "Eval_video/NBA/52.mp4",
@@ -3852,8 +3527,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "A"
+    }
   },
   "326": {
     "vid_path": "Eval_video/NBA/52.mp4",
@@ -3864,8 +3538,7 @@
       "B": "Three attempts, Leonard made a three-pointer and Harden missed a layup",
       "C": "One attempt, Leonard made a three-pointer",
       "D": "Three attempts, Leonard made a three-pointer and Harden was blocked on a layup"
-    },
-    "answer": "A"
+    }
   },
   "327": {
     "vid_path": "Eval_video/NBA/52.mp4",
@@ -3876,8 +3549,7 @@
       "B": "Play 1: Leonard, Play 2: Nene",
       "C": "Play 1: Nene, Play 2: Leonard",
       "D": "Play 1: Nene, Play 2: Harden"
-    },
-    "answer": "C"
+    }
   },
   "328": {
     "vid_path": "Eval_video/NBA/52.mp4",
@@ -3888,8 +3560,7 @@
       "B": "Play 1: Harden, Play 2: Nene",
       "C": "Personal offense, no assist",
       "D": "Play 1: Nene, Play 2: Leonard"
-    },
-    "answer": "C"
+    }
   },
   "329": {
     "vid_path": "Eval_video/NBA/53.mp4",
@@ -3900,8 +3571,7 @@
       "B": "All-Star game",
       "C": "NBA regular season",
       "D": "NBA finals"
-    },
-    "answer": "C"
+    }
   },
   "330": {
     "vid_path": "Eval_video/NBA/53.mp4",
@@ -3912,8 +3582,7 @@
       "B": "Chicago Bulls vs Miami Heat",
       "C": "Los Angeles Lakers vs Boston Celtics",
       "D": "Golden State Warriors vs Houston Rockets"
-    },
-    "answer": "A"
+    }
   },
   "331": {
     "vid_path": "Eval_video/NBA/53.mp4",
@@ -3924,8 +3593,7 @@
       "B": "104-107, Trail Blazers trailing",
       "C": "107-104, Mavericks leading",
       "D": "107-104, Trail Blazers leading"
-    },
-    "answer": "A"
+    }
   },
   "332": {
     "vid_path": "Eval_video/NBA/53.mp4",
@@ -3936,8 +3604,7 @@
       "B": "Yes",
       "C": "Not mentioned",
       "D": "No"
-    },
-    "answer": "D"
+    }
   },
   "333": {
     "vid_path": "Eval_video/NBA/53.mp4",
@@ -3948,8 +3615,7 @@
       "B": "2 attempts, both successful",
       "C": "2 attempts, both unsuccessful",
       "D": "1 attempt, successful"
-    },
-    "answer": "D"
+    }
   },
   "334": {
     "vid_path": "Eval_video/NBA/53.mp4",
@@ -3960,8 +3626,7 @@
       "B": "Damian Lillard",
       "C": "Not mentioned",
       "D": "Luka Doncic"
-    },
-    "answer": "A"
+    }
   },
   "335": {
     "vid_path": "Eval_video/NBA/53.mp4",
@@ -3972,8 +3637,7 @@
       "B": "Not mentioned",
       "C": "No assist was made",
       "D": "Luka Doncic"
-    },
-    "answer": "C"
+    }
   },
   "336": {
     "vid_path": "Eval_video/NBA/54.mp4",
@@ -3984,8 +3648,7 @@
       "B": "NBA regular season",
       "C": "NBA All-Star Game",
       "D": "NBA playoffs"
-    },
-    "answer": "B"
+    }
   },
   "337": {
     "vid_path": "Eval_video/NBA/54.mp4",
@@ -3996,8 +3659,7 @@
       "B": "Miami Heat vs Indiana Pacers",
       "C": "Golden State Warriors vs Los Angeles Lakers",
       "D": "Houston Rockets vs Oklahoma City Thunder"
-    },
-    "answer": "B"
+    }
   },
   "338": {
     "vid_path": "Eval_video/NBA/54.mp4",
@@ -4008,8 +3670,7 @@
       "B": "12-31, Miami Heat leading",
       "C": "12-31, Indiana Pacers leading",
       "D": "31-12, Indiana Pacers leading"
-    },
-    "answer": "A"
+    }
   },
   "339": {
     "vid_path": "Eval_video/NBA/54.mp4",
@@ -4018,8 +3679,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "340": {
     "vid_path": "Eval_video/NBA/54.mp4",
@@ -4030,8 +3690,7 @@
       "B": "1 attempt, missed layup by James",
       "C": "1 attempt, missed 3-pointer by Grandje",
       "D": "2 attempts, made layup by James"
-    },
-    "answer": "A"
+    }
   },
   "341": {
     "vid_path": "Eval_video/NBA/54.mp4",
@@ -4042,8 +3701,7 @@
       "B": "Grandje",
       "C": "James",
       "D": "No defender"
-    },
-    "answer": "C"
+    }
   },
   "342": {
     "vid_path": "Eval_video/NBA/54.mp4",
@@ -4054,8 +3712,7 @@
       "B": "Other",
       "C": "Grandje",
       "D": "James"
-    },
-    "answer": "A"
+    }
   },
   "343": {
     "vid_path": "Eval_video/NBA/55.mp4",
@@ -4066,8 +3723,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA Regular Season",
       "D": "NBA Finals"
-    },
-    "answer": "C"
+    }
   },
   "344": {
     "vid_path": "Eval_video/NBA/55.mp4",
@@ -4078,8 +3734,7 @@
       "B": "Miami Heat vs. Toronto Raptors",
       "C": "Houston Rockets vs. Philadelphia 76ers",
       "D": "Los Angeles Lakers vs. Golden State Warriors"
-    },
-    "answer": "A"
+    }
   },
   "345": {
     "vid_path": "Eval_video/NBA/55.mp4",
@@ -4090,8 +3745,7 @@
       "B": "102-117, Clippers leading",
       "C": "117-102, Clippers leading",
       "D": "102-117, Celtics leading"
-    },
-    "answer": "C"
+    }
   },
   "346": {
     "vid_path": "Eval_video/NBA/55.mp4",
@@ -4100,8 +3754,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "A"
+    }
   },
   "347": {
     "vid_path": "Eval_video/NBA/55.mp4",
@@ -4112,8 +3765,7 @@
       "B": "1 attempt, blocked by Griffin",
       "C": "2 attempts, both scored",
       "D": "2 attempts, both missed"
-    },
-    "answer": "B"
+    }
   },
   "348": {
     "vid_path": "Eval_video/NBA/55.mp4",
@@ -4124,8 +3776,7 @@
       "B": "Kawhi Leonard",
       "C": "Lou Williams",
       "D": "DeAndre Jordan"
-    },
-    "answer": "A"
+    }
   },
   "349": {
     "vid_path": "Eval_video/NBA/55.mp4",
@@ -4136,8 +3787,7 @@
       "B": "Kawhi Leonard",
       "C": "Lou Williams",
       "D": "None"
-    },
-    "answer": "D"
+    }
   },
   "350": {
     "vid_path": "Eval_video/NBA/56.mp4",
@@ -4148,8 +3798,7 @@
       "B": "NBA regular season",
       "C": "NBA All-Star game",
       "D": "NBA playoffs"
-    },
-    "answer": "B"
+    }
   },
   "351": {
     "vid_path": "Eval_video/NBA/56.mp4",
@@ -4160,8 +3809,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Oklahoma City Thunder vs. Indiana Pacers",
       "D": "Miami Heat vs. Chicago Bulls"
-    },
-    "answer": "C"
+    }
   },
   "352": {
     "vid_path": "Eval_video/NBA/56.mp4",
@@ -4172,8 +3820,7 @@
       "B": "43-31, Thunder leading",
       "C": "31-43, Thunder leading",
       "D": "31-43, Thunder trailing"
-    },
-    "answer": "D"
+    }
   },
   "353": {
     "vid_path": "Eval_video/NBA/56.mp4",
@@ -4184,8 +3831,7 @@
       "B": "Yes",
       "C": "No",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "354": {
     "vid_path": "Eval_video/NBA/56.mp4",
@@ -4196,8 +3842,7 @@
       "B": "Two, Durant made both shots",
       "C": "Two, Durant missed both shots",
       "D": "One, Durant dunked and scored"
-    },
-    "answer": "D"
+    }
   },
   "355": {
     "vid_path": "Eval_video/NBA/56.mp4",
@@ -4208,8 +3853,7 @@
       "B": "Durant and Westbrook",
       "C": "Wade and Bosh",
       "D": "George and Hibbert"
-    },
-    "answer": "D"
+    }
   },
   "356": {
     "vid_path": "Eval_video/NBA/56.mp4",
@@ -4220,8 +3864,7 @@
       "B": "Hibbert",
       "C": "Personal offense, no assist",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "357": {
     "vid_path": "Eval_video/NBA/57.mp4",
@@ -4232,8 +3875,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA finals",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "358": {
     "vid_path": "Eval_video/NBA/57.mp4",
@@ -4244,8 +3886,7 @@
       "B": "Golden State Warriors vs. Oklahoma City Thunder",
       "C": "Houston Rockets vs. Dallas Mavericks",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "B"
+    }
   },
   "359": {
     "vid_path": "Eval_video/NBA/57.mp4",
@@ -4256,8 +3897,7 @@
       "B": "112-110, Warriors leading",
       "C": "94-89, Thunder leading",
       "D": "98-102, Thunder leading"
-    },
-    "answer": "B"
+    }
   },
   "360": {
     "vid_path": "Eval_video/NBA/57.mp4",
@@ -4268,8 +3908,7 @@
       "B": "Yes",
       "C": "I'm not sure",
       "D": "None of the above"
-    },
-    "answer": "A"
+    }
   },
   "361": {
     "vid_path": "Eval_video/NBA/57.mp4",
@@ -4280,8 +3919,7 @@
       "B": "Three attempts, Durant made a mid-range jump shot; Westbrook missed a three-pointer",
       "C": "Three attempts, Durant missed a mid-range jump shot; Westbrook made a three-pointer",
       "D": "Two attempts, Durant made a mid-range jump shot; Westbrook missed a three-pointer"
-    },
-    "answer": "C"
+    }
   },
   "362": {
     "vid_path": "Eval_video/NBA/57.mp4",
@@ -4292,8 +3930,7 @@
       "B": "Durant",
       "C": "Barnes",
       "D": "Westbrook"
-    },
-    "answer": "C"
+    }
   },
   "363": {
     "vid_path": "Eval_video/NBA/57.mp4",
@@ -4304,8 +3941,7 @@
       "B": "Durant",
       "C": "No assist, individual play",
       "D": "Curry"
-    },
-    "answer": "C"
+    }
   },
   "364": {
     "vid_path": "Eval_video/NBA/58.mp4",
@@ -4316,8 +3952,7 @@
       "B": "NBA Finals",
       "C": "NBA regular season",
       "D": "NBA All-Star game"
-    },
-    "answer": "C"
+    }
   },
   "365": {
     "vid_path": "Eval_video/NBA/58.mp4",
@@ -4328,8 +3963,7 @@
       "B": "Philadelphia 76ers vs Denver Nuggets",
       "C": "Golden State Warriors vs Toronto Raptors",
       "D": "Boston Celtics vs Houston Rockets"
-    },
-    "answer": "B"
+    }
   },
   "366": {
     "vid_path": "Eval_video/NBA/58.mp4",
@@ -4340,8 +3974,7 @@
       "B": "101-103, Denver Nuggets were leading",
       "C": "98-99, Philadelphia 76ers were leading",
       "D": "103-101, Philadelphia 76ers were leading"
-    },
-    "answer": "D"
+    }
   },
   "367": {
     "vid_path": "Eval_video/NBA/58.mp4",
@@ -4350,8 +3983,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "368": {
     "vid_path": "Eval_video/NBA/58.mp4",
@@ -4362,8 +3994,7 @@
       "B": "One attempt, a made three-pointer by Mudiay",
       "C": "No offensive attempts shown",
       "D": "Two attempts, both missed"
-    },
-    "answer": "B"
+    }
   },
   "369": {
     "vid_path": "Eval_video/NBA/58.mp4",
@@ -4374,8 +4005,7 @@
       "B": "Ben Simmons",
       "C": "Joel Embiid",
       "D": "T.T. McConnell"
-    },
-    "answer": "D"
+    }
   },
   "370": {
     "vid_path": "Eval_video/NBA/58.mp4",
@@ -4386,8 +4016,7 @@
       "B": "Butler",
       "C": "Embiid",
       "D": "Simmons"
-    },
-    "answer": "A"
+    }
   },
   "371": {
     "vid_path": "Eval_video/NBA/59.mp4",
@@ -4398,8 +4027,7 @@
       "B": "NBA Regular Season",
       "C": "NBA Playoffs",
       "D": "NBA Finals"
-    },
-    "answer": "B"
+    }
   },
   "372": {
     "vid_path": "Eval_video/NBA/59.mp4",
@@ -4410,8 +4038,7 @@
       "B": "Miami Heat vs. Philadelphia 76ers",
       "C": "Houston Rockets vs. San Antonio Spurs",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "A"
+    }
   },
   "373": {
     "vid_path": "Eval_video/NBA/59.mp4",
@@ -4422,8 +4049,7 @@
       "B": "122-119, Warriors behind",
       "C": "122-119, Suns ahead",
       "D": "119-122, Suns behind"
-    },
-    "answer": "D"
+    }
   },
   "374": {
     "vid_path": "Eval_video/NBA/59.mp4",
@@ -4432,8 +4058,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "375": {
     "vid_path": "Eval_video/NBA/59.mp4",
@@ -4444,8 +4069,7 @@
       "B": "No offensive attempts shown in the highlights",
       "C": "One attempt, made a dunk",
       "D": "Three attempts, two made shots and one missed"
-    },
-    "answer": "C"
+    }
   },
   "376": {
     "vid_path": "Eval_video/NBA/59.mp4",
@@ -4456,8 +4080,7 @@
       "B": "Stademire",
       "C": "Tholiver",
       "D": "Richardson"
-    },
-    "answer": "C"
+    }
   },
   "377": {
     "vid_path": "Eval_video/NBA/59.mp4",
@@ -4468,8 +4091,7 @@
       "B": "Richardson",
       "C": "Tholiver",
       "D": "Jason"
-    },
-    "answer": "B"
+    }
   },
   "378": {
     "vid_path": "Eval_video/NBA/5.mp4",
@@ -4480,8 +4102,7 @@
       "B": "2019 NBA Finals",
       "C": "2019 NBA Western Conference Semifinals G5",
       "D": "2019 NBA Eastern Conference Semifinals G5"
-    },
-    "answer": "C"
+    }
   },
   "379": {
     "vid_path": "Eval_video/NBA/5.mp4",
@@ -4492,8 +4113,7 @@
       "B": "Toronto Raptors vs Milwaukee Bucks",
       "C": "Portland Trail Blazers vs Oklahoma City Thunder",
       "D": "Houston Rockets vs San Antonio Spurs"
-    },
-    "answer": "C"
+    }
   },
   "380": {
     "vid_path": "Eval_video/NBA/5.mp4",
@@ -4504,8 +4124,7 @@
       "B": "120-113, in favor of the Thunder",
       "C": "110-105, in favor of the Blazers",
       "D": "115-115, tied"
-    },
-    "answer": "D"
+    }
   },
   "381": {
     "vid_path": "Eval_video/NBA/5.mp4",
@@ -4514,8 +4133,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "382": {
     "vid_path": "Eval_video/NBA/5.mp4",
@@ -4526,8 +4144,7 @@
       "B": "1 attempt, made",
       "C": "2 attempts, both missed",
       "D": "3 attempts, 2 made and 1 missed"
-    },
-    "answer": "B"
+    }
   },
   "383": {
     "vid_path": "Eval_video/NBA/5.mp4",
@@ -4538,8 +4155,7 @@
       "B": "Damian Lillard",
       "C": "Carmelo Anthony",
       "D": "Russell Westbrook"
-    },
-    "answer": "A"
+    }
   },
   "384": {
     "vid_path": "Eval_video/NBA/5.mp4",
@@ -4550,8 +4166,7 @@
       "B": "Paul George",
       "C": "Russell Westbrook",
       "D": "CJ McCollum"
-    },
-    "answer": "A"
+    }
   },
   "385": {
     "vid_path": "Eval_video/NBA/60.mp4",
@@ -4562,8 +4177,7 @@
       "B": "NBA playoffs",
       "C": "NBA regular season",
       "D": "NBA All-Star Game"
-    },
-    "answer": "C"
+    }
   },
   "386": {
     "vid_path": "Eval_video/NBA/60.mp4",
@@ -4574,8 +4188,7 @@
       "B": "Miami Heat vs Golden State Warriors",
       "C": "Los Angeles Lakers vs Boston Celtics",
       "D": "Miami Heat vs Chicago Bulls"
-    },
-    "answer": "A"
+    }
   },
   "387": {
     "vid_path": "Eval_video/NBA/60.mp4",
@@ -4586,8 +4199,7 @@
       "B": "16-16, tie score",
       "C": "15-16, Miami Heat trailing",
       "D": "16-15, Miami Heat leading"
-    },
-    "answer": "C"
+    }
   },
   "388": {
     "vid_path": "Eval_video/NBA/60.mp4",
@@ -4598,8 +4210,7 @@
       "B": "Not mentioned",
       "C": "No",
       "D": "Yes"
-    },
-    "answer": "D"
+    }
   },
   "389": {
     "vid_path": "Eval_video/NBA/60.mp4",
@@ -4610,8 +4221,7 @@
       "B": "One attempt, missed shot",
       "C": "Two attempts, both successful dunks by LeBron James",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "390": {
     "vid_path": "Eval_video/NBA/60.mp4",
@@ -4622,8 +4232,7 @@
       "B": "Not mentioned",
       "C": "Miami Heat players",
       "D": "Los Angeles Lakers players"
-    },
-    "answer": "A"
+    }
   },
   "391": {
     "vid_path": "Eval_video/NBA/60.mp4",
@@ -4634,8 +4243,7 @@
       "B": "No assist provided",
       "C": "LeBron James",
       "D": "Dwyane Wade"
-    },
-    "answer": "D"
+    }
   },
   "392": {
     "vid_path": "Eval_video/NBA/61.mp4",
@@ -4646,8 +4254,7 @@
       "B": "NBA playoffs",
       "C": "NBA Finals",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "393": {
     "vid_path": "Eval_video/NBA/61.mp4",
@@ -4658,8 +4265,7 @@
       "B": "Oklahoma City Thunder vs Orlando Magic",
       "C": "Miami Heat vs San Antonio Spurs",
       "D": "Los Angeles Lakers vs Boston Celtics"
-    },
-    "answer": "B"
+    }
   },
   "394": {
     "vid_path": "Eval_video/NBA/61.mp4",
@@ -4670,8 +4276,7 @@
       "B": "99-100, Magic leading",
       "C": "101-102, Magic leading",
       "D": "102-101, Thunder leading"
-    },
-    "answer": "D"
+    }
   },
   "395": {
     "vid_path": "Eval_video/NBA/61.mp4",
@@ -4680,8 +4285,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "396": {
     "vid_path": "Eval_video/NBA/61.mp4",
@@ -4692,8 +4296,7 @@
       "B": "1 attempt, Durant misses a three-pointer",
       "C": "2 attempts, Durant misses a three-pointer; Harris dunks successfully",
       "D": "1 attempt, Durant misses a mid-range jumper"
-    },
-    "answer": "A"
+    }
   },
   "397": {
     "vid_path": "Eval_video/NBA/61.mp4",
@@ -4704,8 +4307,7 @@
       "B": "Lamb",
       "C": "Durant",
       "D": "Morris"
-    },
-    "answer": "B"
+    }
   },
   "398": {
     "vid_path": "Eval_video/NBA/61.mp4",
@@ -4716,8 +4318,7 @@
       "B": "Hamidou Diallo",
       "C": "Kevin Durant",
       "D": "Landry Shamet"
-    },
-    "answer": "A"
+    }
   },
   "399": {
     "vid_path": "Eval_video/NBA/62.mp4",
@@ -4728,8 +4329,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA regular season",
       "D": "NBA Finals"
-    },
-    "answer": "C"
+    }
   },
   "400": {
     "vid_path": "Eval_video/NBA/62.mp4",
@@ -4740,8 +4340,7 @@
       "B": "San Antonio Spurs vs Los Angeles Lakers",
       "C": "Brooklyn Nets vs Los Angeles Lakers",
       "D": "San Antonio Spurs vs Brooklyn Nets"
-    },
-    "answer": "D"
+    }
   },
   "401": {
     "vid_path": "Eval_video/NBA/62.mp4",
@@ -4752,8 +4351,7 @@
       "B": "2-0, Spurs leading",
       "C": "0-0, tied",
       "D": "4-0, Lakers leading"
-    },
-    "answer": "A"
+    }
   },
   "402": {
     "vid_path": "Eval_video/NBA/62.mp4",
@@ -4762,8 +4360,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "403": {
     "vid_path": "Eval_video/NBA/62.mp4",
@@ -4774,8 +4371,7 @@
       "B": "Two attempts, both missed",
       "C": "One attempt, missed",
       "D": "Two attempts, one made"
-    },
-    "answer": "C"
+    }
   },
   "404": {
     "vid_path": "Eval_video/NBA/62.mp4",
@@ -4786,8 +4382,7 @@
       "B": "LeBron James",
       "C": "Irving",
       "D": "Garland"
-    },
-    "answer": "D"
+    }
   },
   "405": {
     "vid_path": "Eval_video/NBA/62.mp4",
@@ -4798,8 +4393,7 @@
       "B": "LeBron James",
       "C": "No one",
       "D": "Garland"
-    },
-    "answer": "C"
+    }
   },
   "406": {
     "vid_path": "Eval_video/NBA/63.mp4",
@@ -4810,8 +4404,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA Finals"
-    },
-    "answer": "A"
+    }
   },
   "407": {
     "vid_path": "Eval_video/NBA/63.mp4",
@@ -4822,8 +4415,7 @@
       "B": "Golden State Warriors vs. Houston Rockets",
       "C": "Miami Heat vs. Brooklyn Nets",
       "D": "Los Angeles Lakers vs. Boston Celtics"
-    },
-    "answer": "A"
+    }
   },
   "408": {
     "vid_path": "Eval_video/NBA/63.mp4",
@@ -4834,8 +4426,7 @@
       "B": "84-84, tie game",
       "C": "112-110, Atlanta leading",
       "D": "76-82, Atlanta leading"
-    },
-    "answer": "B"
+    }
   },
   "409": {
     "vid_path": "Eval_video/NBA/63.mp4",
@@ -4844,8 +4435,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "410": {
     "vid_path": "Eval_video/NBA/63.mp4",
@@ -4856,8 +4446,7 @@
       "B": "2 attempts: successful dunk by Joe Johnson and missed shot by Smith",
       "C": "1 attempt: successful dunk by Joe Johnson",
       "D": "1 attempt: missed shot by Joe Johnson"
-    },
-    "answer": "A"
+    }
   },
   "411": {
     "vid_path": "Eval_video/NBA/63.mp4",
@@ -4868,8 +4457,7 @@
       "B": "No one",
       "C": "Joe Johnson",
       "D": "Unknown"
-    },
-    "answer": "D"
+    }
   },
   "412": {
     "vid_path": "Eval_video/NBA/63.mp4",
@@ -4880,8 +4468,7 @@
       "B": "No one",
       "C": "Joe Johnson",
       "D": "Unknown"
-    },
-    "answer": "D"
+    }
   },
   "413": {
     "vid_path": "Eval_video/NBA/64.mp4",
@@ -4892,8 +4479,7 @@
       "B": "NBA regular season",
       "C": "NBA finals",
       "D": "NBA All-Star Game"
-    },
-    "answer": "B"
+    }
   },
   "414": {
     "vid_path": "Eval_video/NBA/64.mp4",
@@ -4904,8 +4490,7 @@
       "B": "Chicago Bulls vs Golden State Warriors",
       "C": "Boston Celtics vs Miami Heat",
       "D": "Los Angeles Lakers vs Brooklyn Nets"
-    },
-    "answer": "C"
+    }
   },
   "415": {
     "vid_path": "Eval_video/NBA/64.mp4",
@@ -4916,8 +4501,7 @@
       "B": "108-110, Celtics trailing",
       "C": "110-108, Celtics leading",
       "D": "110-108, Heat leading"
-    },
-    "answer": "B"
+    }
   },
   "416": {
     "vid_path": "Eval_video/NBA/64.mp4",
@@ -4926,8 +4510,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "417": {
     "vid_path": "Eval_video/NBA/64.mp4",
@@ -4938,8 +4521,7 @@
       "B": "Two attempts, missed shots",
       "C": "No offensive attempts",
       "D": "One attempt, made shot"
-    },
-    "answer": "D"
+    }
   },
   "418": {
     "vid_path": "Eval_video/NBA/64.mp4",
@@ -4950,8 +4532,7 @@
       "B": "LeBron James",
       "C": "Kemba Walker",
       "D": "Jayson Tatum"
-    },
-    "answer": "B"
+    }
   },
   "419": {
     "vid_path": "Eval_video/NBA/64.mp4",
@@ -4962,8 +4543,7 @@
       "B": "Kemba Walker",
       "C": "Jaylen Brown",
       "D": "None"
-    },
-    "answer": "D"
+    }
   },
   "420": {
     "vid_path": "Eval_video/NBA/65.mp4",
@@ -4974,8 +4554,7 @@
       "B": "NBA preseason game",
       "C": "NBA playoff game",
       "D": "NBA regular-season game"
-    },
-    "answer": "D"
+    }
   },
   "421": {
     "vid_path": "Eval_video/NBA/65.mp4",
@@ -4986,8 +4565,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Miami Heat vs. San Antonio Spurs",
       "D": "Cleveland Cavaliers vs. Utah Jazz"
-    },
-    "answer": "D"
+    }
   },
   "422": {
     "vid_path": "Eval_video/NBA/65.mp4",
@@ -4998,8 +4576,7 @@
       "B": "96-94, Cavaliers leading",
       "C": "94-96, Jazz leading",
       "D": "94-96, Cavaliers leading"
-    },
-    "answer": "B"
+    }
   },
   "423": {
     "vid_path": "Eval_video/NBA/65.mp4",
@@ -5008,8 +4585,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "424": {
     "vid_path": "Eval_video/NBA/65.mp4",
@@ -5020,8 +4596,7 @@
       "B": "2 attempts, one made and one missed",
       "C": "1 attempt, missed",
       "D": "2 attempts, both missed"
-    },
-    "answer": "A"
+    }
   },
   "425": {
     "vid_path": "Eval_video/NBA/65.mp4",
@@ -5032,8 +4607,7 @@
       "B": "Giannis Antetokounmpo",
       "C": "Anthony Parker",
       "D": "Anthony Davis"
-    },
-    "answer": "C"
+    }
   },
   "426": {
     "vid_path": "Eval_video/NBA/65.mp4",
@@ -5044,8 +4618,7 @@
       "B": "LeBron James",
       "C": "No assist generated",
       "D": "Kyrie Irving"
-    },
-    "answer": "C"
+    }
   },
   "427": {
     "vid_path": "Eval_video/NBA/66.mp4",
@@ -5056,8 +4629,7 @@
       "B": "2013 NBA Finals G3",
       "C": "2013 NBA Finals G1",
       "D": "2013 NBA Finals G4"
-    },
-    "answer": "C"
+    }
   },
   "428": {
     "vid_path": "Eval_video/NBA/66.mp4",
@@ -5068,8 +4640,7 @@
       "B": "San Antonio Spurs vs Miami Heat",
       "C": "Houston Rockets vs Chicago Bulls",
       "D": "Boston Celtics vs Los Angeles Lakers"
-    },
-    "answer": "B"
+    }
   },
   "429": {
     "vid_path": "Eval_video/NBA/66.mp4",
@@ -5080,8 +4651,7 @@
       "B": "None of the above",
       "C": "88-88, tied",
       "D": "88-90, Heat leading"
-    },
-    "answer": "A"
+    }
   },
   "430": {
     "vid_path": "Eval_video/NBA/66.mp4",
@@ -5092,8 +4662,7 @@
       "B": "Yes",
       "C": "Unclear",
       "D": "Not mentioned"
-    },
-    "answer": "A"
+    }
   },
   "431": {
     "vid_path": "Eval_video/NBA/66.mp4",
@@ -5104,8 +4673,7 @@
       "B": "Two attempts, one made and one missed",
       "C": "One attempt, missed",
       "D": "One attempt, made"
-    },
-    "answer": "D"
+    }
   },
   "432": {
     "vid_path": "Eval_video/NBA/66.mp4",
@@ -5116,8 +4684,7 @@
       "B": "James",
       "C": "Duncan",
       "D": "Ginobili"
-    },
-    "answer": "B"
+    }
   },
   "433": {
     "vid_path": "Eval_video/NBA/66.mp4",
@@ -5128,8 +4695,7 @@
       "B": "Duncan",
       "C": "Parker",
       "D": "Ginobili"
-    },
-    "answer": "A"
+    }
   },
   "434": {
     "vid_path": "Eval_video/NBA/67.mp4",
@@ -5140,8 +4706,7 @@
       "B": "2015 NBA All-Star Game",
       "C": "2015 NBA regular season game",
       "D": "2015 NBA Finals"
-    },
-    "answer": "A"
+    }
   },
   "435": {
     "vid_path": "Eval_video/NBA/67.mp4",
@@ -5152,8 +4717,7 @@
       "B": "Golden State Warriors vs. Cleveland Cavaliers",
       "C": "San Antonio Spurs vs. Los Angeles Clippers",
       "D": "Boston Celtics vs. Los Angeles Lakers"
-    },
-    "answer": "C"
+    }
   },
   "436": {
     "vid_path": "Eval_video/NBA/67.mp4",
@@ -5164,8 +4728,7 @@
       "B": "The score was not mentioned",
       "C": "108-110, Los Angeles Clippers leading",
       "D": "110-108, San Antonio Spurs leading"
-    },
-    "answer": "A"
+    }
   },
   "437": {
     "vid_path": "Eval_video/NBA/67.mp4",
@@ -5176,8 +4739,7 @@
       "B": "The question is not clear",
       "C": "Yes",
       "D": "It was not mentioned"
-    },
-    "answer": "A"
+    }
   },
   "438": {
     "vid_path": "Eval_video/NBA/67.mp4",
@@ -5188,8 +4750,7 @@
       "B": "The number of attempts and the outcome were not mentioned",
       "C": "Two attempts, both shots missed",
       "D": "One attempt, Paul's shot went in"
-    },
-    "answer": "D"
+    }
   },
   "439": {
     "vid_path": "Eval_video/NBA/67.mp4",
@@ -5200,8 +4761,7 @@
       "B": "Duncan",
       "C": "Paul",
       "D": "The defender was not mentioned"
-    },
-    "answer": "A"
+    }
   },
   "440": {
     "vid_path": "Eval_video/NBA/67.mp4",
@@ -5212,8 +4772,7 @@
       "B": "Duncan",
       "C": "Green",
       "D": "There was no assist"
-    },
-    "answer": "D"
+    }
   },
   "441": {
     "vid_path": "Eval_video/NBA/68.mp4",
@@ -5224,8 +4783,7 @@
       "B": "2015 NBA Playoffs G7",
       "C": "2016 NBA Finals G3",
       "D": "2018 NBA All-Star Game"
-    },
-    "answer": "C"
+    }
   },
   "442": {
     "vid_path": "Eval_video/NBA/68.mp4",
@@ -5236,8 +4794,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Golden State Warriors vs. Cleveland Cavaliers",
       "D": "Miami Heat vs. San Antonio Spurs"
-    },
-    "answer": "C"
+    }
   },
   "443": {
     "vid_path": "Eval_video/NBA/68.mp4",
@@ -5248,8 +4805,7 @@
       "B": "77-59, with the Cavaliers leading",
       "C": "59-77, with the Warriors leading",
       "D": "59-77, with the Warriors trailing"
-    },
-    "answer": "D"
+    }
   },
   "444": {
     "vid_path": "Eval_video/NBA/68.mp4",
@@ -5258,8 +4814,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "A"
+    }
   },
   "445": {
     "vid_path": "Eval_video/NBA/68.mp4",
@@ -5270,8 +4825,7 @@
       "B": "Four",
       "C": "Two",
       "D": "One"
-    },
-    "answer": "D"
+    }
   },
   "446": {
     "vid_path": "Eval_video/NBA/68.mp4",
@@ -5282,8 +4836,7 @@
       "B": "Shaquille O'Neal",
       "C": "Klay Thompson",
       "D": "Stephen Curry"
-    },
-    "answer": "A"
+    }
   },
   "447": {
     "vid_path": "Eval_video/NBA/68.mp4",
@@ -5294,8 +4847,7 @@
       "B": "James Harden",
       "C": "Kyrie Irving",
       "D": "Kevin Durant"
-    },
-    "answer": "C"
+    }
   },
   "448": {
     "vid_path": "Eval_video/NBA/69.mp4",
@@ -5306,8 +4858,7 @@
       "B": "NBA playoffs",
       "C": "NBA finals",
       "D": "NBA All-Star game"
-    },
-    "answer": "A"
+    }
   },
   "449": {
     "vid_path": "Eval_video/NBA/69.mp4",
@@ -5318,8 +4869,7 @@
       "B": "Chicago Bulls vs Miami Heat",
       "C": "Golden State Warriors vs Houston Rockets",
       "D": "Minnesota Timberwolves vs Oklahoma City Thunder"
-    },
-    "answer": "D"
+    }
   },
   "450": {
     "vid_path": "Eval_video/NBA/69.mp4",
@@ -5330,8 +4880,7 @@
       "B": "110-112, Thunder leading",
       "C": "112-110, Thunder leading",
       "D": "112-110, Timberwolves leading"
-    },
-    "answer": "D"
+    }
   },
   "451": {
     "vid_path": "Eval_video/NBA/69.mp4",
@@ -5340,8 +4889,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "A"
+    }
   },
   "452": {
     "vid_path": "Eval_video/NBA/69.mp4",
@@ -5352,8 +4900,7 @@
       "B": "One attempt, Anthony missed a 3-pointer",
       "C": "One attempt, Anthony made a 3-pointer",
       "D": "Two attempts, Anthony made a 3-pointer and Wiggins made a 3-pointer"
-    },
-    "answer": "D"
+    }
   },
   "453": {
     "vid_path": "Eval_video/NBA/69.mp4",
@@ -5364,8 +4911,7 @@
       "B": "George and Westbrook",
       "C": "Adams and Alex Abrines",
       "D": "Towns and Covington"
-    },
-    "answer": "C"
+    }
   },
   "454": {
     "vid_path": "Eval_video/NBA/69.mp4",
@@ -5376,8 +4922,7 @@
       "B": "Chris Paul",
       "C": "LeBron James",
       "D": "Ricky Rubio"
-    },
-    "answer": "A"
+    }
   },
   "455": {
     "vid_path": "Eval_video/NBA/6.mp4",
@@ -5388,8 +4933,7 @@
       "B": "2020 NBA All-Star Game",
       "C": "2019 NBA Finals",
       "D": "2016 NBA Regular Season"
-    },
-    "answer": "D"
+    }
   },
   "456": {
     "vid_path": "Eval_video/NBA/6.mp4",
@@ -5400,8 +4944,7 @@
       "B": "Toronto Raptors vs. Golden State Warriors",
       "C": "Los Angeles Lakers vs. Boston Celtics",
       "D": "Miami Heat vs. San Antonio Spurs"
-    },
-    "answer": "A"
+    }
   },
   "457": {
     "vid_path": "Eval_video/NBA/6.mp4",
@@ -5412,8 +4955,7 @@
       "B": "118-118, tied",
       "C": "92-86, Thunder leading",
       "D": "120-110, Warriors leading"
-    },
-    "answer": "B"
+    }
   },
   "458": {
     "vid_path": "Eval_video/NBA/6.mp4",
@@ -5422,8 +4964,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "459": {
     "vid_path": "Eval_video/NBA/6.mp4",
@@ -5434,8 +4975,7 @@
       "B": "No offensive attempts shown",
       "C": "Two attempts, both missed",
       "D": "One attempt, missed"
-    },
-    "answer": "D"
+    }
   },
   "460": {
     "vid_path": "Eval_video/NBA/6.mp4",
@@ -5446,8 +4986,7 @@
       "B": "Curry",
       "C": "Roberts",
       "D": "Thompson"
-    },
-    "answer": "C"
+    }
   },
   "461": {
     "vid_path": "Eval_video/NBA/6.mp4",
@@ -5458,8 +4997,7 @@
       "B": "No assist",
       "C": "Kevin Durant",
       "D": "Stephen Curry"
-    },
-    "answer": "B"
+    }
   },
   "462": {
     "vid_path": "Eval_video/NBA/70.mp4",
@@ -5470,8 +5008,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star game",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "463": {
     "vid_path": "Eval_video/NBA/70.mp4",
@@ -5482,8 +5019,7 @@
       "B": "Golden State Warriors vs. Los Angeles Lakers",
       "C": "Chicago Bulls vs. Boston Celtics",
       "D": "Philadelphia 76ers vs. Charlotte Hornets"
-    },
-    "answer": "D"
+    }
   },
   "464": {
     "vid_path": "Eval_video/NBA/70.mp4",
@@ -5494,8 +5030,7 @@
       "B": "119-119, tied",
       "C": "90-85, away team leading",
       "D": "100-105, home team leading"
-    },
-    "answer": "B"
+    }
   },
   "465": {
     "vid_path": "Eval_video/NBA/70.mp4",
@@ -5506,8 +5041,7 @@
       "B": "No",
       "C": "Yes",
       "D": "It depends"
-    },
-    "answer": "C"
+    }
   },
   "466": {
     "vid_path": "Eval_video/NBA/70.mp4",
@@ -5518,8 +5052,7 @@
       "B": "Two attempts - Walker's shot blocked and Butler's three-pointer made",
       "C": "One attempt, blocked shot by Walker",
       "D": "Three attempts - Walker's shot blocked, Butler's shot made, and Simmons' layup missed"
-    },
-    "answer": "B"
+    }
   },
   "467": {
     "vid_path": "Eval_video/NBA/70.mp4",
@@ -5530,8 +5063,7 @@
       "B": "Simmons in the first attempt and Rozier in the second attempt",
       "C": "Embiid in the first attempt and Batum in the second attempt",
       "D": "Butler in the first attempt and Dwane Bacon in the second attempt"
-    },
-    "answer": "C"
+    }
   },
   "468": {
     "vid_path": "Eval_video/NBA/70.mp4",
@@ -5542,8 +5074,7 @@
       "B": "Brogdon assisted Walker's shot and Dragic assisted Butler's three-pointer",
       "C": "Butler assisted Walker's shot and no assist on Butler's three-pointer",
       "D": "Simmons assisted Walker's shot and Adebayo assisted Butler's three-pointer"
-    },
-    "answer": "A"
+    }
   },
   "469": {
     "vid_path": "Eval_video/NBA/71.mp4",
@@ -5554,8 +5085,7 @@
       "B": "NBA preseason game",
       "C": "NBA regular-season game",
       "D": "NBA playoff game"
-    },
-    "answer": "C"
+    }
   },
   "470": {
     "vid_path": "Eval_video/NBA/71.mp4",
@@ -5566,8 +5096,7 @@
       "B": "Miami Heat vs San Antonio Spurs",
       "C": "Memphis Grizzlies vs Sacramento Kings",
       "D": "Los Angeles Lakers vs Boston Celtics"
-    },
-    "answer": "C"
+    }
   },
   "471": {
     "vid_path": "Eval_video/NBA/71.mp4",
@@ -5578,8 +5107,7 @@
       "B": "97-96, Grizzlies leading",
       "C": "96-97, Grizzlies trailing",
       "D": "97-96, Grizzlies trailing"
-    },
-    "answer": "C"
+    }
   },
   "472": {
     "vid_path": "Eval_video/NBA/71.mp4",
@@ -5588,8 +5116,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "473": {
     "vid_path": "Eval_video/NBA/71.mp4",
@@ -5600,8 +5127,7 @@
       "B": "One attempt, Mayo mid-range jump shot missed; Evans three-point shot made",
       "C": "Two attempts, Mayo mid-range jump shot made; Evans three-point shot missed",
       "D": "Two attempts, Mayo mid-range jump shot missed; Evans three-point shot missed"
-    },
-    "answer": "A"
+    }
   },
   "474": {
     "vid_path": "Eval_video/NBA/71.mp4",
@@ -5612,8 +5138,7 @@
       "B": "Turn 1: Randolph; Turn 2: Evans",
       "C": "Turn 1: Evans; Turn 2: Randolph",
       "D": "Turn 1: Mayo; Turn 2: Evans"
-    },
-    "answer": "C"
+    }
   },
   "475": {
     "vid_path": "Eval_video/NBA/71.mp4",
@@ -5624,8 +5149,7 @@
       "B": "Turn 1: Assist by Randolph; Turn 2: Assist by Evans",
       "C": "Turn 1: Assist by Mayo; Turn 2: Assist by Evans",
       "D": "Turn 1: Assist by Evans; Turn 2: Assist by Randolph"
-    },
-    "answer": "A"
+    }
   },
   "476": {
     "vid_path": "Eval_video/NBA/72.mp4",
@@ -5636,8 +5160,7 @@
       "B": "NBA regular season",
       "C": "NBA playoffs",
       "D": "NCAA tournament"
-    },
-    "answer": "B"
+    }
   },
   "477": {
     "vid_path": "Eval_video/NBA/72.mp4",
@@ -5648,8 +5171,7 @@
       "B": "Chicago Bulls vs. Charlotte Hornets",
       "C": "Golden State Warriors vs. Los Angeles Lakers",
       "D": "Boston Celtics vs. Philadelphia 76ers"
-    },
-    "answer": "B"
+    }
   },
   "478": {
     "vid_path": "Eval_video/NBA/72.mp4",
@@ -5660,8 +5182,7 @@
       "B": "61-67, Bulls leading",
       "C": "67-61, Hornets leading",
       "D": "61-67, Hornets leading"
-    },
-    "answer": "A"
+    }
   },
   "479": {
     "vid_path": "Eval_video/NBA/72.mp4",
@@ -5670,8 +5191,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "480": {
     "vid_path": "Eval_video/NBA/72.mp4",
@@ -5682,8 +5202,7 @@
       "B": "One, successful three-pointer by Walker",
       "C": "Three, mixed results",
       "D": "Two, both unsuccessful"
-    },
-    "answer": "B"
+    }
   },
   "481": {
     "vid_path": "Eval_video/NBA/72.mp4",
@@ -5694,8 +5213,7 @@
       "B": "Mirotic",
       "C": "Hornets' team defense",
       "D": "Walker"
-    },
-    "answer": "B"
+    }
   },
   "482": {
     "vid_path": "Eval_video/NBA/72.mp4",
@@ -5706,8 +5224,7 @@
       "B": "Walker",
       "C": "The coach's play design",
       "D": "Mirotic"
-    },
-    "answer": "A"
+    }
   },
   "483": {
     "vid_path": "Eval_video/NBA/73.mp4",
@@ -5718,8 +5235,7 @@
       "B": "NBA Regular Season",
       "C": "NBA Playoffs",
       "D": "NBA All-Star Game"
-    },
-    "answer": "B"
+    }
   },
   "484": {
     "vid_path": "Eval_video/NBA/73.mp4",
@@ -5730,8 +5246,7 @@
       "B": "Golden State Warriors vs Houston Rockets",
       "C": "Boston Celtics vs Denver Nuggets",
       "D": "Chicago Bulls vs Miami Heat"
-    },
-    "answer": "C"
+    }
   },
   "485": {
     "vid_path": "Eval_video/NBA/73.mp4",
@@ -5742,8 +5257,7 @@
       "B": "36-46, Celtics behind",
       "C": "36-46, Celtics ahead",
       "D": "46-36, Celtics ahead"
-    },
-    "answer": "B"
+    }
   },
   "486": {
     "vid_path": "Eval_video/NBA/73.mp4",
@@ -5754,8 +5268,7 @@
       "B": "Not mentioned",
       "C": "Yes",
       "D": "Unclear"
-    },
-    "answer": "A"
+    }
   },
   "487": {
     "vid_path": "Eval_video/NBA/73.mp4",
@@ -5766,8 +5279,7 @@
       "B": "1 attempt, made it",
       "C": "2 attempts, made one and missed one",
       "D": "2 attempts, missed both"
-    },
-    "answer": "B"
+    }
   },
   "488": {
     "vid_path": "Eval_video/NBA/73.mp4",
@@ -5778,8 +5290,7 @@
       "B": "Brandon Bass",
       "C": "Danilo Gallinari",
       "D": "Gary Harris"
-    },
-    "answer": "B"
+    }
   },
   "489": {
     "vid_path": "Eval_video/NBA/73.mp4",
@@ -5790,8 +5301,7 @@
       "B": "Gary Harris",
       "C": "Mason Plumlee",
       "D": "Danilo Gallinari"
-    },
-    "answer": "B"
+    }
   },
   "490": {
     "vid_path": "Eval_video/NBA/74.mp4",
@@ -5802,8 +5312,7 @@
       "B": "All-Star Game",
       "C": "NBA regular season",
       "D": "NBA playoffs"
-    },
-    "answer": "C"
+    }
   },
   "491": {
     "vid_path": "Eval_video/NBA/74.mp4",
@@ -5814,8 +5323,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Golden State Warriors vs. Houston Rockets",
       "D": "New York Knicks vs. Chicago Bulls"
-    },
-    "answer": "D"
+    }
   },
   "492": {
     "vid_path": "Eval_video/NBA/74.mp4",
@@ -5826,8 +5334,7 @@
       "B": "26-22, Knicks leading",
       "C": "22-26, Bulls leading",
       "D": "28-24, Knicks leading"
-    },
-    "answer": "B"
+    }
   },
   "493": {
     "vid_path": "Eval_video/NBA/74.mp4",
@@ -5836,8 +5343,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "494": {
     "vid_path": "Eval_video/NBA/74.mp4",
@@ -5848,8 +5354,7 @@
       "B": "One, Rose made a dunk",
       "C": "Two, both missed shots",
       "D": "None, only defensive plays were shown"
-    },
-    "answer": "B"
+    }
   },
   "495": {
     "vid_path": "Eval_video/NBA/74.mp4",
@@ -5860,8 +5365,7 @@
       "B": "Bulls player number 9",
       "C": "Knicks player number 8",
       "D": "Bulls player number 8"
-    },
-    "answer": "C"
+    }
   },
   "496": {
     "vid_path": "Eval_video/NBA/74.mp4",
@@ -5872,8 +5376,7 @@
       "B": "Individual effort, no assist generated",
       "C": "Rose",
       "D": "Bulls player number 9"
-    },
-    "answer": "B"
+    }
   },
   "497": {
     "vid_path": "Eval_video/NBA/75.mp4",
@@ -5884,8 +5387,7 @@
       "B": "NBA regular season",
       "C": "All-Star game",
       "D": "NBA playoffs"
-    },
-    "answer": "B"
+    }
   },
   "498": {
     "vid_path": "Eval_video/NBA/75.mp4",
@@ -5896,8 +5398,7 @@
       "B": "San Antonio Spurs vs Denver Nuggets",
       "C": "Toronto Raptors vs Milwaukee Bucks",
       "D": "Golden State Warriors vs Houston Rockets"
-    },
-    "answer": "B"
+    }
   },
   "499": {
     "vid_path": "Eval_video/NBA/75.mp4",
@@ -5908,8 +5409,7 @@
       "B": "34-28, Spurs leading",
       "C": "28-34, Nuggets trailing",
       "D": "28-34, Spurs trailing"
-    },
-    "answer": "D"
+    }
   },
   "500": {
     "vid_path": "Eval_video/NBA/75.mp4",
@@ -5918,8 +5418,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "501": {
     "vid_path": "Eval_video/NBA/75.mp4",
@@ -5930,8 +5429,7 @@
       "B": "Three attempts, one made and two missed",
       "C": "One attempt, JR Smith made a dunk",
       "D": "No offensive attempts shown"
-    },
-    "answer": "C"
+    }
   },
   "502": {
     "vid_path": "Eval_video/NBA/75.mp4",
@@ -5942,8 +5440,7 @@
       "B": "LeBron James",
       "C": "Kawhi Leonard",
       "D": "Carmelo Anthony"
-    },
-    "answer": "A"
+    }
   },
   "503": {
     "vid_path": "Eval_video/NBA/75.mp4",
@@ -5954,8 +5451,7 @@
       "B": "Stephen Curry",
       "C": "No assist, individual play",
       "D": "Kyrie Irving"
-    },
-    "answer": "C"
+    }
   },
   "504": {
     "vid_path": "Eval_video/NBA/76.mp4",
@@ -5966,8 +5462,7 @@
       "B": "2012 NBA Playoffs Western Conference First Round Game 1",
       "C": "2010 NBA All-Star Game",
       "D": "2008 NBA Regular Season Game"
-    },
-    "answer": "B"
+    }
   },
   "505": {
     "vid_path": "Eval_video/NBA/76.mp4",
@@ -5978,8 +5473,7 @@
       "B": "Golden State Warriors vs. Cleveland Cavaliers",
       "C": "Houston Rockets vs. San Antonio Spurs",
       "D": "Dallas Mavericks vs. Oklahoma City Thunder"
-    },
-    "answer": "D"
+    }
   },
   "506": {
     "vid_path": "Eval_video/NBA/76.mp4",
@@ -5990,8 +5484,7 @@
       "B": "97-98, Oklahoma City Thunder leading",
       "C": "99-100, Oklahoma City Thunder leading",
       "D": "100-99, Dallas Mavericks leading"
-    },
-    "answer": "A"
+    }
   },
   "507": {
     "vid_path": "Eval_video/NBA/76.mp4",
@@ -6002,8 +5495,7 @@
       "B": "No",
       "C": "Not applicable",
       "D": "Not mentioned"
-    },
-    "answer": "A"
+    }
   },
   "508": {
     "vid_path": "Eval_video/NBA/76.mp4",
@@ -6014,8 +5506,7 @@
       "B": "1 attempt, Durant missed a mid-range shot; Marion made a three-point shot",
       "C": "2 attempts, Durant missed a mid-range shot; Marion made a three-point shot",
       "D": "2 attempts, Durant made a mid-range shot; Marion missed a three-point shot"
-    },
-    "answer": "D"
+    }
   },
   "509": {
     "vid_path": "Eval_video/NBA/76.mp4",
@@ -6026,8 +5517,7 @@
       "B": "Westbrook and Nowitzki",
       "C": "Marion and Durant",
       "D": "Harden and Ibaka"
-    },
-    "answer": "C"
+    }
   },
   "510": {
     "vid_path": "Eval_video/NBA/76.mp4",
@@ -6038,8 +5528,7 @@
       "B": "Harden and Ibaka",
       "C": "Durant and Westbrook",
       "D": "No assists were made"
-    },
-    "answer": "D"
+    }
   },
   "511": {
     "vid_path": "Eval_video/NBA/77.mp4",
@@ -6050,8 +5539,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA finals"
-    },
-    "answer": "A"
+    }
   },
   "512": {
     "vid_path": "Eval_video/NBA/77.mp4",
@@ -6062,8 +5550,7 @@
       "B": "Houston Rockets vs Boston Celtics",
       "C": "Milwaukee Bucks vs Los Angeles Lakers",
       "D": "Milwaukee Bucks vs New York Knicks"
-    },
-    "answer": "D"
+    }
   },
   "513": {
     "vid_path": "Eval_video/NBA/77.mp4",
@@ -6074,8 +5561,7 @@
       "B": "103-104, Bucks behind",
       "C": "102-105, Bucks behind",
       "D": "104-103, Bucks ahead"
-    },
-    "answer": "B"
+    }
   },
   "514": {
     "vid_path": "Eval_video/NBA/77.mp4",
@@ -6086,8 +5572,7 @@
       "B": "Yes",
       "C": "Not mentioned",
       "D": "Cannot determine"
-    },
-    "answer": "A"
+    }
   },
   "515": {
     "vid_path": "Eval_video/NBA/77.mp4",
@@ -6098,8 +5583,7 @@
       "B": "2 attempts, both missed",
       "C": "1 attempt, Antetokounmpo made a fadeaway jumper",
       "D": "Not mentioned in the translations"
-    },
-    "answer": "C"
+    }
   },
   "516": {
     "vid_path": "Eval_video/NBA/77.mp4",
@@ -6110,8 +5594,7 @@
       "B": "Antetokounmpo",
       "C": "Cannot determine",
       "D": "Thomas"
-    },
-    "answer": "D"
+    }
   },
   "517": {
     "vid_path": "Eval_video/NBA/77.mp4",
@@ -6122,8 +5605,7 @@
       "B": "No assist generated",
       "C": "Not mentioned",
       "D": "Thomas"
-    },
-    "answer": "B"
+    }
   },
   "518": {
     "vid_path": "Eval_video/NBA/78.mp4",
@@ -6134,8 +5616,7 @@
       "B": "Pre-season game",
       "C": "Regular season game",
       "D": "First round of the 2012 NBA playoffs"
-    },
-    "answer": "D"
+    }
   },
   "519": {
     "vid_path": "Eval_video/NBA/78.mp4",
@@ -6146,8 +5627,7 @@
       "B": "Chicago Bulls vs Golden State Warriors",
       "C": "Miami Heat vs New York Knicks",
       "D": "San Antonio Spurs vs Oklahoma City Thunder"
-    },
-    "answer": "C"
+    }
   },
   "520": {
     "vid_path": "Eval_video/NBA/78.mp4",
@@ -6158,8 +5638,7 @@
       "B": "66-56, Heat in the lead",
       "C": "66-56, Knicks in the lead",
       "D": "56-66, Heat in the lead"
-    },
-    "answer": "B"
+    }
   },
   "521": {
     "vid_path": "Eval_video/NBA/78.mp4",
@@ -6168,8 +5647,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "522": {
     "vid_path": "Eval_video/NBA/78.mp4",
@@ -6180,8 +5658,7 @@
       "B": "Two",
       "C": "One",
       "D": "Three"
-    },
-    "answer": "C"
+    }
   },
   "523": {
     "vid_path": "Eval_video/NBA/78.mp4",
@@ -6192,8 +5669,7 @@
       "B": "Carmelo Anthony",
       "C": "LeBron James",
       "D": "JR Smith"
-    },
-    "answer": "C"
+    }
   },
   "524": {
     "vid_path": "Eval_video/NBA/78.mp4",
@@ -6204,8 +5680,7 @@
       "B": "LeBron James",
       "C": "Chris Bosh",
       "D": "No assist"
-    },
-    "answer": "D"
+    }
   },
   "525": {
     "vid_path": "Eval_video/NBA/79.mp4",
@@ -6216,8 +5691,7 @@
       "B": "2013 NBA All-Star Game",
       "C": "2011 NBA Playoffs Round 1 G3",
       "D": "2008 NBA Regular Season"
-    },
-    "answer": "C"
+    }
   },
   "526": {
     "vid_path": "Eval_video/NBA/79.mp4",
@@ -6228,8 +5702,7 @@
       "B": "Miami Heat vs Los Angeles Lakers",
       "C": "Houston Rockets vs Boston Celtics",
       "D": "Miami Heat vs Philadelphia 76ers"
-    },
-    "answer": "D"
+    }
   },
   "527": {
     "vid_path": "Eval_video/NBA/79.mp4",
@@ -6240,8 +5713,7 @@
       "B": "68-62, Philadelphia 76ers leading",
       "C": "68-62, Miami Heat leading",
       "D": "62-68, Miami Heat trailing"
-    },
-    "answer": "D"
+    }
   },
   "528": {
     "vid_path": "Eval_video/NBA/79.mp4",
@@ -6250,8 +5722,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "529": {
     "vid_path": "Eval_video/NBA/79.mp4",
@@ -6262,8 +5733,7 @@
       "B": "No scoring attempts shown in the highlights",
       "C": "Three attempts, two successful shots and one missed shot",
       "D": "One attempt, successful dunk by Wade"
-    },
-    "answer": "D"
+    }
   },
   "530": {
     "vid_path": "Eval_video/NBA/79.mp4",
@@ -6274,8 +5744,7 @@
       "B": "LeBron James",
       "C": "Dwyane Wade",
       "D": "Chris Bosh"
-    },
-    "answer": "A"
+    }
   },
   "531": {
     "vid_path": "Eval_video/NBA/79.mp4",
@@ -6286,8 +5755,7 @@
       "B": "Dwyane Wade",
       "C": "Chris Bosh",
       "D": "LeBron James"
-    },
-    "answer": "D"
+    }
   },
   "532": {
     "vid_path": "Eval_video/NBA/7.mp4",
@@ -6298,8 +5766,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA regular season",
       "D": "NBA Finals"
-    },
-    "answer": "C"
+    }
   },
   "533": {
     "vid_path": "Eval_video/NBA/7.mp4",
@@ -6310,8 +5777,7 @@
       "B": "Golden State Warriors vs Houston Rockets",
       "C": "Detroit Pistons vs Los Angeles Clippers",
       "D": "Chicago Bulls vs Miami Heat"
-    },
-    "answer": "C"
+    }
   },
   "534": {
     "vid_path": "Eval_video/NBA/7.mp4",
@@ -6322,8 +5788,7 @@
       "B": "36-55 (Clippers leading)",
       "C": "45-45 (Tie game)",
       "D": "55-36 (Pistons leading)"
-    },
-    "answer": "B"
+    }
   },
   "535": {
     "vid_path": "Eval_video/NBA/7.mp4",
@@ -6332,8 +5797,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "536": {
     "vid_path": "Eval_video/NBA/7.mp4",
@@ -6344,8 +5808,7 @@
       "B": "1 attempt, successful",
       "C": "2 attempts, both successful",
       "D": "4 attempts, 2 successful, 2 unsuccessful"
-    },
-    "answer": "B"
+    }
   },
   "537": {
     "vid_path": "Eval_video/NBA/7.mp4",
@@ -6356,8 +5819,7 @@
       "B": "Jordan",
       "C": "Paul",
       "D": "Knight"
-    },
-    "answer": "D"
+    }
   },
   "538": {
     "vid_path": "Eval_video/NBA/7.mp4",
@@ -6368,8 +5830,7 @@
       "B": "Chris Paul",
       "C": "Andre Jordan",
       "D": "Blake Griffin"
-    },
-    "answer": "B"
+    }
   },
   "539": {
     "vid_path": "Eval_video/NBA/80.mp4",
@@ -6380,8 +5841,7 @@
       "B": "NBA regular season",
       "C": "NBA All-Star Game",
       "D": "NBA playoffs"
-    },
-    "answer": "B"
+    }
   },
   "540": {
     "vid_path": "Eval_video/NBA/80.mp4",
@@ -6392,8 +5852,7 @@
       "B": "Chicago Bulls vs. New York Knicks",
       "C": "Boston Celtics vs. New York Knicks",
       "D": "Chicago Bulls vs. Los Angeles Lakers"
-    },
-    "answer": "B"
+    }
   },
   "541": {
     "vid_path": "Eval_video/NBA/80.mp4",
@@ -6404,8 +5863,7 @@
       "B": "91-88, with the Bulls leading",
       "C": "91-88, with the Knicks leading",
       "D": "88-91, with the Bulls leading"
-    },
-    "answer": "B"
+    }
   },
   "542": {
     "vid_path": "Eval_video/NBA/80.mp4",
@@ -6414,8 +5872,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "543": {
     "vid_path": "Eval_video/NBA/80.mp4",
@@ -6426,8 +5883,7 @@
       "B": "One attempt, made",
       "C": "Two attempts, both missed",
       "D": "One attempt, missed"
-    },
-    "answer": "A"
+    }
   },
   "544": {
     "vid_path": "Eval_video/NBA/80.mp4",
@@ -6438,8 +5894,7 @@
       "B": "Gibson in the first play, Randle in the second play",
       "C": "LeBron James in the first play, Kawhi Leonard in the second play",
       "D": "Randle in the first play, Gibson in the second play"
-    },
-    "answer": "B"
+    }
   },
   "545": {
     "vid_path": "Eval_video/NBA/80.mp4",
@@ -6450,8 +5905,7 @@
       "B": "Kevin Durant",
       "C": "Luka Don\u010di\u0107",
       "D": "Stephen Curry"
-    },
-    "answer": "A"
+    }
   },
   "546": {
     "vid_path": "Eval_video/NBA/81.mp4",
@@ -6462,8 +5916,7 @@
       "B": "NBA Finals",
       "C": "NBA All-Star Game",
       "D": "NBA playoffs"
-    },
-    "answer": "A"
+    }
   },
   "547": {
     "vid_path": "Eval_video/NBA/81.mp4",
@@ -6474,8 +5927,7 @@
       "B": "Golden State Warriors vs. Los Angeles Lakers",
       "C": "San Antonio Spurs vs. Houston Rockets",
       "D": "Chicago Bulls vs. Miami Heat"
-    },
-    "answer": "B"
+    }
   },
   "548": {
     "vid_path": "Eval_video/NBA/81.mp4",
@@ -6486,8 +5938,7 @@
       "B": "Scoreless",
       "C": "Unavailable",
       "D": "Tied"
-    },
-    "answer": "C"
+    }
   },
   "549": {
     "vid_path": "Eval_video/NBA/81.mp4",
@@ -6496,8 +5947,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "550": {
     "vid_path": "Eval_video/NBA/81.mp4",
@@ -6508,8 +5958,7 @@
       "B": "2 attempts, both missed",
       "C": "4 attempts, mixed results",
       "D": "3 attempts, all scored"
-    },
-    "answer": "A"
+    }
   },
   "551": {
     "vid_path": "Eval_video/NBA/81.mp4",
@@ -6520,8 +5969,7 @@
       "B": "Golden State Warriors",
       "C": "Unknown",
       "D": "Los Angeles Lakers"
-    },
-    "answer": "C"
+    }
   },
   "552": {
     "vid_path": "Eval_video/NBA/81.mp4",
@@ -6532,8 +5980,7 @@
       "B": "LeBron James",
       "C": "No assist",
       "D": "Kevin Durant"
-    },
-    "answer": "A"
+    }
   },
   "553": {
     "vid_path": "Eval_video/NBA/82.mp4",
@@ -6544,8 +5991,7 @@
       "B": "NBA regular season",
       "C": "Playoffs",
       "D": "All-Star game"
-    },
-    "answer": "B"
+    }
   },
   "554": {
     "vid_path": "Eval_video/NBA/82.mp4",
@@ -6556,8 +6002,7 @@
       "B": "Golden State Warriors vs. Los Angeles Lakers",
       "C": "Houston Rockets vs. Boston Celtics",
       "D": "Toronto Raptors vs. Detroit Pistons"
-    },
-    "answer": "D"
+    }
   },
   "555": {
     "vid_path": "Eval_video/NBA/82.mp4",
@@ -6568,8 +6013,7 @@
       "B": "112-112, tie game",
       "C": "111-112, Raptors behind",
       "D": "112-111, Raptors ahead"
-    },
-    "answer": "C"
+    }
   },
   "556": {
     "vid_path": "Eval_video/NBA/82.mp4",
@@ -6580,8 +6024,7 @@
       "B": "Not mentioned",
       "C": "Yes",
       "D": "No"
-    },
-    "answer": "D"
+    }
   },
   "557": {
     "vid_path": "Eval_video/NBA/82.mp4",
@@ -6592,8 +6035,7 @@
       "B": "Two attempts, both missed",
       "C": "Three attempts, two baskets made",
       "D": "One attempt, DeMar DeRozan dunked successfully"
-    },
-    "answer": "D"
+    }
   },
   "558": {
     "vid_path": "Eval_video/NBA/82.mp4",
@@ -6604,8 +6046,7 @@
       "B": "Anthony Tolliver",
       "C": "DeMar DeRozan",
       "D": "Not mentioned"
-    },
-    "answer": "B"
+    }
   },
   "559": {
     "vid_path": "Eval_video/NBA/82.mp4",
@@ -6616,8 +6057,7 @@
       "B": "No assist, individual play",
       "C": "DeMar DeRozan",
       "D": "Serge Ibaka"
-    },
-    "answer": "B"
+    }
   },
   "560": {
     "vid_path": "Eval_video/NBA/83.mp4",
@@ -6628,8 +6068,7 @@
       "B": "2020 NBA All-Star Game",
       "C": "2017 NBA Finals G4",
       "D": "2018 NBA Eastern Conference Finals G7"
-    },
-    "answer": "D"
+    }
   },
   "561": {
     "vid_path": "Eval_video/NBA/83.mp4",
@@ -6640,8 +6079,7 @@
       "B": "Toronto Raptors vs. Milwaukee Bucks",
       "C": "Golden State Warriors vs. Houston Rockets",
       "D": "Los Angeles Lakers vs. Miami Heat"
-    },
-    "answer": "A"
+    }
   },
   "562": {
     "vid_path": "Eval_video/NBA/83.mp4",
@@ -6652,8 +6090,7 @@
       "B": "83-80, Celtics in the lead",
       "C": "104-101, Celtics in the lead",
       "D": "92-90, Cavaliers in the lead"
-    },
-    "answer": "A"
+    }
   },
   "563": {
     "vid_path": "Eval_video/NBA/83.mp4",
@@ -6662,8 +6099,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "564": {
     "vid_path": "Eval_video/NBA/83.mp4",
@@ -6674,8 +6110,7 @@
       "B": "One attempt, slam dunk by Tatum",
       "C": "Four attempts, three missed and one made",
       "D": "Three attempts, all missed"
-    },
-    "answer": "B"
+    }
   },
   "565": {
     "vid_path": "Eval_video/NBA/83.mp4",
@@ -6686,8 +6121,7 @@
       "B": "Tatum",
       "C": "Davis",
       "D": "Walker"
-    },
-    "answer": "A"
+    }
   },
   "566": {
     "vid_path": "Eval_video/NBA/83.mp4",
@@ -6698,8 +6132,7 @@
       "B": "No assist, individual play",
       "C": "Hayward",
       "D": "Smart"
-    },
-    "answer": "B"
+    }
   },
   "567": {
     "vid_path": "Eval_video/NBA/84.mp4",
@@ -6710,8 +6143,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA Finals",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "568": {
     "vid_path": "Eval_video/NBA/84.mp4",
@@ -6722,8 +6154,7 @@
       "B": "Los Angeles Lakers vs Boston Celtics",
       "C": "Chicago Bulls vs Golden State Warriors",
       "D": "Sacramento Kings vs Memphis Grizzlies"
-    },
-    "answer": "D"
+    }
   },
   "569": {
     "vid_path": "Eval_video/NBA/84.mp4",
@@ -6734,8 +6165,7 @@
       "B": "110-109, Kings are leading",
       "C": "Not mentioned",
       "D": "109-110, Grizzlies are leading"
-    },
-    "answer": "B"
+    }
   },
   "570": {
     "vid_path": "Eval_video/NBA/84.mp4",
@@ -6745,8 +6175,7 @@
       "A": "No",
       "B": "Not mentioned",
       "C": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "571": {
     "vid_path": "Eval_video/NBA/84.mp4",
@@ -6757,8 +6186,7 @@
       "B": "One, Courtney Lee made the shot",
       "C": "None",
       "D": "Not mentioned"
-    },
-    "answer": "B"
+    }
   },
   "572": {
     "vid_path": "Eval_video/NBA/84.mp4",
@@ -6768,8 +6196,7 @@
       "A": "Courtney Lee",
       "B": "Not mentioned",
       "C": "No defender"
-    },
-    "answer": "B"
+    }
   },
   "573": {
     "vid_path": "Eval_video/NBA/84.mp4",
@@ -6779,8 +6206,7 @@
       "A": "Not mentioned",
       "B": "No assist",
       "C": "Courtney Lee"
-    },
-    "answer": "A"
+    }
   },
   "574": {
     "vid_path": "Eval_video/NBA/85.mp4",
@@ -6791,8 +6217,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA playoffs",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "575": {
     "vid_path": "Eval_video/NBA/85.mp4",
@@ -6803,8 +6228,7 @@
       "B": "Golden State Warriors vs. Houston Rockets",
       "C": "Los Angeles Lakers vs. Boston Celtics",
       "D": "Chicago Bulls vs. Miami Heat"
-    },
-    "answer": "A"
+    }
   },
   "576": {
     "vid_path": "Eval_video/NBA/85.mp4",
@@ -6815,8 +6239,7 @@
       "B": "58-53, Raptors leading",
       "C": "35-40, Raptors leading",
       "D": "40-35, Nuggets leading"
-    },
-    "answer": "B"
+    }
   },
   "577": {
     "vid_path": "Eval_video/NBA/85.mp4",
@@ -6827,8 +6250,7 @@
       "B": "Unclear",
       "C": "No",
       "D": "Not mentioned"
-    },
-    "answer": "C"
+    }
   },
   "578": {
     "vid_path": "Eval_video/NBA/85.mp4",
@@ -6839,8 +6261,7 @@
       "B": "Two, both successful",
       "C": "Two, both missed",
       "D": "One, missed"
-    },
-    "answer": "A"
+    }
   },
   "579": {
     "vid_path": "Eval_video/NBA/85.mp4",
@@ -6851,8 +6272,7 @@
       "B": "Siakam",
       "C": "Faried",
       "D": "Ibaka"
-    },
-    "answer": "C"
+    }
   },
   "580": {
     "vid_path": "Eval_video/NBA/85.mp4",
@@ -6863,8 +6283,7 @@
       "B": "OG Anunoby",
       "C": "Norman Powell",
       "D": "No assist"
-    },
-    "answer": "D"
+    }
   },
   "581": {
     "vid_path": "Eval_video/NBA/86.mp4",
@@ -6875,8 +6294,7 @@
       "B": "NBA regular season",
       "C": "NBA playoffs",
       "D": "NBA All-Star game"
-    },
-    "answer": "B"
+    }
   },
   "582": {
     "vid_path": "Eval_video/NBA/86.mp4",
@@ -6887,8 +6305,7 @@
       "B": "San Antonio Spurs vs. Miami Heat",
       "C": "Chicago Bulls vs. Detroit Pistons",
       "D": "Golden State Warriors vs. Houston Rockets"
-    },
-    "answer": "C"
+    }
   },
   "583": {
     "vid_path": "Eval_video/NBA/86.mp4",
@@ -6899,8 +6316,7 @@
       "B": "Tied",
       "C": "Chicago Bulls leading",
       "D": "Detroit Pistons leading"
-    },
-    "answer": "A"
+    }
   },
   "584": {
     "vid_path": "Eval_video/NBA/86.mp4",
@@ -6909,8 +6325,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "585": {
     "vid_path": "Eval_video/NBA/86.mp4",
@@ -6921,8 +6336,7 @@
       "B": "Multiple attempts and made the shot",
       "C": "Multiple attempts and missed the shot",
       "D": "One attempt and missed the shot"
-    },
-    "answer": "A"
+    }
   },
   "586": {
     "vid_path": "Eval_video/NBA/86.mp4",
@@ -6933,8 +6347,7 @@
       "B": "Joakim Noah",
       "C": "Greg Monroe",
       "D": "Unknown"
-    },
-    "answer": "C"
+    }
   },
   "587": {
     "vid_path": "Eval_video/NBA/86.mp4",
@@ -6945,8 +6358,7 @@
       "B": "Joakim Noah",
       "C": "Greg Monroe",
       "D": "Unknown"
-    },
-    "answer": "A"
+    }
   },
   "588": {
     "vid_path": "Eval_video/NBA/87.mp4",
@@ -6957,8 +6369,7 @@
       "B": "NBA All-Star",
       "C": "NBA finals",
       "D": "NBA playoff"
-    },
-    "answer": "A"
+    }
   },
   "589": {
     "vid_path": "Eval_video/NBA/87.mp4",
@@ -6969,8 +6380,7 @@
       "B": "Boston Celtics vs Houston Rockets",
       "C": "Sacramento Kings vs Los Angeles Lakers",
       "D": "Sacramento Kings vs Denver Nuggets"
-    },
-    "answer": "D"
+    }
   },
   "590": {
     "vid_path": "Eval_video/NBA/87.mp4",
@@ -6981,8 +6391,7 @@
       "B": "64-92, Nuggets are leading",
       "C": "92-64, Kings are leading",
       "D": "64-92, Kings are leading"
-    },
-    "answer": "B"
+    }
   },
   "591": {
     "vid_path": "Eval_video/NBA/87.mp4",
@@ -6991,8 +6400,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "592": {
     "vid_path": "Eval_video/NBA/87.mp4",
@@ -7003,8 +6411,7 @@
       "B": "3 attempts, 2 made",
       "C": "1 attempt, made it",
       "D": "No attempts were shown"
-    },
-    "answer": "C"
+    }
   },
   "593": {
     "vid_path": "Eval_video/NBA/87.mp4",
@@ -7015,8 +6422,7 @@
       "B": "Unknown",
       "C": "Denver Nuggets player",
       "D": "Sacramento Kings player"
-    },
-    "answer": "B"
+    }
   },
   "594": {
     "vid_path": "Eval_video/NBA/87.mp4",
@@ -7027,8 +6433,7 @@
       "B": "Jamal Murray",
       "C": "Will Barton",
       "D": "De'Aaron Fox"
-    },
-    "answer": "C"
+    }
   },
   "595": {
     "vid_path": "Eval_video/NBA/88.mp4",
@@ -7039,8 +6444,7 @@
       "B": "NBA finals",
       "C": "NBA regular season",
       "D": "NBA All-Star game"
-    },
-    "answer": "C"
+    }
   },
   "596": {
     "vid_path": "Eval_video/NBA/88.mp4",
@@ -7051,8 +6455,7 @@
       "B": "Los Angeles Lakers vs Miami Heat",
       "C": "Portland Trail Blazers vs Orlando Magic",
       "D": "Los Angeles Lakers vs Orlando Magic"
-    },
-    "answer": "C"
+    }
   },
   "597": {
     "vid_path": "Eval_video/NBA/88.mp4",
@@ -7063,8 +6466,7 @@
       "B": "90-82, Magic trailing",
       "C": "82-90, Magic trailing",
       "D": "82-90, Magic leading"
-    },
-    "answer": "C"
+    }
   },
   "598": {
     "vid_path": "Eval_video/NBA/88.mp4",
@@ -7075,8 +6477,7 @@
       "B": "Yes",
       "C": "I'm not sure",
       "D": "No"
-    },
-    "answer": "B"
+    }
   },
   "599": {
     "vid_path": "Eval_video/NBA/88.mp4",
@@ -7087,8 +6488,7 @@
       "B": "Zero attempts",
       "C": "I'm not sure",
       "D": "One attempt, Lillard's dunk blocked"
-    },
-    "answer": "D"
+    }
   },
   "600": {
     "vid_path": "Eval_video/NBA/88.mp4",
@@ -7099,8 +6499,7 @@
       "B": "Kawhi Leonard",
       "C": "Giannis Antetokounmpo",
       "D": "Victor Oladipo"
-    },
-    "answer": "D"
+    }
   },
   "601": {
     "vid_path": "Eval_video/NBA/88.mp4",
@@ -7111,8 +6510,7 @@
       "B": "Victor Oladipo",
       "C": "I'm not sure",
       "D": "No one"
-    },
-    "answer": "D"
+    }
   },
   "602": {
     "vid_path": "Eval_video/NBA/89.mp4",
@@ -7123,8 +6521,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA Finals",
       "D": "NBA Regular Season"
-    },
-    "answer": "D"
+    }
   },
   "603": {
     "vid_path": "Eval_video/NBA/89.mp4",
@@ -7135,8 +6532,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Miami Heat vs. Chicago Bulls",
       "D": "Denver Nuggets vs. Houston Rockets"
-    },
-    "answer": "D"
+    }
   },
   "604": {
     "vid_path": "Eval_video/NBA/89.mp4",
@@ -7147,8 +6543,7 @@
       "B": "60-54, Nuggets trailing",
       "C": "54-60, Nuggets trailing",
       "D": "54-60, Nuggets leading"
-    },
-    "answer": "C"
+    }
   },
   "605": {
     "vid_path": "Eval_video/NBA/89.mp4",
@@ -7157,8 +6552,7 @@
     "choices": {
       "A": "Yes",
       "B": "No"
-    },
-    "answer": "B"
+    }
   },
   "606": {
     "vid_path": "Eval_video/NBA/89.mp4",
@@ -7169,8 +6563,7 @@
       "B": "1 attempt, made it",
       "C": "1 attempt, missed it",
       "D": "2 attempts, missed both"
-    },
-    "answer": "B"
+    }
   },
   "607": {
     "vid_path": "Eval_video/NBA/89.mp4",
@@ -7181,8 +6574,7 @@
       "B": "Millsap",
       "C": "Jokic",
       "D": "Morris"
-    },
-    "answer": "D"
+    }
   },
   "608": {
     "vid_path": "Eval_video/NBA/89.mp4",
@@ -7193,8 +6585,7 @@
       "B": "No assist, individual effort",
       "C": "Jokic",
       "D": "Murray"
-    },
-    "answer": "B"
+    }
   },
   "609": {
     "vid_path": "Eval_video/NBA/8.mp4",
@@ -7205,8 +6596,7 @@
       "B": "NBA Finals",
       "C": "NBA playoffs",
       "D": "NBA All-Star Game"
-    },
-    "answer": "A"
+    }
   },
   "610": {
     "vid_path": "Eval_video/NBA/8.mp4",
@@ -7217,8 +6607,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Golden State Warriors vs. Houston Rockets",
       "D": "Chicago Bulls vs. Miami Heat"
-    },
-    "answer": "A"
+    }
   },
   "611": {
     "vid_path": "Eval_video/NBA/8.mp4",
@@ -7229,8 +6618,7 @@
       "B": "50-60, the Bucks were leading",
       "C": "50-60, the Knicks were leading",
       "D": "60-50, the Bucks were leading"
-    },
-    "answer": "D"
+    }
   },
   "612": {
     "vid_path": "Eval_video/NBA/8.mp4",
@@ -7241,8 +6629,7 @@
       "B": "No, possession remained the same",
       "C": "Yes, Antetokounmpo turned the ball over",
       "D": "No, there was a jump ball"
-    },
-    "answer": "A"
+    }
   },
   "613": {
     "vid_path": "Eval_video/NBA/8.mp4",
@@ -7253,8 +6640,7 @@
       "B": "Three attempts, all missed",
       "C": "Four attempts, all made",
       "D": "Two attempts, one made and one missed"
-    },
-    "answer": "A"
+    }
   },
   "614": {
     "vid_path": "Eval_video/NBA/8.mp4",
@@ -7265,8 +6651,7 @@
       "B": "Eric Bledsoe",
       "C": "Malcolm Brogdon",
       "D": "Khris Middleton"
-    },
-    "answer": "A"
+    }
   },
   "615": {
     "vid_path": "Eval_video/NBA/8.mp4",
@@ -7277,8 +6662,7 @@
       "B": "Khris Middleton",
       "C": "Eric Bledsoe",
       "D": "Giannis Antetokounmpo"
-    },
-    "answer": "B"
+    }
   },
   "616": {
     "vid_path": "Eval_video/NBA/90.mp4",
@@ -7289,8 +6673,7 @@
       "B": "2010 NBA Regular Season",
       "C": "2011 NBA Playoffs Western Conference First Round",
       "D": "2008 NBA Finals"
-    },
-    "answer": "C"
+    }
   },
   "617": {
     "vid_path": "Eval_video/NBA/90.mp4",
@@ -7301,8 +6684,7 @@
       "B": "Golden State Warriors vs. Houston Rockets",
       "C": "New Orleans Hornets vs. Los Angeles Lakers",
       "D": "Miami Heat vs. Boston Celtics"
-    },
-    "answer": "C"
+    }
   },
   "618": {
     "vid_path": "Eval_video/NBA/90.mp4",
@@ -7313,8 +6695,7 @@
       "B": "44-40, Hornets leading",
       "C": "40-44, Hornets leading",
       "D": "44-40, Lakers leading"
-    },
-    "answer": "B"
+    }
   },
   "619": {
     "vid_path": "Eval_video/NBA/90.mp4",
@@ -7323,8 +6704,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "620": {
     "vid_path": "Eval_video/NBA/90.mp4",
@@ -7335,8 +6715,7 @@
       "B": "2 attempts, both scored",
       "C": "2 attempts, both missed",
       "D": "1 attempt, scored"
-    },
-    "answer": "A"
+    }
   },
   "621": {
     "vid_path": "Eval_video/NBA/90.mp4",
@@ -7347,8 +6726,7 @@
       "B": "Chris Paul",
       "C": "LeBron James",
       "D": "Emeka Okafor"
-    },
-    "answer": "D"
+    }
   },
   "622": {
     "vid_path": "Eval_video/NBA/90.mp4",
@@ -7359,8 +6737,7 @@
       "B": "LeBron James",
       "C": "No assist, individual play",
       "D": "Chris Paul"
-    },
-    "answer": "C"
+    }
   },
   "623": {
     "vid_path": "Eval_video/NBA/91.mp4",
@@ -7371,8 +6748,7 @@
       "B": "2008 NBA Regular Season Game 3",
       "C": "2015 NBA Playoffs Eastern Conference Semifinals G4",
       "D": "2019 NBA All-Star Game"
-    },
-    "answer": "C"
+    }
   },
   "624": {
     "vid_path": "Eval_video/NBA/91.mp4",
@@ -7383,8 +6759,7 @@
       "B": "Cleveland Cavaliers vs Chicago Bulls",
       "C": "Cleveland Cavaliers vs Boston Celtics",
       "D": "Golden State Warriors vs Houston Rockets"
-    },
-    "answer": "B"
+    }
   },
   "625": {
     "vid_path": "Eval_video/NBA/91.mp4",
@@ -7395,8 +6770,7 @@
       "B": "95-79",
       "C": "106-103",
       "D": "72-68"
-    },
-    "answer": "A"
+    }
   },
   "626": {
     "vid_path": "Eval_video/NBA/91.mp4",
@@ -7405,8 +6779,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "627": {
     "vid_path": "Eval_video/NBA/91.mp4",
@@ -7417,8 +6790,7 @@
       "B": "Two",
       "C": "Four",
       "D": "One"
-    },
-    "answer": "D"
+    }
   },
   "628": {
     "vid_path": "Eval_video/NBA/91.mp4",
@@ -7429,8 +6801,7 @@
       "B": "Kyrie Irving",
       "C": "Jimmy Butler",
       "D": "Derrick Rose"
-    },
-    "answer": "C"
+    }
   },
   "629": {
     "vid_path": "Eval_video/NBA/91.mp4",
@@ -7441,8 +6812,7 @@
       "B": "No one",
       "C": "Kevin Love",
       "D": "Dwyane Wade"
-    },
-    "answer": "B"
+    }
   },
   "630": {
     "vid_path": "Eval_video/NBA/92.mp4",
@@ -7453,8 +6823,7 @@
       "B": "NBA regular season",
       "C": "NBA playoffs",
       "D": "NBA finals"
-    },
-    "answer": "B"
+    }
   },
   "631": {
     "vid_path": "Eval_video/NBA/92.mp4",
@@ -7465,8 +6834,7 @@
       "B": "Chicago Bulls vs Miami Heat",
       "C": "Los Angeles Lakers vs Boston Celtics",
       "D": "Golden State Warriors vs Houston Rockets"
-    },
-    "answer": "A"
+    }
   },
   "632": {
     "vid_path": "Eval_video/NBA/92.mp4",
@@ -7477,8 +6845,7 @@
       "B": "120-122, Thunder leading",
       "C": "120-122, Timberwolves leading",
       "D": "122-120, Thunder leading"
-    },
-    "answer": "A"
+    }
   },
   "633": {
     "vid_path": "Eval_video/NBA/92.mp4",
@@ -7487,8 +6854,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "634": {
     "vid_path": "Eval_video/NBA/92.mp4",
@@ -7499,8 +6865,7 @@
       "B": "One attempt, successful",
       "C": "Two attempts, both unsuccessful",
       "D": "Two attempts, both successful"
-    },
-    "answer": "B"
+    }
   },
   "635": {
     "vid_path": "Eval_video/NBA/92.mp4",
@@ -7511,8 +6876,7 @@
       "B": "Towns",
       "C": "Anthony Edwards",
       "D": "Tigges"
-    },
-    "answer": "D"
+    }
   },
   "636": {
     "vid_path": "Eval_video/NBA/92.mp4",
@@ -7523,8 +6887,7 @@
       "B": "Anthony Edwards",
       "C": "Russell",
       "D": "None"
-    },
-    "answer": "D"
+    }
   },
   "637": {
     "vid_path": "Eval_video/NBA/93.mp4",
@@ -7535,8 +6898,7 @@
       "B": "NBA All-Star Game",
       "C": "NBA regular season",
       "D": "NBA Finals"
-    },
-    "answer": "C"
+    }
   },
   "638": {
     "vid_path": "Eval_video/NBA/93.mp4",
@@ -7547,8 +6909,7 @@
       "B": "Brooklyn Nets vs Philadelphia 76ers",
       "C": "Los Angeles Lakers vs Boston Celtics",
       "D": "Miami Heat vs Sacramento Kings"
-    },
-    "answer": "D"
+    }
   },
   "639": {
     "vid_path": "Eval_video/NBA/93.mp4",
@@ -7559,8 +6920,7 @@
       "B": "Tie score",
       "C": "Sacramento Kings leading",
       "D": "Unknown"
-    },
-    "answer": "D"
+    }
   },
   "640": {
     "vid_path": "Eval_video/NBA/93.mp4",
@@ -7569,8 +6929,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "641": {
     "vid_path": "Eval_video/NBA/93.mp4",
@@ -7581,8 +6940,7 @@
       "B": "One, LeBron James made a dunk",
       "C": "Four, two made shots and two misses",
       "D": "Three, one made shot and two misses"
-    },
-    "answer": "B"
+    }
   },
   "642": {
     "vid_path": "Eval_video/NBA/93.mp4",
@@ -7593,8 +6951,7 @@
       "B": "De'Aaron Fox",
       "C": "Unknown",
       "D": "Bam Adebayo"
-    },
-    "answer": "C"
+    }
   },
   "643": {
     "vid_path": "Eval_video/NBA/93.mp4",
@@ -7605,8 +6962,7 @@
       "B": "De'Aaron Fox",
       "C": "Jimmy Butler",
       "D": "No assist, individual play"
-    },
-    "answer": "D"
+    }
   },
   "644": {
     "vid_path": "Eval_video/NBA/94.mp4",
@@ -7617,8 +6973,7 @@
       "B": "2017 NBA Eastern Conference Finals G6",
       "C": "2018 NBA Western Conference Finals G4",
       "D": "2020 NBA All-Star Game"
-    },
-    "answer": "C"
+    }
   },
   "645": {
     "vid_path": "Eval_video/NBA/94.mp4",
@@ -7629,8 +6984,7 @@
       "B": "Toronto Raptors vs. Milwaukee Bucks",
       "C": "Houston Rockets vs. Golden State Warriors",
       "D": "Phoenix Suns vs. Brooklyn Nets"
-    },
-    "answer": "C"
+    }
   },
   "646": {
     "vid_path": "Eval_video/NBA/94.mp4",
@@ -7641,8 +6995,7 @@
       "B": "Unknown",
       "C": "Tied at 0-0",
       "D": "Golden State Warriors 20 - 15 Houston Rockets"
-    },
-    "answer": "B"
+    }
   },
   "647": {
     "vid_path": "Eval_video/NBA/94.mp4",
@@ -7653,8 +7006,7 @@
       "B": "Not mentioned",
       "C": "Both teams took turns",
       "D": "No"
-    },
-    "answer": "D"
+    }
   },
   "648": {
     "vid_path": "Eval_video/NBA/94.mp4",
@@ -7665,8 +7017,7 @@
       "B": "4 attempts, missed shots",
       "C": "1 attempt, made shot",
       "D": "2 attempts, missed shots"
-    },
-    "answer": "C"
+    }
   },
   "649": {
     "vid_path": "Eval_video/NBA/94.mp4",
@@ -7677,8 +7028,7 @@
       "B": "Green",
       "C": "Harden",
       "D": "Curry"
-    },
-    "answer": "B"
+    }
   },
   "650": {
     "vid_path": "Eval_video/NBA/94.mp4",
@@ -7689,8 +7039,7 @@
       "B": "Curry",
       "C": "No assist, individual play",
       "D": "Harden"
-    },
-    "answer": "C"
+    }
   },
   "651": {
     "vid_path": "Eval_video/NBA/95.mp4",
@@ -7701,8 +7050,7 @@
       "B": "NBA finals",
       "C": "NBA playoffs",
       "D": "NBA regular season"
-    },
-    "answer": "D"
+    }
   },
   "652": {
     "vid_path": "Eval_video/NBA/95.mp4",
@@ -7713,8 +7061,7 @@
       "B": "Philadelphia 76ers vs Golden State Warriors",
       "C": "Philadelphia 76ers vs Los Angeles Clippers",
       "D": "Philadelphia 76ers vs Miami Heat"
-    },
-    "answer": "C"
+    }
   },
   "653": {
     "vid_path": "Eval_video/NBA/95.mp4",
@@ -7725,8 +7072,7 @@
       "B": "21-58, 76ers leading",
       "C": "21-58, 76ers trailing",
       "D": "58-21, 76ers trailing"
-    },
-    "answer": "C"
+    }
   },
   "654": {
     "vid_path": "Eval_video/NBA/95.mp4",
@@ -7735,8 +7081,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "B"
+    }
   },
   "655": {
     "vid_path": "Eval_video/NBA/95.mp4",
@@ -7747,8 +7092,7 @@
       "B": "Two attempts, both scored by Griffin",
       "C": "Three attempts, all scored by Griffin",
       "D": "Three attempts, two scored by Griffin"
-    },
-    "answer": "B"
+    }
   },
   "656": {
     "vid_path": "Eval_video/NBA/95.mp4",
@@ -7759,8 +7103,7 @@
       "B": "None",
       "C": "Simmons",
       "D": "Embiid"
-    },
-    "answer": "B"
+    }
   },
   "657": {
     "vid_path": "Eval_video/NBA/95.mp4",
@@ -7771,8 +7114,7 @@
       "B": "Paul",
       "C": "Harris",
       "D": "Simmons"
-    },
-    "answer": "B"
+    }
   },
   "658": {
     "vid_path": "Eval_video/NBA/96.mp4",
@@ -7783,8 +7125,7 @@
       "B": "NBA playoffs",
       "C": "NBA All-Star Game",
       "D": "NBA Finals"
-    },
-    "answer": "A"
+    }
   },
   "659": {
     "vid_path": "Eval_video/NBA/96.mp4",
@@ -7795,8 +7136,7 @@
       "B": "Detroit Pistons vs. Memphis Grizzlies",
       "C": "Los Angeles Lakers vs. Boston Celtics",
       "D": "San Antonio Spurs vs. Miami Heat"
-    },
-    "answer": "B"
+    }
   },
   "660": {
     "vid_path": "Eval_video/NBA/96.mp4",
@@ -7807,8 +7147,7 @@
       "B": "Memphis Grizzlies leading",
       "C": "Tie score",
       "D": "Unknown"
-    },
-    "answer": "D"
+    }
   },
   "661": {
     "vid_path": "Eval_video/NBA/96.mp4",
@@ -7817,8 +7156,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "662": {
     "vid_path": "Eval_video/NBA/96.mp4",
@@ -7829,8 +7167,7 @@
       "B": "2 attempts, one successful and one unsuccessful",
       "C": "2 attempts, both successful",
       "D": "1 attempt, successful"
-    },
-    "answer": "D"
+    }
   },
   "663": {
     "vid_path": "Eval_video/NBA/96.mp4",
@@ -7841,8 +7178,7 @@
       "B": "Reggie Jackson",
       "C": "Derrick Rose",
       "D": "Andre Drummond"
-    },
-    "answer": "B"
+    }
   },
   "664": {
     "vid_path": "Eval_video/NBA/96.mp4",
@@ -7853,8 +7189,7 @@
       "B": "Reggie Jackson",
       "C": "No assist",
       "D": "Derrick Rose"
-    },
-    "answer": "C"
+    }
   },
   "665": {
     "vid_path": "Eval_video/NBA/97.mp4",
@@ -7865,8 +7200,7 @@
       "B": "Preseason",
       "C": "Playoffs",
       "D": "All-Star Game"
-    },
-    "answer": "A"
+    }
   },
   "666": {
     "vid_path": "Eval_video/NBA/97.mp4",
@@ -7877,8 +7211,7 @@
       "B": "Miami Heat vs San Antonio Spurs",
       "C": "Chicago Bulls vs Washington Wizards",
       "D": "Los Angeles Lakers vs Boston Celtics"
-    },
-    "answer": "C"
+    }
   },
   "667": {
     "vid_path": "Eval_video/NBA/97.mp4",
@@ -7889,8 +7222,7 @@
       "B": "70-64, Bulls leading",
       "C": "64-70, Wizards leading",
       "D": "66-60, Wizards leading"
-    },
-    "answer": "B"
+    }
   },
   "668": {
     "vid_path": "Eval_video/NBA/97.mp4",
@@ -7899,8 +7231,7 @@
     "choices": {
       "A": "No",
       "B": "Yes"
-    },
-    "answer": "A"
+    }
   },
   "669": {
     "vid_path": "Eval_video/NBA/97.mp4",
@@ -7911,8 +7242,7 @@
       "B": "None - Defensive play only",
       "C": "One - Wall made a layup",
       "D": "Three - One made and two missed shots"
-    },
-    "answer": "C"
+    }
   },
   "670": {
     "vid_path": "Eval_video/NBA/97.mp4",
@@ -7923,8 +7253,7 @@
       "B": "Mike Dunleavy",
       "C": "Kevin Durant",
       "D": "LeBron James"
-    },
-    "answer": "B"
+    }
   },
   "671": {
     "vid_path": "Eval_video/NBA/97.mp4",
@@ -7935,8 +7264,7 @@
       "B": "Kevin Durant",
       "C": "Mike Dunleavy",
       "D": "John Wall"
-    },
-    "answer": "A"
+    }
   },
   "672": {
     "vid_path": "Eval_video/NBA/98.mp4",
@@ -7947,8 +7275,7 @@
       "B": "2013 NBA Finals G6",
       "C": "2012 NBA Finals G5",
       "D": "2015 NBA Finals G4"
-    },
-    "answer": "B"
+    }
   },
   "673": {
     "vid_path": "Eval_video/NBA/98.mp4",
@@ -7959,8 +7286,7 @@
       "B": "Los Angeles Lakers vs. Boston Celtics",
       "C": "Chicago Bulls vs. New York Knicks",
       "D": "San Antonio Spurs vs. Miami Heat"
-    },
-    "answer": "D"
+    }
   },
   "674": {
     "vid_path": "Eval_video/NBA/98.mp4",
@@ -7971,8 +7297,7 @@
       "B": "100-103, Spurs trailing",
       "C": "103-100, Heat leading",
       "D": "100-103, Heat trailing"
-    },
-    "answer": "B"
+    }
   },
   "675": {
     "vid_path": "Eval_video/NBA/98.mp4",
@@ -7983,8 +7308,7 @@
       "B": "Not mentioned",
       "C": "Yes",
       "D": "Cannot determine"
-    },
-    "answer": "A"
+    }
   },
   "676": {
     "vid_path": "Eval_video/NBA/98.mp4",
@@ -7995,8 +7319,7 @@
       "B": "Two attempts, both successful",
       "C": "Cannot determine",
       "D": "One attempt, Danny Green's three-pointer blocked"
-    },
-    "answer": "D"
+    }
   },
   "677": {
     "vid_path": "Eval_video/NBA/98.mp4",
@@ -8007,8 +7330,7 @@
       "B": "Parker",
       "C": "Leonard",
       "D": "Duncan"
-    },
-    "answer": "A"
+    }
   },
   "678": {
     "vid_path": "Eval_video/NBA/98.mp4",
@@ -8019,8 +7341,7 @@
       "B": "Green",
       "C": "Ginobili",
       "D": "Parker"
-    },
-    "answer": "A"
+    }
   },
   "679": {
     "vid_path": "Eval_video/NBA/9.mp4",
@@ -8031,8 +7352,7 @@
       "B": "NBA regular season game",
       "C": "NBA finals game",
       "D": "NBA playoffs game"
-    },
-    "answer": "B"
+    }
   },
   "680": {
     "vid_path": "Eval_video/NBA/9.mp4",
@@ -8043,8 +7363,7 @@
       "B": "Houston Rockets vs San Antonio Spurs",
       "C": "Miami Heat vs Golden State Warriors",
       "D": "Los Angeles Lakers vs Boston Celtics"
-    },
-    "answer": "A"
+    }
   },
   "681": {
     "vid_path": "Eval_video/NBA/9.mp4",
@@ -8055,8 +7374,7 @@
       "B": "70-51, with the Thunder leading",
       "C": "51-70, with the Thunder leading",
       "D": "70-51, with the Clippers leading"
-    },
-    "answer": "D"
+    }
   },
   "682": {
     "vid_path": "Eval_video/NBA/9.mp4",
@@ -8067,8 +7385,7 @@
       "B": "Unknown",
       "C": "Yes",
       "D": "Not mentioned"
-    },
-    "answer": "A"
+    }
   },
   "683": {
     "vid_path": "Eval_video/NBA/9.mp4",
@@ -8079,8 +7396,7 @@
       "B": "Two attempts, both successful",
       "C": "Two attempts, one successful",
       "D": "One attempt, successful"
-    },
-    "answer": "D"
+    }
   },
   "684": {
     "vid_path": "Eval_video/NBA/9.mp4",
@@ -8091,8 +7407,7 @@
       "B": "Paul George",
       "C": "Westbrook",
       "D": "Adams"
-    },
-    "answer": "A"
+    }
   },
   "685": {
     "vid_path": "Eval_video/NBA/9.mp4",
@@ -8103,7 +7418,6 @@
       "B": "Blake Griffin",
       "C": "Chris Paul",
       "D": "Russell Westbrook"
-    },
-    "answer": "C"
+    }
   }
 }
