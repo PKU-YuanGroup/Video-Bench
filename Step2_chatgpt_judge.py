@@ -13,7 +13,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_chat_files_folder", type=str, default="./Eval_results")
-parser.add_argument("--apikey", type=str, default="sk-eionFWpNThMNy4eeFdC25789F60a4cC2A66b2cxxx")
+parser.add_argument("--apikey", type=str, default="sk-xxxxxxxxxxxxxxxxx")
 parser.add_argument("--chatgpt_judge_output_folder", type=str, default="./ChatGPT_Judge")
 args = parser.parse_args()
 
