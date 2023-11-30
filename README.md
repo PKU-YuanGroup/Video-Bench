@@ -201,7 +201,7 @@ python Step3_compute_scores_T5.py  --T5_judge_files_folder  ./T5_Judge \
 --score_output_file  ./Final_score_table_T5.csv
 ```
 
-After you get the `Final_score_table.csv` file, you can submit this file to [Video-Bench leaderboard](https://huggingface.co/spaces/LanguageBind/Video-Bench) compare with other models!
+After you get the `Final_score_table.csv` file, you can submit this file to [Video-Bench leaderboard](https://huggingface.co/spaces/LanguageBind/Video-Bench) to compare with other models!
 
 ## 🐳  License
 Video-Bench is released under Apache License Version 2.0.
