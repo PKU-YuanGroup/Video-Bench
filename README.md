@@ -75,7 +75,7 @@ The video data can easily be downloaded from [Huggingface](https://huggingface.c
 ### 🏗️ Evaluate your own model
 The code below is just a generalized framework for dataset evaluation, you will need to refine the model loading part according to your own model. Once the code execution is complete, you will find some JSON files named `./Chat_results/{dataset_name}.json`. 
 
-**Step1: Chat with your own model to obtain conversation results.**
+#### Step1: Chat with your own model to obtain conversation results.
 ```python
 import argparse
 import os
@@ -173,13 +173,14 @@ for dataset_name in dataset_name_list:
 
 ```
 
-After obtaining the `./Chat_results/{dataset_name}.json` files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows(`you need to add your own openai apikey`):
+After obtaining the `./Chat_results/{dataset_name}.json` files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows:
 
-**Step2: Evaluate your model's answer and obtain final scores across 13 datasets**
-#### ChatGPT Evaluation
+#### Step2: Evaluate your model's answer and obtain final scores across 13 datasets.
+
+**ChatGPT Evaluation** 
 ```python 
 python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
---apikey sk-xxxxxxxxxxxxxxxxxxxxxxx \
+--apikey sk-xxxxxxxxxxxxxxxxxxxxxxx \  # --apikey need to specify your openai apikey account
 --chatgpt_judge_output_folder  ./ChatGPT_Judge
 ```
 
@@ -188,7 +189,7 @@ python Step3_compute_scores.py  --chatgpt_judge_output_folder ./ChatGPT_Judge \
 --score_output_file ./Final_score_table_ChatGPT.csv
 ```
 
-#### T5 Evaluation
+**T5 Evaluation**
 ```python
 python Step2_T5_judge.py  --model_chat_files_folder  ./Chat_results \
 --T5_judge_output_folder  ./T5_Judge  \
