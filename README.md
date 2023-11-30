@@ -185,7 +185,7 @@ python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
 ```
 
 ```python
-python Step3_compute_scores.py  --chatgpt_judge_files_folder ./ChatGPT_Judge \
+python Step3_merge_into_one_json.py  --chatgpt_judge_files_folder ./ChatGPT_Judge \
 --merge_file  ./Video_Bench_Input.json
 ```
 <!--
