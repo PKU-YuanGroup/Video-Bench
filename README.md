@@ -26,7 +26,7 @@
 
 
 
-<details open><summary>💡 I also have other video-language projects that may interest you ✨. </summary><p>
+<details close><summary>💡 I also have other video-language projects that may interest you ✨. </summary><p>
 
 
 > [**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**](https://arxiv.org/abs/2310.01852) <br>
