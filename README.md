@@ -173,13 +173,13 @@ for dataset_name in dataset_name_list:
 
 ```
 
-After obtaining the `./Chat_results/{dataset_name}.json` files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows:
+After obtaining the `./Chat_results/{dataset_name}.json` files, you can utilize ChatGPT or T5 model as experts to assess the correctness of the model's output answer. The specific code is as follows(`you need to add your own openai apikey`):
 
 **Step2: Evaluate your model's answer and obtain final scores across 13 datasets**
 #### ChatGPT Evaluation
 ```python 
 python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
---apikey sk-eionFWpNThMNy4eeFdC25789F60a4cC2A66b2cxxxxxxx \
+--apikey sk-xxxxxxxxxxxxxxxxxxxxxxx \
 --chatgpt_judge_output_folder  ./ChatGPT_Judge
 ```
 
