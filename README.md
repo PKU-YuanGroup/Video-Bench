@@ -180,7 +180,7 @@ After obtaining the `./Chat_results/{dataset_name}.json` files, you can utilize 
 **ChatGPT Evaluation** 
 ```python 
 python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
---apikey sk-xxxxxxxxxxxxxxxxxxxxxxx \  # --apikey need to specify your openai apikey account
+--apikey sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx \  # --apikey need to specify your openai apikey account
 --chatgpt_judge_output_folder  ./ChatGPT_Judge
 ```
 
