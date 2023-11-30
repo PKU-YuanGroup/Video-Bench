@@ -185,9 +185,10 @@ python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
 ```
 
 ```python
-python Step3_compute_scores.py  --chatgpt_judge_output_folder ./ChatGPT_Judge \
---score_output_file ./Final_score_table_ChatGPT.csv
+python Step3_compute_scores.py  --chatgpt_judge_files_folder ./ChatGPT_Judge \
+--merge_file  ./Video_Bench_Input.json
 ```
+<!--
 
 **T5 Evaluation**
 ```python
@@ -200,6 +201,8 @@ python Step2_T5_judge.py  --model_chat_files_folder  ./Chat_results \
 python Step3_compute_scores_T5.py  --T5_judge_files_folder  ./T5_Judge \
 --score_output_file  ./Final_score_table_T5.csv
 ```
+
+-->
 
 After you get the `Final_score_table.csv` file, you can submit this file to [Video-Bench leaderboard](https://huggingface.co/spaces/LanguageBind/Video-Bench) to compare with other models!
 
