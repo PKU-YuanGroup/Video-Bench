@@ -205,3 +205,9 @@ After you get the `Final_score_table.csv` file, you can submit this file to [Vid
 
 ## 🐳  License
 Video-Bench is released under Apache License Version 2.0.
+
+## 🤝 Contributors
+
+<a href="https://github.com/PKU-YuanGroup/Video-Bench/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/Video-Bench" />
+</a>
