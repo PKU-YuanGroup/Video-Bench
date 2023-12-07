@@ -176,6 +176,7 @@ After obtaining the `./Chat_results/{dataset_name}.json` files, you can utilize 
 #### Step2: Evaluate your model's answer and obtain final scores across 13 datasets.
 
 **ChatGPT Evaluation** 
+Note that since chatgpt may answer some formatting errors, you need to run below `Step2_chatgpt_judge.py` multiple times to ensure that each question is validated by chatgpt!
 ```python 
 python Step2_chatgpt_judge.py  --model_chat_files_folder ./Chat_results  \
 --apikey sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx \  # --apikey need to specify your openai apikey account
