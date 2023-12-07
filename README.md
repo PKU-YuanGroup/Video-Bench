@@ -159,10 +159,9 @@ for dataset_name in dataset_name_list:
             eval_dict[q_id] = {
                 'video_id': video_id,
                 'question': question,
-                'output_sequence': output,
-                'correct': answer_
+                'output_sequence': output
             }  
-            print(f'q_id:{q_id}, output:{output}, correct answer:{answer_}!\n')
+            print(f'q_id:{q_id}, output:{output}!\n')
         except Exception as e:
             traceback.print_exc()  
     # eval results
