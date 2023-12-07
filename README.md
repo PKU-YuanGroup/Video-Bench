@@ -126,7 +126,6 @@ for dataset_name in dataset_name_list:
         try:   
             video_id = item['video_id']
             question = item['question'] 
-            answer_ = item['answer']
             if len(item['choices']) == 6:
                 question += f"Choices: A.{item['choices']['A']} B.{item['choices']['B']} C.{item['choices']['C']} D.{item['choices']['D']} E.{item['choices']['E']} F.{item['choices']['F']} \n Among the six options A, B, C, D, E, F above, the one closest to the correct answer is:"
                 candidates = ['A', 'B', 'C', 'D', 'E', 'F']
