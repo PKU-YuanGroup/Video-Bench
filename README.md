@@ -45,6 +45,7 @@
 
 
 ## 📰 News
+**[2023.12.31]** We have updated the performance of the **Sphinx-V2** model on the Video Bench LeaderBoard, significantly surpassing other VLLMs!
 **[2023.11.27]** Video-Bench is released! Data and evaluation code is available now.
 
 ## 📣 Leaderboard
